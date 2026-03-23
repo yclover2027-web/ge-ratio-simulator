@@ -1,0 +1,17 @@
+# GitHubに送らなくていいファイルのリスト
+
+# ライブラリ（みんなが持っている道具箱）
+node_modules/
+
+# OSが自動で作る一時的なファイル
+.DS_Store
+Thumbs.db
+
+# ログファイル
+*.log
+
+# 今回のプロジェクト特有の一時ファイル
+*.tmp
+debug_out.json
+head.tmp
+headers.json

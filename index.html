@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ジェネリック医薬品 使用率シミュレーター</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <!-- SheetJS for Excel Parsing -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+</head>
+<body>
+    <div class="app-container">
+        <header class="header">
+            <h1>ジェネリック医薬品 使用率シミュレーター</h1>
+            <p>使用薬剤一覧（CSV）を読み込んで、使用量を変更した時の割合をシミュレーションします。</p>
+        </header>
+
+        <section class="upload-section card">
+            <h2>1. CSVファイルの読み込み</h2>
+            <div class="file-upload-wrapper">
+                <input type="file" id="csvFileInput" accept=".csv" class="file-input">
+                <label for="csvFileInput" class="file-label">
+                    <span class="icon">📁</span>
+                    <span>クリックしてCSVを選ぶか、ここにドロップ</span>
+                </label>
+            </div>
+            <p id="fileNameDisplay" class="file-name-display"></p>
+        </section>
+
+        <section class="upload-section card" style="margin-top: -1rem;">
+            <h2>🛠 (任意) 後発区分の最新マスターデータで更新</h2>
+            <p style="font-size:0.85rem; color:var(--text-secondary); margin-bottom: 1rem;">
+               厚生局などの最新エクセルデータ（tp*.xlsx等）を読み込むと、現在の医薬品リストの区分を自動で最新情報に上書きします。<br>※先に上の「1. CSVファイルの読み込み」を行ってから実行してください。
+            </p>
+            <div class="file-upload-wrapper" style="height: 80px; border-color: rgba(139, 92, 246, 0.5); background: rgba(139, 92, 246, 0.05);">
+                <input type="file" id="masterFileInput" accept=".xlsx,.xls,.csv" class="file-input">
+                <label for="masterFileInput" class="file-label" style="color: #a78bfa; flex-direction: row; gap: 0.5rem; pointer-events: none;">
+                    <span class="icon" style="font-size: 1.5rem; margin:0;">📊</span>
+                    <span>最新データ（Excel等）を選んで上書き！</span>
+                </label>
+            </div>
+            <p id="masterFileNameDisplay" class="file-name-display"></p>
+        </section>
+
+        <section id="dashboard" class="dashboard-section card hidden">
+            <h2>2. シミュレーション結果</h2>
+            <div class="dashboard-grid">
+                <div class="stat-box">
+                    <span class="stat-title">現在の使用率</span>
+                    <span class="stat-value" id="currentRate">0.0%</span>
+                </div>
+                <div class="stat-box highlight">
+                    <span class="stat-title">シミュレーション使用率</span>
+                    <span class="stat-value" id="simulatedRate">0.0%</span>
+                    <span class="stat-diff" id="rateDiff"></span>
+                </div>
+            </div>
+            <div class="progress-bar-container">
+                <div class="progress-track">
+                    <div class="progress-fill" id="progressFill" style="width: 0%"></div>
+                    <div class="progress-marker" id="progressMarker" style="left: 0%"></div>
+                </div>
+                <div class="progress-labels">
+                    <span>0%</span>
+                    <span>100%</span>
+                </div>
+            </div>
+        </section>
+
+        <section id="drugListSection" class="drug-list-section card hidden">
+            <h2>3. 薬剤ごとの使用量シミュレーション</h2>
+            <p class="section-desc">シミュレーション使用量の数値を変更すると、上のグラフに即座に反映されます。</p>
+            
+            <div class="table-controls">
+                <input type="text" id="searchInput" placeholder="お薬の名前で検索..." class="search-input" inputmode="kana">
+                <select id="filterSelect" class="filter-select">
+                    <option value="all">すべて表示</option>
+                    <option value="generic">後発品のみ</option>
+                    <option value="original">後発品のある先発品のみ</option>
+                </select>
+            </div>
+
+            <div class="table-container">
+                <table class="drug-table">
+                    <thead>
+                        <tr>
+                            <th>医薬品名</th>
+                            <th>区分</th>
+                            <th id="sortAmountHeader" class="sortable" title="クリックで並び替え">現在の使用量 <span class="sort-icon"></span></th>
+                            <th>単位</th>
+                            <th>シミュレーション使用量</th>
+                            <th>シミュレーション操作</th>
+                        </tr>
+                    </thead>
+                    <tbody id="drugTableBody">
+                        <!-- ここにデータ行が追加されます -->
+                    </tbody>
+                </table>
+            </div>
+        </section>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

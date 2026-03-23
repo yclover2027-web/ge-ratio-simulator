@@ -1,0 +1,1107 @@
+薬局名,クローバー薬局　本店
+集計期間開始日,2025/12/01
+集計期間終了日,2026/02/28
+集計開始時刻,
+集計終了時刻,
+時刻通し集計,0
+出力順,医薬品名(昇順)
+検索キー,
+医療情報,
+No,ID,処方薬種別,剤型,医薬品名,単位,麻薬,毒薬,ハイリスク,後発,使用回数,使用量,薬価,使用金額,レセコード,YJコード,後発区分,向精神薬,覚せい剤,劇薬,抗がん剤,制吐剤,RMP,選定療養
+1,1250,0,外用,１０％サリチル酸ワセリン軟膏東豊,g,False,False,False,True,38,"1,200.0",4.31,5172,662650001,2652701M2021,3:後発品,False,False,False,False,False,False,False
+2,261,0,内用,アリナミンＦ糖衣錠２５ｍｇ,錠,False,False,False,False,3,397.0,6.1,2422,613120001,3122007F2039,　:準先発品,False,False,False,False,False,False,True
+3,156,0,内用,２ｍｇセルシン錠,錠,False,False,False,False,1,44.5,6.2,276,611170005,1124017F2135,　:準先発品,True,False,False,False,False,False,True
+4,2100,0,外用,５％サリチル酸ワセリン軟膏東豊,g,False,False,False,True,100,"3,200.0",4.2,13440,662650002,2652701M1025,3:後発品,False,False,False,False,False,False,False
+5,689,0,外用,ＡＺ点眼液０．０２％　５ｍＬ,瓶,False,False,False,True,4,7.0,91.6,641,620008979,1319703Q2124,3:後発品,False,False,False,False,False,False,False
+6,2120,0,内用,ＥＳポリタミン配合顆粒,g,False,False,False,False,3,204.0,25.2,5141,620747801,3253002D1030,基:基礎的医薬品,False,False,False,False,False,False,False
+7,763,0,内用,Ｍ・Ｍ配合散,g,False,False,False,False,15,"2,491.9",6.5,16197,620469401,2339181B1034,1:先発品(後発なし),False,False,False,False,False,False,False
+8,2116,0,外用,ＭＳ温シップ「タイホウ」,g,False,False,False,True,9,"4,000.0",0.89,3560,660407074,2649843S1039,3:後発品,False,False,False,False,False,False,False
+9,359,0,内用,ＭＳコンチン錠１０ｍｇ,錠,True,False,False,False,4,140.0,245.6,34384,618110023,8114004G1027,基:基礎的医薬品,False,False,True,False,False,False,False
+10,843,0,内用,ＳＧ配合顆粒,g,False,False,False,False,9,402.0,7.5,3015,621558101,1149116D1033,1:先発品(後発なし),False,False,False,False,False,False,False
+11,776,0,外用,ＳＰトローチ０．２５ｍｇ「明治」,錠,False,False,False,True,48,"1,060.0",5.9,6254,620509501,2399710E1046,3:後発品,False,False,False,False,False,False,False
+12,107,0,内用,アーチスト錠１．２５ｍｇ,錠,False,False,False,False,24,"1,488.0",10.4,15475,610462039,2149032F3024,☆:先発品(同額以下),False,False,False,False,False,False,False
+13,215,0,内用,アーチスト錠１０ｍｇ,錠,False,False,True,False,12,749.0,16.6,12433,612140702,2149032F1021,2:先発品(後発あり),False,False,False,False,False,False,True
+14,108,0,内用,アーチスト錠２．５ｍｇ,錠,False,False,True,False,3,147.0,10.9,1602,610462040,2149032F4020,2:先発品(後発あり),False,False,False,False,False,False,True
+15,1274,0,内用,アイピーディカプセル１００　１００ｍｇ,カプセル,False,False,False,False,4,777.0,14.3,11111,610407002,4490016M2020,☆:先発品(同額以下),False,False,False,False,False,False,False
+16,2118,0,注射,アイモビーグ皮下注７０ｍｇペン　１ｍＬ,キット,False,False,False,False,2,3.0,"38,980.0",116940,629915601,1190406G1029,1:先発品(後発なし),False,False,False,False,False,True,False
+17,2070,0,注射,アウィクリ注　フレックスタッチ　総量３００単位,キット,False,False,True,False,1,1.0,"2,081.0",2081,629932001,2492424G1022,1:先発品(後発なし),False,False,True,False,False,True,False
+18,1247,0,外用,亜鉛華（１０％）単軟膏「ヨシダ」,g,False,False,False,True,1,25.0,2.67,67,662640570,2649710M2092,3:後発品,False,False,False,False,False,False,False
+19,1635,0,外用,亜鉛華軟膏「ヨシダ」,g,False,False,False,False,42,"1,260.0",3.3,4158,662640808,2649704M1180,1:先発品(後発なし),False,False,False,False,False,False,False
+20,533,0,外用,アクアチムクリーム１％,g,False,False,False,False,8,110.0,20.7,2277,620005245,2639700N1032,2:先発品(後発あり),False,False,False,False,False,False,True
+21,372,0,外用,アクアチム軟膏１％,g,False,False,False,False,27,540.0,20.7,11178,620000348,2639700M1029,2:先発品(後発あり),False,False,False,False,False,False,False
+22,43,0,内用,アクトス錠１５　１５ｍｇ,錠,False,False,True,False,1,48.0,23.8,1142,610432040,3969007F1024,2:先発品(後発あり),False,False,False,False,False,False,True
+23,1039,0,内用,アコファイド錠１００ｍｇ,錠,False,False,False,False,21,"3,574.0",30.7,109722,622244101,2399015F1020,1:先発品(後発なし),False,False,False,False,False,False,False
+24,895,0,内用,アサコール錠４００ｍｇ,錠,False,False,False,False,3,"1,587.0",32.1,50943,621969902,2399009F3028,2:先発品(後発あり),False,False,False,False,False,False,True
+25,490,0,内用,アザニン錠５０ｍｇ,錠,False,False,True,False,1,56.0,73.4,4110,620004279,3999005F1040,1:先発品(後発なし),False,False,False,False,False,False,False
+26,1302,0,内用,アザルフィジンＥＮ錠５００ｍｇ,錠,False,False,False,False,1,28.0,25.9,725,620004897,6219001H1056,2:先発品(後発あり),False,False,False,False,False,False,True
+27,2135,0,内用,アジスロマイシン錠２５０ｍｇ「トーワ」,錠,False,False,False,True,1,6.0,60.7,364,622281501,6149004F1168,3:後発品,False,False,False,False,False,False,False
+28,563,0,内用,アシノン錠１５０ｍｇ,錠,False,False,False,False,5,424.0,14.9,6318,620005870,2325005F1031,2:先発品(後発あり),False,False,False,False,False,False,False
+29,562,0,内用,アシノン錠７５ｍｇ,錠,False,False,False,False,2,252.0,10.0,2520,620005869,2325005F2020,☆:先発品(同額以下),False,False,False,False,False,False,False
+30,2088,0,内用,アジルサルタンＯＤ錠１０ｍｇ「日新」,錠,False,False,False,True,28,"1,957.0",18.2,35617,622942701,2149048F4064,3:後発品,False,False,False,False,False,False,False
+31,2074,0,内用,アジルサルタンＯＤ錠２０ｍｇ「日新」,錠,False,False,False,True,174,"12,234.0",27.4,335212,622942801,2149048F5060,3:後発品,False,False,False,False,False,False,False
+32,1960,0,内用,アジルサルタン錠２０ｍｇ「サンド」,錠,False,False,False,True,3,49.0,27.4,1343,622942501,2149048F1057,3:後発品,False,False,False,False,False,False,False
+33,1066,0,内用,アジルバ錠１０ｍｇ,錠,False,False,False,False,3,196.0,50.1,9820,622341401,2149048F3025,2:先発品(後発あり),False,False,False,False,False,False,True
+34,1007,0,内用,アジルバ錠２０ｍｇ,錠,False,False,False,False,17,"1,108.0",76.3,84540,622143501,2149048F1022,2:先発品(後発あり),False,False,False,False,False,False,True
+35,1304,0,内用,アジレクト錠１ｍｇ,錠,False,False,False,False,3,196.0,945.0,185220,622624401,1169017F2021,1:先発品(後発なし),False,False,True,False,False,True,False
+36,1215,0,外用,アズノールうがい液４％,mL,False,False,False,True,12,105.0,24.3,2552,660463002,2260700F1021,3:後発品,False,False,False,False,False,False,False
+37,428,0,外用,アズノール軟膏０．０３３％,g,False,False,False,False,290,"9,345.0",8.03,75040,620002619,2649716M1042,基:基礎的医薬品,False,False,False,False,False,False,False
+38,266,0,内用,アスパラーＣＡ錠２００,錠,False,False,False,False,3,"1,218.0",5.9,7186,613210001,3214001F1020,1:先発品(後発なし),False,False,False,False,False,False,False
+39,523,0,内用,アスパラカリウム錠３００ｍｇ,錠,False,False,False,False,9,976.0,6.1,5954,620004902,3229005F1080,1:先発品(後発なし),False,False,False,False,False,False,False
+40,194,0,内用,アスペノンカプセル　２０ｍｇ,カプセル,False,False,True,False,9,410.0,30.1,12341,612120233,2129004M2022,2:先発品(後発あり),False,False,True,False,False,False,True
+41,414,0,内用,アスベリン散１０％,g,False,False,False,False,20,58.9,17.4,1025,620002500,2249003B1037,基:基礎的医薬品,False,False,False,False,False,False,False
+42,435,0,内用,アスベリン錠１０　１０ｍｇ,錠,False,False,False,False,3,56.0,13.1,734,620003073,2249003F1039,基:基礎的医薬品,False,False,False,False,False,False,False
+43,415,0,内用,アスベリンシロップ０．５％,mL,False,False,False,False,6,150.5,2.55,384,620002502,2249003Q1048,基:基礎的医薬品,False,False,False,False,False,False,False
+44,1568,0,内用,アセトアミノフェン錠２００ｍｇ「マルイシ」,錠,False,False,False,True,300,"6,545.0",6.1,39925,622556801,1141007F1195,3:後発品,False,False,False,False,False,False,False
+45,1570,0,内用,アセトアミノフェン錠３００ｍｇ「マルイシ」,錠,False,False,False,True,79,"4,193.0",6.1,25577,622556901,1141007F2051,3:後発品,False,False,False,False,False,False,False
+46,1569,0,内用,アセトアミノフェン錠５００ｍｇ「マルイシ」,錠,False,False,False,True,61,870.0,11.3,9831,622649001,1141007F3031,3:後発品,False,False,True,False,False,False,False
+47,1032,0,内用,アゼルニジピン錠１６ｍｇ「日医工」,錠,False,False,False,True,10,637.0,11.4,7262,622230501,2149043F2131,3:後発品,False,False,False,False,False,False,False
+48,1974,0,内用,アゼルニジピン錠８ｍｇ「日医工」,錠,False,False,False,True,5,433.0,10.4,4503,622230401,2149043F1135,3:後発品,False,False,False,False,False,False,False
+49,1919,0,内用,アゾセミド錠３０ｍｇ「ＤＳＥＰ」,錠,False,False,False,True,24,"1,752.0",10.4,18221,622879701,2139008F2052,3:後発品,False,False,False,False,False,False,False
+50,23,0,内用,アダラートＣＲ錠１０ｍｇ,錠,False,False,False,False,2,273.0,7.2,1966,610421320,2171014G3022,2:先発品(後発あり),False,False,True,False,False,False,False
+51,24,0,内用,アダラートＣＲ錠２０ｍｇ,錠,False,False,False,False,24,"1,606.0",13.2,21199,610421321,2171014G4029,2:先発品(後発あり),False,False,True,False,False,False,True
+52,25,0,内用,アダラートＣＲ錠４０ｍｇ,錠,False,False,False,False,12,725.0,23.8,17255,610421322,2171014G5025,2:先発品(後発あり),False,False,True,False,False,False,True
+53,732,0,内用,アテノロール錠２５ｍｇ「トーワ」,錠,False,False,True,True,19,"2,032.0",6.1,12395,620254406,2123011F1325,3:後発品,False,False,False,False,False,False,False
+54,460,0,内用,アデホスコーワ顆粒１０％,g,False,False,False,False,7,915.0,15.5,14183,620003503,3992001D1059,1:先発品(後発なし),False,False,False,False,False,False,False
+55,9,0,内用,アテレック錠１０　１０ｍｇ,錠,False,False,False,False,1,56.0,23.7,1327,610407148,2149037F2039,2:先発品(後発あり),False,False,False,False,False,False,True
+56,864,0,外用,アドエア１００ディスカス６０吸入用　６０ブリスター,キット,False,False,False,False,3,4.0,"3,111.1",12444,621829501,2290800G4031,1:先発品(後発なし),False,False,False,False,False,False,False
+57,865,0,外用,アドエア２５０ディスカス６０吸入用　６０ブリスター,キット,False,False,False,False,8,15.0,"3,625.3",54380,621829601,2290800G5038,1:先発品(後発なし),False,False,False,False,False,False,False
+58,416,0,内用,アドナ錠３０ｍｇ,錠,False,False,False,False,7,180.0,7.7,1386,620002506,3321002F2366,　:準先発品,False,False,False,False,False,False,False
+59,581,0,外用,アドフィードパップ４０ｍｇ　１０ｃｍ×１４ｃｍ,枚,False,False,False,False,5,217.0,17.6,3819,620006366,2649732S1130,2:先発品(後発あり),False,False,False,False,False,False,False
+60,1680,0,内用,アトルバスタチン錠１０ｍｇ「トーワ」,錠,False,False,False,True,223,"15,860.0",13.9,220454,622110501,2189015F2070,3:後発品,False,False,False,False,False,False,False
+61,1679,0,内用,アトルバスタチン錠５ｍｇ「トーワ」,錠,False,False,False,True,185,"10,690.0",10.4,111176,622110401,2189015F1074,3:後発品,False,False,False,False,False,False,False
+62,1448,0,内用,アナストロゾール錠１ｍｇ「ＮＫ」,錠,False,False,True,True,12,"1,075.0",58.5,62888,622208701,4291010F1090,3:後発品,False,False,True,True,False,False,False
+63,1162,0,外用,アニュイティ１００μｇエリプタ３０吸入用,キット,False,False,False,False,1,2.0,"1,301.2",2602,622552201,2290705G1029,1:先発品(後発なし),False,False,False,False,False,False,False
+64,1106,0,外用,アノーロエリプタ３０吸入用,キット,False,False,False,False,1,3.0,"5,445.1",16335,622426401,2259806G2028,1:先発品(後発なし),False,False,False,False,False,False,False
+65,1608,0,外用,アポハイドローション２０％,g,False,False,False,False,3,30.24,543.7,16441,622930601,1259702Q1026,1:先発品(後発なし),False,False,False,False,False,False,False
+66,912,0,内用,アマリール０．５ｍｇ錠,錠,False,False,True,False,1,98.0,10.4,1019,621982701,3961008F3023,2:先発品(後発あり),False,False,True,False,False,False,True
+67,46,0,内用,アマリール１ｍｇ錠,錠,False,False,True,False,5,483.0,10.4,5023,610443002,3961008F1020,☆:先発品(同額以下),False,False,True,False,False,False,False
+68,1907,0,内用,アマルエット配合錠２番「ニプロ」,錠,False,False,False,True,1,91.0,18.8,1711,622467901,2190102F1122,3:後発品,False,False,True,False,False,False,False
+69,1841,0,内用,アマルエット配合錠４番「ニプロ」,錠,False,False,False,True,3,205.0,20.4,4182,622468101,2190104F1121,3:後発品,False,False,True,False,False,False,False
+70,1952,0,内用,アマンタジン塩酸塩錠５０ｍｇ「杏林」,錠,False,False,False,True,1,168.0,6.1,1025,620117114,1161001F1140,3:後発品,False,False,False,False,False,False,False
+71,2040,0,内用,アミオダロン塩酸塩錠１００ｍｇ「サワイ」,錠,False,True,True,True,1,182.0,72.0,13104,620003885,2129010F1030,3:後発品,False,False,False,False,False,False,False
+72,1423,0,内用,アミティーザカプセル１２μｇ,カプセル,False,False,False,False,37,"4,182.0",48.2,201572,622653501,2359006M2021,1:先発品(後発なし),False,False,False,False,False,False,False
+73,1018,0,内用,アミティーザカプセル２４μｇ,カプセル,False,False,False,False,32,"2,023.0",96.9,196029,622182901,2359006M1025,1:先発品(後発なし),False,False,False,False,False,False,False
+74,805,0,内用,アミノレバンＥＮ配合散,g,False,False,False,False,1,"4,550.0",8.88,40404,620754701,3259108B1039,基:基礎的医薬品,False,False,False,False,False,False,False
+75,1619,0,内用,アムバロ配合錠「サンド」,錠,False,False,False,True,17,"1,112.0",15.2,16902,622460101,2149114F1188,3:後発品,False,False,True,False,False,False,False
+76,888,0,内用,アムロジピンＯＤ錠２．５ｍｇ「ＮＳ」,錠,False,False,False,True,1,56.0,10.4,582,621937301,2171022F3080,3:後発品,False,False,True,False,False,False,False
+77,1676,0,内用,アムロジピン錠２．５ｍｇ「杏林」,錠,False,False,False,True,420,"26,939.0",10.4,280166,621853103,2171022F1444,3:後発品,False,False,True,False,False,False,False
+78,1668,0,内用,アムロジピン錠５ｍｇ「杏林」,錠,False,False,False,True,954,"61,927.0",10.4,644041,621853203,2171022F2440,3:後発品,False,False,True,False,False,False,False
+79,482,0,内用,アムロジンＯＤ錠２．５ｍｇ,錠,False,False,False,False,4,287.0,11.3,3243,620003886,2171022F3021,2:先発品(後発あり),False,False,True,False,False,False,True
+80,1823,0,内用,アメジニウムメチル硫酸塩錠１０ｍｇ「トーワ」,錠,False,False,False,True,1,6.0,6.4,38,621265001,2190022F1245,3:後発品,False,False,False,False,False,False,False
+81,1166,0,内用,アメナリーフ錠２００ｍｇ,錠,False,False,False,False,25,310.0,"1,148.7",356097,622573501,6250046F1028,1:先発品(後発なし),False,False,False,False,False,False,False
+82,1369,0,内用,アモキシシリンカプセル２５０ｍｇ「トーワ」,カプセル,False,False,False,False,12,203.0,10.4,2111,620009117,6131001M2335,:,False,False,False,False,False,False,False
+83,1632,0,内用,アモキシシリン細粒２０％「ＴＣＫ」　２００ｍｇ,g,False,False,False,True,2,52.5,11.8,620,621072701,6131001C2119,3:後発品,False,False,False,False,False,False,False
+84,686,0,外用,アラセナ－Ａ軟膏３％,g,False,False,False,False,28,165.0,132.8,21912,620008961,6250700M1189,2:先発品(後発あり),False,False,False,False,False,False,True
+85,1672,0,外用,アラミスト点鼻液２７．５μｇ１２０噴霧用　５ｍｇ１０ｇ,キット,False,False,False,False,1,2.0,"1,807.0",3614,622680401,1329711Q2028,2:先発品(後発あり),False,False,False,False,False,False,True
+86,386,0,内用,アリセプトＤ錠５ｍｇ,錠,False,False,False,False,2,175.0,76.1,13318,620001923,1190012F4025,2:先発品(後発あり),False,False,True,False,False,False,True
+87,598,0,内用,アルサルミン内用液１０％,mL,False,False,False,False,1,910.0,1.9,1729,620006834,2329008S1105,2:先発品(後発あり),False,False,False,False,False,False,True
+88,524,0,内用,アルダクトンＡ錠２５ｍｇ,錠,False,False,False,False,2,147.0,13.1,1926,620004915,2133001F1522,　:準先発品,False,False,False,False,False,False,True
+89,213,0,内用,アルドメット錠　２５０ｍｇ,錠,False,False,False,False,2,453.0,16.8,7610,612140620,2145001F2040,1:先発品(後発なし),False,False,False,False,False,False,False
+90,1865,0,内用,アルファカルシドールカプセル０．２５μｇ「トーワ」,カプセル,False,False,False,True,6,314.0,6.1,1915,620675910,3112001M1305,3:後発品,False,False,True,False,False,False,False
+91,1838,0,内用,アルファカルシドールカプセル０．５μｇ「トーワ」,カプセル,False,False,False,True,18,"1,075.0",6.1,6558,620676313,3112001M2360,3:後発品,False,False,True,False,False,False,False
+92,1839,0,内用,アルファカルシドールカプセル１μｇ「トーワ」,カプセル,False,False,False,True,14,796.0,6.1,4856,620676815,3112001M3359,3:後発品,False,False,True,False,False,False,False
+93,258,0,内用,アルファロールカプセル０．５μｇ,カプセル,False,False,False,False,5,284.0,6.9,1960,613110002,3112001M2069,2:先発品(後発あり),False,False,True,False,False,False,True
+94,2005,0,内用,アルプラゾラム錠０．４ｍｇ「アメル」,錠,False,False,False,True,32,"1,274.0",5.9,7517,620049801,1124023F1126,3:後発品,True,False,False,False,False,False,False
+95,756,0,内用,アルロイドＧ内用液５％,mL,False,False,False,False,2,"1,320.0",1.04,1373,620456601,2329116S1094,:,False,False,False,False,False,False,False
+96,499,0,内用,アレグラ錠３０ｍｇ,錠,False,False,False,False,6,182.0,20.4,3713,620004412,4490023F2020,2:先発品(後発あり),False,False,False,False,False,False,False
+97,56,0,内用,アレグラ錠６０ｍｇ,錠,False,False,False,False,46,"5,786.0",26.1,151015,610443040,4490023F1024,2:先発品(後発あり),False,False,False,False,False,False,False
+98,1378,0,外用,アレジオンＬＸ点眼液０．１％,mL,False,False,False,False,46,420.0,493.0,207060,622695901,1319762Q2024,2:先発品(後発あり),False,False,False,False,False,False,False
+99,1835,0,外用,アレジオン眼瞼クリーム０．５％,g,False,False,False,False,6,16.0,"1,686.7",26987,622965501,1319762N1021,1:先発品(後発なし),False,False,False,False,False,False,False
+100,282,0,内用,アレジオン錠　１０ｍｇ,錠,False,False,False,False,3,84.0,17.1,1436,614490029,4490014F1025,2:先発品(後発あり),False,False,False,False,False,False,True
+101,283,0,内用,アレジオン錠　２０ｍｇ,錠,False,False,False,False,12,520.0,22.3,11596,614490030,4490014F2021,2:先発品(後発あり),False,False,False,False,False,False,True
+102,944,0,内用,アレロックＯＤ錠５　５ｍｇ,錠,False,False,False,False,9,591.0,20.7,12234,622014201,4490025F4022,2:先発品(後発あり),False,False,False,False,False,False,True
+103,988,0,内用,アレロック顆粒０．５％,g,False,False,False,False,1,120.0,28.4,3408,622090301,4490025D1022,2:先発品(後発あり),False,False,False,False,False,False,True
+104,1848,0,内用,アレンドロン酸錠３５ｍｇ「ＴＣＫ」,錠,False,False,False,True,29,271.0,99.2,26883,622222201,3999018F2125,3:後発品,False,False,True,False,False,False,False
+105,770,0,内用,アローゼン顆粒／０．５,g,False,False,False,False,18,563.5,6.7,3775,620491801,2359102X1072,:,False,False,False,False,False,False,False
+106,733,0,内用,アロチノロール塩酸塩錠１０ｍｇ「ＤＳＰ」,錠,False,False,True,False,16,845.0,13.2,11154,620255302,2123014F2201,2:先発品(後発あり),False,False,False,False,False,False,True
+107,2128,0,内用,アロチノロール塩酸塩錠１０ｍｇ「ＪＧ」,錠,False,False,True,True,1,154.0,7.6,1170,620255417,2123014F2210,3:後発品,False,False,False,False,False,False,False
+108,1473,0,内用,アロチノロール塩酸塩錠５ｍｇ「ＤＳＰ」,錠,False,False,True,False,3,228.0,8.8,2006,620255102,2123014F1094,2:先発品(後発あり),False,False,False,False,False,False,False
+109,1698,0,内用,アロプリノール錠１００ｍｇ「ニプロ」,錠,False,False,False,True,90,"8,612.0",10.4,89565,620856403,3943001F1721,3:後発品,False,False,False,False,False,False,False
+110,1690,0,内用,アロプリノール錠５０ｍｇ「ニプロ」,錠,False,False,False,True,19,"1,026.0",10.4,10670,622018603,3943001F2370,★:後発品(同額以上),False,False,False,False,False,False,False
+111,105,0,内用,アロマシン錠２５ｍｇ,錠,False,False,True,False,1,90.0,149.9,13491,610462026,4291012F1022,2:先発品(後発あり),False,False,False,True,False,False,True
+112,200,0,内用,アンカロン錠　１００ｍｇ,錠,False,True,True,False,5,184.0,73.6,13542,612120358,2129010F1022,2:先発品(後発あり),False,False,False,False,False,False,True
+113,687,0,外用,アンテベート軟膏０．０５％,g,False,False,False,False,58,"3,720.0",18.9,70308,620008965,2646730M1059,基:基礎的医薬品,False,False,True,False,False,False,False
+114,1216,0,外用,アンテベートローション０．０５％,g,False,False,False,False,107,"5,330.0",18.9,100737,660463005,2646730Q1026,基:基礎的医薬品,False,False,True,False,False,False,False
+115,429,0,外用,アンヒバ坐剤小児用１００ｍｇ,個,False,False,False,False,5,23.0,20.9,481,620002621,1141700J2130,☆:先発品(同額以下),False,False,False,False,False,False,False
+116,430,0,外用,アンヒバ坐剤小児用２００ｍｇ,個,False,False,False,False,3,25.0,20.9,523,620002622,1141700J3110,☆:先発品(同額以下),False,False,False,False,False,False,False
+117,273,0,内用,アンプラーグ錠１００ｍｇ,錠,False,False,False,False,1,84.0,52.6,4418,613390027,3399006F2022,2:先発品(後発あり),False,False,False,False,False,False,True
+118,2044,0,内用,アンブロキソール塩酸塩ＤＳ小児用１．５％「タカタ」,g,False,False,False,True,30,345.15,19.4,6696,620390701,2239001R1129,3:後発品,False,False,False,False,False,False,False
+119,1988,0,内用,アンブロキソール塩酸塩錠１５ｍｇ「日新」,錠,False,False,False,True,105,"3,592.0",5.9,21193,620389404,2239001F1742,3:後発品,False,False,False,False,False,False,False
+120,1883,0,内用,アンブロキソール塩酸塩シロップ小児用０．３％「トーワ」,mL,False,False,False,True,19,542.5,5.4,2930,621268301,2239001Q1182,3:後発品,False,False,False,False,False,False,False
+121,1395,0,内用,イグザレルトＯＤ錠１０ｍｇ,錠,False,False,True,False,27,"1,607.0",331.6,532881,622829001,3339003F3027,2:先発品(後発あり),False,False,False,False,False,False,False
+122,1371,0,内用,イグザレルトＯＤ錠１５ｍｇ,錠,False,False,True,False,29,"1,995.0",442.3,882389,622829101,3339003F4023,2:先発品(後発あり),False,False,False,False,False,False,False
+123,1997,0,内用,イコサペント酸エチルカプセル３００ｍｇ「トーワ」,カプセル,False,False,False,True,4,322.0,12.5,4025,620817001,3399004M1409,3:後発品,False,False,False,False,False,False,False
+124,649,0,内用,イコサペント酸エチル粒状カプセル９００ｍｇ「ＴＣ」,包,False,False,False,True,23,"3,203.0",41.2,131964,620007897,3399004M4041,3:後発品,False,False,False,False,False,False,False
+125,648,0,内用,イコサペント酸エチル粒状カプセル６００ｍｇ「ＴＣ」,包,False,False,False,True,13,"1,820.0",29.4,53508,620007893,3399004M3045,3:後発品,False,False,False,False,False,False,False
+126,688,0,外用,イソジンガーグル液７％,mL,False,False,False,False,3,90.0,3.1,279,620008969,2260701F1271,基:基礎的医薬品,False,False,False,False,False,False,False
+127,834,0,内用,一硝酸イソソルビド錠２０ｍｇ「トーワ」,錠,False,False,False,True,15,"1,409.0",7.9,11131,621471401,2171023F2135,3:後発品,False,False,False,False,False,False,False
+128,2054,0,内用,イトプリド塩酸塩錠５０ｍｇ「サワイ」,錠,False,False,False,True,7,"1,173.0",6.1,7155,620007904,2399008F1110,3:後発品,False,False,False,False,False,False,False
+129,941,0,外用,イナビル吸入粉末剤２０ｍｇ,キット,False,False,False,False,90,177.0,"2,098.1",371364,622012101,6250703G1022,1:先発品(後発なし),False,False,False,False,False,False,False
+130,2051,0,内用,イノソリッド配合経腸用半固形剤,g,False,False,False,False,9,"195,000.0",1.44,280800,622952701,3259121T1021,1:先発品(後発なし),False,False,False,False,False,False,False
+131,1195,0,内用,イノラス配合経腸用液／187.5ml　187.5mL/包,mL,False,False,False,False,3,"47,250.0",1.41,66623,622676401,3259120S1021,1:先発品(後発なし),False,False,False,False,False,False,False
+132,1493,0,内用,イフェンプロジル酒石酸塩錠２０ｍｇ「ツルハラ」,錠,False,False,False,True,6,614.0,6.1,3745,620352409,2190005F2221,3:後発品,False,False,False,False,False,False,False
+133,75,0,内用,イミグラン錠５０,錠,False,False,False,False,2,20.0,283.8,5676,610451012,2160003F1022,2:先発品(後発あり),False,False,True,False,False,False,True
+134,1793,0,内用,イミダフェナシンＯＤ錠０．１ｍｇ「杏林」,錠,False,False,False,True,3,406.0,16.3,6618,622697901,2590013F2074,3:後発品,False,False,False,False,False,False,False
+135,1934,0,内用,イミダプリル塩酸塩錠５ｍｇ「トーワ」,錠,False,False,False,True,3,230.0,15.1,3473,620008462,2144008F2150,3:後発品,False,False,False,False,False,False,False
+136,1329,0,内用,イリボーＯＤ錠２．５μｇ,錠,False,False,False,False,7,424.0,37.3,15815,622267601,2399014F3029,1:先発品(後発なし),False,False,True,False,False,False,False
+137,663,0,内用,イリボー錠５μｇ,錠,False,False,False,False,12,462.0,61.0,28182,620008436,2399014F2022,1:先発品(後発なし),False,False,True,False,False,False,False
+138,1811,0,内用,イルアミクス配合錠ＨＤ「オーハラ」,錠,False,False,False,True,6,245.0,20.0,4900,622632101,2149118F2085,3:後発品,False,False,True,False,False,False,False
+139,1819,0,内用,イルアミクス配合錠ＬＤ「オーハラ」,錠,False,False,False,True,8,510.0,17.3,8823,622632001,2149118F1089,3:後発品,False,False,True,False,False,False,False
+140,1182,0,内用,イルベサルタン錠１００ｍｇ「オーハラ」,錠,False,False,False,True,83,"4,710.0",17.3,81483,622594201,2149046F2070,3:後発品,False,False,False,False,False,False,False
+141,1964,0,内用,イルベサルタン錠５０ｍｇ「オーハラ」,錠,False,False,False,True,6,402.5,10.4,4186,622594101,2149046F1074,3:後発品,False,False,False,False,False,False,False
+142,595,0,内用,イルベタン錠１００ｍｇ,錠,False,False,False,False,1,91.0,40.4,3676,620006797,2149046F2038,2:先発品(後発あり),False,False,False,False,False,False,True
+143,594,0,内用,イルベタン錠５０ｍｇ,錠,False,False,False,False,2,140.0,21.9,3066,620006796,2149046F1031,2:先発品(後発あり),False,False,False,False,False,False,True
+144,566,0,内用,インクレミンシロップ５％,mL,False,False,False,True,1,250.0,6.4,1600,620005924,3222012Q1030,3:後発品,False,False,False,False,False,False,False
+145,749,0,外用,インタール吸入液１％　２ｍＬ,管,False,False,False,False,4,150.0,25.9,3885,620410401,2259701G1063,☆:先発品(同額以下),False,False,False,False,False,False,False
+146,1152,0,内用,インチュニブ錠１ｍｇ,錠,False,False,True,False,1,120.0,398.8,47856,622546701,1179057G1021,1:先発品(後発なし),False,False,True,False,False,True,False
+147,628,0,外用,インテバンクリーム１％,g,False,False,False,False,2,600.0,3.3,1980,620007600,2649719N1106,1:先発品(後発なし),False,False,False,False,False,False,False
+148,190,0,内用,インデラル錠１０ｍｇ,錠,False,False,True,False,4,798.0,10.4,8299,612120016,2123008F1048,　:準先発品,False,False,True,False,False,False,True
+149,567,0,内用,ウブレチド錠５ｍｇ,錠,False,True,False,False,4,243.0,12.9,3135,620005925,1231014F1054,1:先発品(後発なし),False,False,False,False,False,False,False
+150,391,0,内用,ウルソ錠１００ｍｇ,錠,False,False,False,False,1,567.0,10.4,5897,620001970,2362001F2149,:,False,False,False,False,False,False,False
+151,390,0,内用,ウルソ錠５０ｍｇ,錠,False,False,False,False,2,546.0,10.4,5678,620001969,2362001F1088,:,False,False,False,False,False,False,False
+152,771,0,内用,ウルソデオキシコール酸錠１００ｍｇ「トーワ」,錠,False,False,False,True,51,"12,631.0",10.4,131362,620494902,2362001F2220,3:後発品,False,False,False,False,False,False,False
+153,1943,0,内用,ウルソデオキシコール酸錠５０ｍｇ「トーワ」,錠,False,False,False,True,16,"3,370.0",10.4,35048,621579503,2362001F1118,3:後発品,False,False,False,False,False,False,False
+154,432,0,内用,ウロカルン錠２２５ｍｇ,錠,False,False,False,False,2,114.0,6.1,695,620002653,2590001F1024,1:先発品(後発なし),False,False,False,False,False,False,False
+155,287,0,内用,ツムラ温清飲エキス顆粒（医療用）,g,False,False,False,False,1,262.5,15.2,3990,615101401,5200006D1042,1:先発品(後発なし),False,False,False,False,False,False,False
+156,702,0,内用,エカード配合錠ＨＤ,錠,False,False,False,False,1,70.0,46.1,3227,620009090,2149111F2024,2:先発品(後発あり),False,False,False,False,False,False,True
+157,1460,0,内用,エキセメスタン錠２５ｍｇ「ＮＫ」,錠,False,False,True,True,1,30.0,115.1,3453,622115801,4291012F1030,3:後発品,False,False,False,True,False,False,False
+158,909,0,内用,エクア錠５０ｍｇ,錠,False,False,True,False,86,"9,706.0",42.7,414446,621980701,3969011F1020,2:先発品(後発あり),False,False,False,False,False,False,False
+159,392,0,内用,エクセグラン散２０％,g,False,False,True,False,1,117.0,29.9,3498,620001972,1139005B1048,2:先発品(後発あり),False,False,True,False,False,False,False
+160,1360,0,内用,エクフィナ錠５０ｍｇ,錠,False,False,False,False,13,"1,400.0",867.9,1215060,622696101,1169018F1020,1:先発品(後発なし),False,False,True,False,False,True,False
+161,2097,0,内用,エクメット配合錠ＨＤ,錠,False,False,True,False,5,434.0,46.5,20181,622450401,3969104F2025,2:先発品(後発あり),False,False,True,False,False,False,False
+162,1673,0,外用,エクラープラスター２０μｇ／ｃｍ２　１．５ｍｇ７．５×１０ｃｍ,,False,False,False,False,4,21.0,37.7,792,620007608,2646729S2035,1:先発品(後発なし),False,False,False,False,False,False,False
+163,1596,0,外用,エクロックゲル５％,g,False,False,False,False,1,80.0,241.3,19304,622835201,1259700Q1027,1:先発品(後発なし),False,False,False,False,False,False,False
+164,1917,0,内用,エスシタロプラム錠１０ｍｇ「トーワ」,錠,False,False,True,True,4,118.0,51.9,6124,622923301,1179054F1073,3:後発品,False,False,True,False,False,False,False
+165,1852,0,内用,エスゾピクロン錠１ｍｇ「トーワ」,錠,False,False,False,True,15,890.0,7.7,6853,622851201,1129010F1125,3:後発品,False,False,False,False,False,False,False
+166,1956,0,内用,エスタゾラム錠２ｍｇ「アメル」,錠,False,False,False,True,1,30.0,6.6,198,610453023,1124001F2037,3:後発品,True,False,False,False,False,False,False
+167,1567,0,外用,エストラーナテープ０．７２ｍｇ　９ｃｍ２,枚,False,False,False,False,2,73.0,74.5,5439,620006392,2473700S2076,1:先発品(後発なし),False,False,False,False,False,False,False
+168,2038,0,内用,エゼアト配合錠ＨＤ「ＪＧ」,錠,False,False,False,True,1,98.0,56.9,5576,622944101,2189101F2034,3:後発品,False,False,False,False,False,False,False
+169,2039,0,内用,エゼアト配合錠ＬＤ「ＪＧ」,錠,False,False,False,True,4,329.0,57.8,19016,622944001,2189101F1038,3:後発品,False,False,False,False,False,False,False
+170,1730,0,内用,エゼチミブ錠１０ｍｇ「日新」,錠,False,False,False,True,107,"6,951.5",19.3,134164,622797701,2189018F1183,3:後発品,False,False,False,False,False,False,False
+171,1780,0,内用,エソメプラゾールカプセル１０ｍｇ「トーワ」,カプセル,False,False,False,True,69,"3,966.0",21.7,86062,622923801,2329029M1086,3:後発品,False,False,False,False,False,False,False
+172,1650,0,内用,エソメプラゾールカプセル２０ｍｇ「杏林」,カプセル,False,False,False,True,1,28.0,37.8,1058,622922601,2329029M2058,3:後発品,False,False,False,False,False,False,False
+173,1781,0,内用,エソメプラゾールカプセル２０ｍｇ「トーワ」,カプセル,False,False,False,True,123,"5,459.0",37.8,206350,622923901,2329029M2082,3:後発品,False,False,False,False,False,False,False
+174,2022,0,内用,エチゾラム錠０．２５ｍｇ「アメル」,錠,False,False,True,True,8,393.0,6.1,2397,622418501,1179025F3118,3:後発品,True,False,False,False,False,False,False
+175,1461,0,内用,エチゾラム錠０．５ｍｇ「日新」,錠,False,False,True,True,115,"6,395.0",6.6,42207,620149402,1179025F1310,3:後発品,True,False,False,False,False,False,False
+176,2006,0,内用,エチゾラム錠１ｍｇ「トーワ」,錠,False,False,True,True,20,681.0,10.1,6878,620150306,1179025F2260,3:後発品,True,False,False,False,False,False,False
+177,1322,0,内用,エディロールカプセル０．５μｇ,カプセル,False,False,False,False,1,53.0,28.4,1505,622042502,3112006M1022,2:先発品(後発あり),False,False,True,False,False,False,True
+178,955,0,内用,エディロールカプセル０．７５μｇ,カプセル,False,False,False,False,5,249.0,41.0,10209,622042602,3112006M2029,2:先発品(後発あり),False,False,True,False,False,False,True
+179,1830,0,内用,エトドラク錠２００ｍｇ「ＳＷ」,錠,False,False,False,True,2,48.0,11.5,552,621466202,1149032F2171,3:後発品,False,False,True,False,False,False,False
+180,1709,0,内用,エナラプリルマレイン酸塩錠２．５ｍｇ「オーハラ」,錠,False,False,False,True,28,"1,803.5",10.4,18756,621642802,2144002F1261,3:後発品,False,False,False,False,False,False,False
+181,820,0,内用,エナラプリルマレイン酸塩錠５ｍｇ「オーハラ」,錠,False,False,False,True,76,"6,248.0",10.4,64979,621245002,2144002F2314,3:後発品,False,False,False,False,False,False,False
+182,1504,0,内用,エネーボ配合経腸用液,mL,False,False,False,False,1,"8,750.0",0.83,7263,622307001,3259119S1029,1:先発品(後発なし),False,False,False,False,False,False,False
+183,1794,0,内用,エバスチンＯＤ錠１０ｍｇ「ＮＰ」,錠,False,False,False,True,4,285.0,21.9,6242,620007957,4490019F4051,3:後発品,False,False,False,False,False,False,False
+184,433,0,内用,エバステルＯＤ錠１０ｍｇ,錠,False,False,False,False,1,90.0,43.4,3906,620002660,4490019F4027,2:先発品(後発あり),False,False,False,False,False,False,True
+185,2124,0,内用,エパデールＥＭカプセル２ｇ,包,False,False,False,False,3,308.0,112.6,34681,622920201,2189021M1028,1:先発品(後発なし),False,False,False,False,False,True,False
+186,387,0,内用,エパデールＳ９００　９００ｍｇ,包,False,False,False,False,1,112.0,46.2,5174,620001924,3399004M4025,2:先発品(後発あり),False,False,False,False,False,False,True
+187,1717,0,外用,エピデュオゲル,g,False,False,False,False,11,375.0,98.9,37088,622510101,2699805Q1020,1:先発品(後発なし),False,False,True,False,False,False,False
+188,1922,0,内用,エピナスチン塩酸塩錠１０ｍｇ「日新」,錠,False,False,False,True,2,28.0,10.6,297,621745501,4490014F1297,3:後発品,False,False,False,False,False,False,False
+189,835,0,内用,エピナスチン塩酸塩錠２０ｍｇ「トーワ」,錠,False,False,False,True,69,"3,453.0",18.2,62845,621486701,4490014F2293,3:後発品,False,False,False,False,False,False,False
+190,1064,0,内用,エフィエント錠３．７５ｍｇ,錠,False,False,True,False,57,"2,609.0",248.8,649119,622336601,3399009F1020,1:先発品(後発なし),False,False,False,False,False,True,False
+191,551,0,内用,エフピーＯＤ錠２．５　２．５ｍｇ,錠,False,False,False,False,1,56.0,260.9,14610,620005364,1169010F2020,2:先発品(後発あり),False,True,True,False,False,False,False
+192,568,0,内用,エブランチルカプセル１５ｍｇ,カプセル,False,False,False,False,1,140.0,15.8,2212,620005935,2149020N1031,基:基礎的医薬品,False,False,False,False,False,False,False
+193,2031,0,内用,エプレレノン錠２５ｍｇ「杏林」,錠,False,False,False,True,31,"1,735.0",10.9,18912,622938701,2149045F1037,3:後発品,False,False,False,False,False,False,False
+194,2030,0,内用,エプレレノン錠５０ｍｇ「杏林」,錠,False,False,False,True,7,358.0,21.2,7590,622938801,2149045F2033,3:後発品,False,False,False,False,False,False,False
+195,1949,0,内用,エペリゾン塩酸塩錠５０ｍｇ「日新」,錠,False,False,False,True,16,"1,669.0",6.1,10181,620193028,1249009F1430,3:後発品,False,False,False,False,False,False,False
+196,1028,0,内用,エリキュース錠２．５ｍｇ,錠,False,False,True,False,24,"2,634.0",114.7,302120,622224901,3339004F1029,1:先発品(後発なし),False,False,False,False,False,False,False
+197,1029,0,内用,エリキュース錠５ｍｇ,錠,False,False,True,False,16,"2,212.0",207.0,457884,622225001,3339004F2025,1:先発品(後発なし),False,False,False,False,False,False,False
+198,2016,0,外用,エリザス点鼻粉末２００μｇ２８噴霧用　５．６ｍｇ,瓶,False,False,False,False,1,4.0,799.8,3199,622151601,1329712R1021,1:先発品(後発なし),False,False,False,False,False,False,False
+199,1926,0,内用,エルサメットＳ配合錠,錠,False,False,False,True,1,270.0,6.1,1647,620569501,2590100X2062,3:後発品,False,False,False,False,False,False,False
+200,1903,0,内用,エルデカルシトールカプセル０．５μｇ「トーワ」,カプセル,False,False,False,True,1,84.0,13.1,1100,622874201,3112006M1057,3:後発品,False,False,True,False,False,False,False
+201,1857,0,内用,エルデカルシトールカプセル０．７５μｇ「トーワ」,カプセル,False,False,False,True,24,"1,694.0",19.3,32694,622874301,3112006M2053,3:後発品,False,False,True,False,False,False,False
+202,1742,0,内用,エレトリプタン錠２０ｍｇ「日新」,錠,False,False,False,True,5,55.0,148.5,8168,622658401,2160005F1099,3:後発品,False,False,True,False,False,False,False
+203,1505,0,外用,20％塩化アルミニウム液/100ｍｌ,mL,False,False,False,False,1,100.0,18.0,1800,50000007,0000000G0001,:,False,False,False,False,False,False,False
+204,1494,0,外用,２０％塩化アルミニウム液/200ｍｌ,mL,False,False,False,False,2,400.0,13.0,5200,50000005,0000000G0002,:,False,False,False,False,False,False,False
+205,5,0,内用,エンシュア・Ｈ,mL,False,False,False,False,16,"110,000.0",0.91,100100,610407025,3259114S1026,1:先発品(後発なし),False,False,False,False,False,False,False
+206,268,0,内用,エンシュア・リキッド,mL,False,False,False,False,1,"45,000.0",0.71,31950,613250027,3259109S1025,基:基礎的医薬品,False,False,False,False,False,False,False
+207,1912,0,内用,エンテカビル錠０．５ｍｇ「トーワ」,錠,False,False,False,True,7,333.0,71.5,23810,622542901,6250029F1121,3:後発品,False,False,True,False,False,False,False
+208,1999,0,内用,エンペラシン配合錠,錠,False,False,True,True,18,452.0,6.1,2757,620530801,2459100F1120,3:後発品,False,False,False,False,False,False,False
+209,1352,0,内用,エンレスト錠１００ｍｇ,錠,False,False,False,False,41,"3,550.0",106.9,379495,622821001,2190041F2023,1:先発品(後発なし),False,False,False,False,False,True,False
+210,2064,0,内用,エンレスト錠２００ｍｇ,錠,False,False,False,False,58,"4,874.0",188.2,917287,622821101,2190041F3020,1:先発品(後発なし),False,False,False,False,False,True,False
+211,1351,0,内用,エンレスト錠５０ｍｇ,錠,False,False,False,False,30,"2,549.0",60.9,155234,622820901,2190041F1027,1:先発品(後発なし),False,False,False,False,False,True,False
+212,275,0,内用,オイグルコン錠１．２５ｍｇ,錠,False,False,True,False,1,63.0,6.1,384,613960002,3961003F1028,2:先発品(後発あり),False,False,True,False,False,False,True
+213,508,0,外用,オイラックスクリーム１０％,g,False,False,False,False,7,"1,000.0",5.81,5810,620004795,2649722N1027,1:先発品(後発なし),False,False,False,False,False,False,False
+214,288,0,内用,ツムラ黄連解毒湯エキス顆粒（医療用）,g,False,False,False,False,4,727.5,14.1,10258,615101403,5200011D1078,1:先発品(後発なし),False,False,False,False,False,False,False
+215,814,0,内用,オーグメンチン配合錠２５０ＲＳ　３７５ｍｇ,錠,False,False,False,False,5,123.0,45.7,5621,621116301,6139100F2044,基:基礎的医薬品,False,False,False,False,False,False,False
+216,537,0,外用,オキサロールローション２５μｇ／ｇ　０．００２５％/１本/10g,g,False,False,False,False,1,100.0,50.2,5020,620005258,2691702Q1020,2:先発品(後発あり),False,False,True,False,False,False,False
+217,1170,0,内用,オキシコンチンＴＲ錠１０ｍｇ,錠,True,False,False,False,4,204.0,233.6,47654,622576401,8119002G6026,基:基礎的医薬品,False,False,True,False,False,False,False
+218,1169,0,内用,オキシコンチンＴＲ錠５ｍｇ,錠,True,False,False,False,4,204.0,121.4,24766,622576301,8119002G5020,基:基礎的医薬品,False,False,True,False,False,False,False
+219,945,0,内用,オキノーム散２．５ｍｇ,包,True,False,False,False,3,80.0,53.8,4304,622016901,8119002B2023,基:基礎的医薬品,False,False,True,False,False,False,False
+220,946,0,内用,オキノーム散５ｍｇ,包,True,False,False,False,3,70.0,111.2,7784,622017001,8119002B3020,基:基礎的医薬品,False,False,True,False,False,False,False
+221,1888,0,内用,オセルタミビルＤＳ３％「サワイ」,g,False,False,False,True,9,78.95,79.5,6277,622638901,6250021R1032,3:後発品,False,False,False,False,False,False,False
+222,1887,0,内用,オセルタミビル錠７５ｍｇ「トーワ」,錠,False,False,False,True,10,85.0,107.7,9155,622950101,6250021F1028,3:後発品,False,False,False,False,False,False,False
+223,289,0,内用,ツムラ乙字湯エキス顆粒（医療用）,g,False,False,False,False,11,"2,640.0",15.2,40128,615101405,5200012D1080,1:先発品(後発なし),False,False,False,False,False,False,False
+224,1142,0,内用,オテズラ錠３０ｍｇ,錠,False,False,False,False,2,230.0,989.6,227608,622534001,3999042F3028,1:先発品(後発なし),False,False,True,False,False,False,False
+225,440,0,内用,オノンドライシロップ１０％,g,False,False,False,False,10,370.0,34.3,12691,620003140,4490017R1033,2:先発品(後発あり),False,False,False,False,False,False,True
+226,133,0,内用,オプソ内服液１０ｍｇ　５ｍＬ,包,True,False,False,False,1,28.0,281.1,7871,610470011,8114005S2020,基:基礎的医薬品,False,False,True,False,False,False,False
+227,132,0,内用,オプソ内服液５ｍｇ　２．５ｍＬ,包,True,False,False,False,4,75.0,263.3,19748,610470010,8114005S1024,基:基礎的医薬品,False,False,True,False,False,False,False
+228,1941,0,内用,オメガ－３脂肪酸エチル粒状カプセル２ｇ「ニプロ」,包,False,False,False,True,8,466.0,71.0,33086,622917901,2189019M1071,3:後発品,False,False,False,False,False,False,False
+229,66,0,内用,オメプラール錠１０　１０ｍｇ,錠,False,False,False,False,5,275.0,21.7,5968,610443070,2329022H2023,2:先発品(後発あり),False,False,False,False,False,False,False
+230,67,0,内用,オメプラール錠　２０ｍｇ,錠,False,False,False,False,12,621.0,33.6,20866,610443071,2329022H1043,2:先発品(後発あり),False,False,False,False,False,False,False
+231,393,0,内用,オメプラゾール錠２０ｍｇ「アメル」,錠,False,False,False,True,41,"2,565.0",20.7,53096,620001986,2329022H1086,3:後発品,False,False,False,False,False,False,False
+232,1844,0,内用,オランザピンＯＤ錠２．５ｍｇ「トーワ」,錠,False,False,True,True,7,100.0,8.2,820,622478601,1179044F6101,3:後発品,False,False,True,False,False,False,False
+233,1874,0,内用,オランザピン細粒１％「トーワ」,g,False,False,True,True,2,31.4,63.3,1988,622478801,1179044C1073,3:後発品,False,False,True,False,False,False,False
+234,1533,0,外用,オルベスコ２００μｇインヘラー５６吸入用　１１．２ｍｇ３．３ｇ,キット,False,False,False,False,1,1.0,"1,112.1",1112,620004890,2290702G3028,1:先発品(後発なし),False,False,False,False,False,False,False
+235,1638,0,内用,オルメサルタンＯＤ錠１０ｍｇ「トーワ」,錠,False,False,False,True,61,"3,565.0",10.4,37076,622580001,2149044F5089,3:後発品,False,False,False,False,False,False,False
+236,1615,0,内用,オルメサルタンＯＤ錠２０ｍｇ「トーワ」,錠,False,False,False,True,153,"10,037.0",18.0,180666,622580101,2149044F6085,3:後発品,False,False,False,False,False,False,False
+237,1927,0,内用,オルメサルタンＯＤ錠５ｍｇ「トーワ」,錠,False,False,False,True,14,475.0,10.4,4940,622580301,2149044F8070,3:後発品,False,False,False,False,False,False,False
+238,1120,0,内用,オルメテックＯＤ錠１０ｍｇ,錠,False,False,False,False,4,264.0,17.5,4620,622452801,2149044F5020,2:先発品(後発あり),False,False,False,False,False,False,True
+239,1121,0,内用,オルメテックＯＤ錠２０ｍｇ,錠,False,False,False,False,5,315.0,31.9,10049,622452901,2149044F6026,2:先発品(後発あり),False,False,False,False,False,False,True
+240,2029,0,内用,オロパタジン塩酸塩顆粒０．５％「トーワ」,g,False,False,False,True,15,602.0,20.7,12461,622371701,4490025D1030,3:後発品,False,False,False,False,False,False,False
+241,1707,0,内用,オロパタジン塩酸塩錠５ｍｇ「トーワ」,錠,False,False,False,True,86,"8,056.0",10.4,83782,622195201,4490025F2232,3:後発品,False,False,False,False,False,False,False
+242,1920,0,外用,オロパタジン点眼液０．１％「杏林」,mL,False,False,False,True,31,340.0,34.9,11866,622880801,1319752Q1040,3:後発品,False,False,False,False,False,False,False
+243,1522,0,内用,オンジェンティス錠２５ｍｇ,錠,False,False,False,False,1,49.0,946.6,46383,622821701,1169019F1024,1:先発品(後発なし),False,False,True,False,False,True,False
+244,247,0,内用,ガスコン錠４０ｍｇ,錠,False,False,False,False,27,"2,431.0",5.9,14343,612370013,2318001F1063,1:先発品(後発なし),False,False,False,False,False,False,False
+245,71,0,内用,ガスターＤ錠１０ｍｇ,錠,False,False,False,False,5,462.0,12.1,5590,610444041,2325003F3035,2:先発品(後発あり),False,False,False,False,False,False,True
+246,72,0,内用,ガスターＤ錠２０ｍｇ,錠,False,False,False,False,21,"2,069.0",13.4,27725,610444042,2325003F4031,2:先発品(後発あり),False,False,False,False,False,False,True
+247,463,0,内用,ガストローム顆粒６６．７％,g,False,False,False,False,1,90.0,11.1,999,620003533,2329026D1031,1:先発品(後発なし),False,False,False,False,False,False,False
+248,27,0,内用,ガスモチン錠５ｍｇ,錠,False,False,False,False,10,"1,071.0",10.4,11138,610421335,2399010F2024,☆:先発品(同額以下),False,False,False,False,False,False,False
+249,552,0,内用,ガスロンＮ・ＯＤ錠２ｍｇ,錠,False,False,False,False,22,"1,927.0",11.1,21390,620005368,2329020F3020,2:先発品(後発あり),False,False,False,False,False,False,False
+250,464,0,内用,カソデックス錠８０ｍｇ,錠,False,False,True,False,1,91.0,150.3,13677,620003534,4291009F1039,2:先発品(後発あり),False,False,True,True,False,False,False
+251,290,0,内用,ツムラ葛根湯エキス顆粒（医療用）,g,False,False,False,False,40,"7,485.0",13.4,100299,615101406,5200013D1123,1:先発品(後発なし),False,False,False,False,False,False,False
+252,291,0,内用,ツムラ葛根湯加川きゅう辛夷エキス顆粒（医療用）,g,False,False,False,False,1,225.0,10.1,2273,615101407,5200015D1084,1:先発品(後発なし),False,False,False,False,False,False,False
+253,1993,0,内用,カデチア配合錠ＨＤ「テバ」,錠,False,False,False,True,13,"1,009.0",23.8,24014,622495701,2149111F2040,3:後発品,False,False,False,False,False,False,False
+254,1969,0,内用,カデチア配合錠ＬＤ「テバ」,錠,False,False,False,True,4,343.0,12.9,4425,622495601,2149111F1044,3:後発品,False,False,False,False,False,False,False
+255,885,0,内用,カデュエット配合錠４番,錠,False,False,False,False,1,70.0,70.2,4914,621933001,2190104F1024,2:先発品(後発あり),False,False,True,False,False,False,True
+256,1303,0,内用,カナグル錠１００ｍｇ,錠,False,False,True,False,62,"3,596.0",139.3,500923,622360601,3969022F1029,1:先発品(後発なし),False,False,False,False,False,True,False
+257,6,0,内用,ガナトン錠５０ｍｇ,錠,False,False,False,False,2,363.0,9.2,3340,610407140,2399008F1020,2:先発品(後発あり),False,False,False,False,False,False,True
+258,1735,0,内用,カナリア配合錠,錠,False,False,True,False,2,140.0,208.5,29190,622573601,3969106F1028,1:先発品(後発なし),False,False,False,False,False,False,False
+259,39,0,内用,カバサール錠０．２５ｍｇ,錠,False,False,False,False,5,156.0,36.6,5710,610432023,1169011F1028,☆:先発品(同額以下),False,False,True,False,False,False,False
+260,293,0,内用,ツムラ加味逍遙散エキス顆粒（医療用）,g,False,False,False,False,3,922.5,15.9,14668,615101409,5200017D1083,1:先発品(後発なし),False,False,False,False,False,False,False
+261,1796,0,内用,カムシア配合錠ＨＤ「ニプロ」,錠,False,False,False,True,17,991.0,21.0,20811,622468801,2149116F2051,3:後発品,False,False,True,False,False,False,False
+262,1853,0,内用,カムシア配合錠ＬＤ「ニプロ」,錠,False,False,False,True,5,315.0,21.0,6615,622468901,2149116F1055,3:後発品,False,False,True,False,False,False,False
+263,1947,0,内用,カモスタットメシル酸塩錠１００ｍｇ「トーワ」,錠,False,False,False,True,7,"1,365.0",6.6,9009,620882211,3999003F1360,3:後発品,False,False,False,False,False,False,False
+264,1856,0,内用,ガランタミンＯＤ錠４ｍｇ「トーワ」,錠,False,False,False,True,1,154.0,18.4,2834,622789301,1190019F4094,3:後発品,False,False,True,False,False,False,False
+265,1821,0,内用,ガランタミンＯＤ錠８ｍｇ「トーワ」,錠,False,False,False,True,1,182.0,29.3,5333,622789401,1190019F5090,3:後発品,False,False,True,False,False,False,False
+266,1005,0,内用,カリメート経口液２０％　２５ｇ,包,False,False,False,False,27,"3,362.0",77.8,261564,622140001,2190016S1027,:,False,False,False,False,False,False,False
+267,447,0,内用,カリメート散,g,False,False,False,False,3,840.0,9.3,7812,620003443,2190016X1105,1:先発品(後発なし),False,False,False,False,False,False,False
+268,600,0,内用,カリメートドライシロップ９２．５９％,g,False,False,False,False,3,907.2,9.6,8709,620006881,2190016R2021,1:先発品(後発なし),False,False,False,False,False,False,False
+269,40,0,内用,カルタン錠５００　５００ｍｇ,錠,False,False,False,False,7,588.0,6.6,3881,610432025,2190024F1023,2:先発品(後発あり),False,False,False,False,False,False,True
+270,208,0,内用,カルデナリン錠１ｍｇ,錠,False,False,False,False,1,70.0,15.4,1078,612140517,2149026F2022,2:先発品(後発あり),False,False,False,False,False,False,True
+271,209,0,内用,カルデナリン錠２ｍｇ,錠,False,False,False,False,1,80.0,18.4,1472,612140518,2149026F3029,2:先発品(後発あり),False,False,False,False,False,False,True
+272,86,0,内用,カルナクリン錠　２５単位,錠,False,False,False,False,1,140.0,9.6,1344,610454023,2491001F5056,　:準先発品,False,False,False,False,False,False,True
+273,126,0,内用,カルブロック錠１６ｍｇ,錠,False,False,False,False,4,175.0,26.6,4655,610470002,2149043F2026,2:先発品(後発あり),False,False,False,False,False,False,True
+274,833,0,内用,カルベジロール錠１０ｍｇ「トーワ」,錠,False,False,True,True,134,"7,748.5",10.4,80584,621470201,2149032F1129,3:後発品,False,False,False,False,False,False,False
+275,1550,0,内用,カルベジロール錠２．５ｍｇ「トーワ」,錠,False,False,True,True,135,"8,884.0",10.4,92394,622479301,2149032F4098,3:後発品,False,False,False,False,False,False,False
+276,1880,0,内用,カルボシステインＤＳ５０％「トーワ」,g,False,False,False,True,52,688.21,12.5,8603,622412001,2233002R2061,3:後発品,False,False,False,False,False,False,False
+277,1629,0,内用,カルボシステイン錠２５０ｍｇ「トーワ」,錠,False,False,False,True,144,"9,838.0",10.4,102315,620383801,2233002F1298,★:後発品(同額以上),False,False,False,False,False,False,False
+278,1656,0,内用,カルボシステイン錠５００ｍｇ「トーワ」,錠,False,False,False,True,120,"3,324.0",10.4,34570,621752101,2233002F2111,★:後発品(同額以上),False,False,False,False,False,False,False
+279,1881,0,内用,カルボシステインシロップ小児用５％「ＮＩＧ」,mL,False,False,False,True,23,"1,280.5",2.7,3457,620384409,2233002Q1159,3:後発品,False,False,False,False,False,False,False
+280,394,0,内用,カロナール細粒２０％,g,False,False,False,False,11,74.5,12.2,909,620002022,1141007C1075,基:基礎的医薬品,False,False,True,False,False,False,False
+281,1518,0,内用,カロナール細粒５０％,g,False,False,False,False,1,63.0,13.6,857,620000032,1141007C2020,基:基礎的医薬品,False,False,True,False,False,False,False
+282,418,0,内用,カロナールシロップ２％,mL,False,False,False,True,4,125.0,4.9,613,620002510,1141007Q1048,3:後発品,False,False,True,False,False,False,False
+283,480,0,外用,含嗽用ハチアズレ顆粒　０．１％,g,False,False,False,False,1,18.0,6.3,113,620003851,2260702F1055,1:先発品(後発なし),False,False,False,False,False,False,False
+284,1085,0,内用,カンデサルタン錠２ｍｇ「オーハラ」,錠,False,False,False,True,26,"1,740.0",10.4,18096,622380501,2149040F1182,3:後発品,False,False,False,False,False,False,False
+285,1086,0,内用,カンデサルタン錠４ｍｇ「オーハラ」,錠,False,False,False,True,184,"12,046.0",10.4,125278,622380601,2149040F2189,3:後発品,False,False,False,False,False,False,False
+286,1087,0,内用,カンデサルタン錠８ｍｇ「オーハラ」,錠,False,False,False,True,75,"4,867.0",10.7,52077,622380701,2149040F3185,3:後発品,False,False,False,False,False,False,False
+287,294,0,内用,ツムラ桔梗湯エキス顆粒（医療用）,g,False,False,False,False,5,247.5,6.7,1658,615101411,5200020D1026,1:先発品(後発なし),False,False,False,False,False,False,False
+288,1009,0,内用,キックリンカプセル２５０ｍｇ,カプセル,False,False,False,False,80,"6,933.0",18.3,126874,622149201,2190032M1027,1:先発品(後発なし),False,False,False,False,False,False,False
+289,1113,0,内用,キプレスＯＤ錠１０ｍｇ,錠,False,False,False,False,6,147.0,59.8,8791,622442601,4490026F4027,2:先発品(後発あり),False,False,False,False,False,False,True
+290,1436,0,内用,ギャバロン錠５ｍｇ,錠,False,False,False,False,2,476.0,10.4,4950,611240049,1249006F1020,1:先発品(後発なし),False,False,True,False,False,False,False
+291,1239,0,外用,強力ポステリザン（軟膏）,g,False,False,False,False,41,"2,310.0",20.4,47124,662560019,2559808M1020,:,False,False,False,False,False,False,False
+292,1246,0,外用,強力レスタミンコーチゾンコーワ軟膏,g,False,False,False,False,15,410.0,11.9,4879,662640448,2649866M1022,1:先発品(後発なし),False,False,False,False,False,False,False
+293,1163,0,内用,グーフィス錠５ｍｇ,錠,False,False,False,False,121,"5,389.0",80.2,432198,622564801,2359008F1025,1:先発品(後発なし),False,False,False,False,False,False,False
+294,2129,0,内用,クエチアピン錠２５ｍｇ「日新」,錠,False,False,True,True,2,145.25,10.4,1511,622197501,1179042F1178,3:後発品,False,False,True,False,False,False,False
+295,1951,0,内用,クエンメット配合錠,錠,False,False,False,True,5,"1,018.0",6.1,6210,621629402,3949101F1120,3:後発品,False,False,False,False,False,False,False
+296,1376,0,内用,クラシエ小青竜湯エキス錠,錠,False,False,False,False,1,252.0,9.2,2318,620005406,5200075F1052,1:先発品(後発なし),False,False,False,False,False,False,False
+297,1374,0,内用,クラシエ半夏厚朴湯エキス錠,錠,False,False,False,False,1,720.0,8.6,6192,620005414,5200122F1067,1:先発品(後発なし),False,False,False,False,False,False,False
+298,355,0,内用,クラリス錠　２００ｍｇ,錠,False,False,False,False,27,559.0,24.9,13919,616140105,6149003F2038,:,False,False,False,False,False,False,False
+299,106,0,内用,クラリチン錠１０ｍｇ,錠,False,False,False,False,1,70.0,31.7,2219,610462028,4490027F1022,2:先発品(後発あり),False,False,False,False,False,False,True
+300,388,0,内用,クラリチンレディタブ錠１０ｍｇ,錠,False,False,False,False,4,137.0,31.7,4343,620001925,4490027F2029,2:先発品(後発あり),False,False,False,False,False,False,True
+301,172,0,内用,グランダキシン錠　５０ｍｇ,錠,False,False,False,False,3,252.0,8.2,2066,611170639,1124026F1022,2:先発品(後発あり),False,False,False,False,False,False,True
+302,79,0,内用,クリアナール錠２００ｍｇ,錠,False,False,False,False,5,987.0,10.4,10265,610451028,2233004F1025,1:先発品(後発なし),False,False,False,False,False,False,False
+303,1315,0,外用,グリセリン浣腸液５０％「ケンエー」　６０ｍＬ,個,False,False,False,False,11,131.0,131.7,17253,620485302,2357701K6239,基:基礎的医薬品,False,False,False,False,False,False,False
+304,1320,0,外用,グリセリン浣腸液５０％「ケンエー」　３０ｍＬ,個,False,False,False,False,2,13.0,110.1,1431,620483802,2357701K3140,基:基礎的医薬品,False,False,False,False,False,False,False
+305,809,0,内用,グリチロン配合錠,錠,False,False,False,False,6,"2,097.0",5.9,12372,620845201,3919100F1150,1:先発品(後発なし),False,False,False,False,False,False,False
+306,1905,0,内用,グリベンクラミド錠１．２５ｍｇ「サワイ」,錠,False,False,True,True,6,294.0,5.9,1735,622009802,3961003F1168,3:後発品,False,False,True,False,False,False,False
+307,1906,0,内用,グリベンクラミド錠２．５ｍｇ「サワイ」,錠,False,False,True,True,2,109.0,5.9,643,620872002,3961003F2229,3:後発品,False,False,True,False,False,False,False
+308,1724,0,内用,グリメピリド錠０．５ｍｇ「トーワ」,錠,False,False,True,True,18,"1,385.0",10.1,13989,622194901,3961008F3279,3:後発品,False,False,True,False,False,False,False
+309,1695,0,内用,グリメピリド錠１ｍｇ「トーワ」,錠,False,False,True,True,44,"4,325.0",10.4,44980,622013501,3961008F1250,★:後発品(同額以上),False,False,True,False,False,False,False
+310,942,0,内用,グリメピリド錠３ｍｇ「トーワ」,錠,False,False,True,True,2,245.0,10.4,2548,622013601,3961008F2256,3:後発品,False,False,True,False,False,False,False
+311,1876,0,外用,クリンダマイシンリン酸エステルゲル１％「サワイ」,g,False,False,False,True,152,"4,790.0",20.9,100111,621995701,2634713M1062,3:後発品,False,False,False,False,False,False,False
+312,384,0,内用,グルファスト錠５ｍｇ,錠,False,False,True,False,25,"3,225.0",11.3,36443,620001907,3969008F1029,2:先発品(後発あり),False,False,False,False,False,False,False
+313,411,0,内用,クレストール錠２．５ｍｇ,錠,False,False,False,False,45,"2,329.0",18.5,43087,620002477,2189017F1022,2:先発品(後発あり),False,False,False,False,False,False,True
+314,2103,0,内用,クレストール錠５ｍｇ,錠,False,False,False,False,1,77.0,30.6,2356,620002478,2189017F2029,2:先発品(後発あり),False,False,False,False,False,False,True
+315,1075,0,外用,クレナフィン爪外用液１０％,g,False,False,False,False,88,651.48,"1,396.8",909987,622365201,6290702Q1029,2:先発品(後発あり),False,False,False,False,False,False,False
+316,1890,0,内用,クロチアゼパム錠５ｍｇ「トーワ」,錠,False,False,True,True,15,954.0,5.9,5629,620006897,1179012F1134,3:後発品,True,False,False,False,False,False,False
+317,1981,0,内用,クロピドグレル錠２５ｍｇ「トーワ」,錠,False,False,True,True,16,"1,710.0",12.7,21717,622413601,3399008F1262,3:後発品,False,False,False,False,False,False,False
+318,1687,0,内用,クロピドグレル錠７５ｍｇ「トーワ」,錠,False,False,True,True,136,"6,362.0",31.9,202948,622413701,3399008F2269,3:後発品,False,False,False,False,False,False,False
+319,1702,0,外用,クロベタゾールプロピオン酸エステル軟膏０．０５％「イワキ」,g,False,False,False,True,61,"2,500.0",11.7,29250,621655001,2646713M1217,3:後発品,False,False,True,False,False,False,False
+320,2087,0,外用,クロベタゾールプロピオン酸エステルローション０．０５％「ＭＹＫ」,g,False,False,False,True,22,"1,330.0",12.8,17024,620617603,2646713Q1138,3:後発品,False,False,True,False,False,False,False
+321,2081,0,外用,クロベタゾン酪酸エステル軟膏０．０５％「イワキ」,g,False,False,False,True,251,"4,200.0",16.3,68460,621372901,2646722M1186,★:後発品(同額以上),False,False,False,False,False,False,False
+322,2127,0,外用,クロモグリク酸Ｎａ吸入液１％「サワイ」　２ｍＬ,管,False,False,False,True,2,44.0,32.9,1448,621556501,2259701G1071,★:後発品(同額以上),False,False,False,False,False,False,False
+323,296,0,内用,ツムラ荊芥連翹湯エキス顆粒（医療用）,g,False,False,False,False,1,525.0,18.6,9765,615101415,5200027D1052,1:先発品(後発なし),False,False,False,False,False,False,False
+324,937,0,内用,ケイキサレートドライシロップ７６％／３．２７,g,False,False,False,False,7,627.84,8.2,5148,622003501,2190009R1025,1:先発品(後発なし),False,False,False,False,False,False,False
+325,297,0,内用,ツムラ桂枝加芍薬大黄湯エキス顆粒（医療用）,g,False,False,False,False,1,675.0,14.4,9720,615101416,5200033D1023,1:先発品(後発なし),False,False,False,False,False,False,False
+326,298,0,内用,ツムラ桂枝加芍薬湯エキス顆粒（医療用）,g,False,False,False,False,1,455.0,7.5,3413,615101417,5200032D1045,1:先発品(後発なし),False,False,False,False,False,False,False
+327,301,0,内用,ツムラ桂枝茯苓丸エキス顆粒（医療用）,g,False,False,False,False,4,"1,275.0",14.1,17978,615101422,5200038D1093,1:先発品(後発なし),False,False,False,False,False,False,False
+328,347,0,内用,ツムラ桂枝茯苓丸加よく苡仁エキス顆粒（医療用）,g,False,False,False,False,12,"5,812.5",16.4,95325,615101752,5200039D1039,1:先発品(後発なし),False,False,False,False,False,False,False
+329,690,0,外用,ゲーベンクリーム１％,g,False,False,False,False,12,600.0,12.8,7680,620008991,2633705N1031,基:基礎的医薬品,False,False,False,False,False,False,False
+330,238,0,内用,ケタスカプセル１０ｍｇ,カプセル,False,False,False,False,2,504.0,12.4,6250,612220521,4490010N1021,1:先発品(後発なし),False,False,False,False,False,False,False
+331,1892,0,外用,ケトチフェン点眼液０．０５％「ＳＷ」　３．４５ｍｇ５ｍＬ,瓶,False,False,False,True,27,50.0,158.8,7940,620222501,1319730Q1338,3:後発品,False,False,False,False,False,False,False
+332,1893,0,外用,ケトチフェン点鼻液０．０５％「サワイ」　６．０４８ｍｇ８ｍＬ,瓶,False,False,False,True,3,5.0,231.0,1155,620231701,1329705Q1310,3:後発品,False,False,False,False,False,False,False
+333,1976,0,外用,ケトプロフェンテープ２０ｍｇ「杏林」　７ｃｍ×１０ｃｍ,枚,False,False,False,True,22,924.0,12.7,11735,622443201,2649729S2258,3:後発品,False,False,False,False,False,False,False
+334,1958,0,外用,ケトプロフェンテープ４０ｍｇ「杏林」　１０ｃｍ×１４ｃｍ,枚,False,False,False,True,81,"3,388.0",17.6,59629,622443301,2649729S3181,3:後発品,False,False,False,False,False,False,False
+335,1970,0,外用,ケトプロフェンパップ３０ｍｇ「三和」　１０ｃｍ×１４ｃｍ,枚,False,False,False,True,13,588.0,12.3,7232,620644301,2649729S1227,3:後発品,False,False,False,False,False,False,False
+336,1759,0,内用,ケフラール細粒小児用１００ｍｇ,g,False,False,False,False,2,210.0,44.3,9303,616130112,6132005C1053,基:基礎的医薬品,False,False,False,False,False,False,False
+337,792,0,外用,ケラチナミンコーワクリーム２０％,g,False,False,False,False,1,25.0,4.0,100,620665402,2669701N2067,2:先発品(後発あり),False,False,False,False,False,False,True
+338,1634,0,内用,ケレンディア錠２０ｍｇ,錠,False,False,False,False,1,42.0,205.8,8644,622911201,2190044F2027,1:先発品(後発なし),False,False,False,False,False,True,False
+339,1701,0,外用,ゲンタマイシン硫酸塩軟膏０．１％「イワキ」　１ｍｇ,g,False,False,False,False,420,"6,895.0",8.7,59987,621556601,2634710M1085,基:基礎的医薬品,False,False,False,False,False,False,False
+340,603,0,内用,コートリル錠１０ｍｇ,錠,False,False,True,False,8,340.0,7.4,2516,620006903,2452002F1030,基:基礎的医薬品,False,False,False,False,False,False,False
+341,295,0,内用,ツムラ牛車腎気丸エキス顆粒（医療用）,g,False,False,False,False,7,"2,090.0",17.7,36993,615101414,5200025D1029,1:先発品(後発なし),False,False,False,False,False,False,False
+342,303,0,内用,ツムラ呉茱萸湯エキス顆粒（医療用）,g,False,False,False,False,2,945.0,15.3,14459,615101425,5200046D1039,1:先発品(後発なし),False,False,False,False,False,False,False
+343,2123,0,内用,コスパノンカプセル４０ｍｇ,カプセル,False,False,False,False,1,42.0,9.5,399,620004987,1249007M1252,1:先発品(後発なし),False,False,False,False,False,False,False
+344,704,0,内用,コディオ配合錠ＥＸ,錠,False,False,False,False,1,91.0,27.1,2466,620009092,2149112F2029,2:先発品(後発あり),False,False,False,False,False,False,False
+345,2035,0,内用,コデインリン酸塩錠５ｍｇ「ＶＴＲＳ」,錠,False,False,False,False,5,551.0,11.7,6447,621567605,2242001F1071,基:基礎的医薬品,False,False,False,False,False,False,False
+346,227,0,内用,コニール錠　２ｍｇ,錠,False,False,False,False,6,431.0,12.2,5258,612170662,2171021F1024,2:先発品(後発あり),False,False,True,False,False,False,True
+347,228,0,内用,コニール錠　４ｍｇ,錠,False,False,False,False,4,427.0,17.2,7344,612170663,2171021F2020,2:先発品(後発あり),False,False,True,False,False,False,True
+348,22,0,内用,コバシル錠４ｍｇ,錠,False,False,False,False,1,98.0,51.1,5008,610421319,2144012F2024,2:先発品(後発あり),False,False,False,False,False,False,True
+349,1426,0,内用,コララン錠２．５ｍｇ,錠,False,False,False,False,7,378.0,82.9,31336,622698601,2190039F1020,1:先発品(後発なし),False,False,True,False,False,True,False
+350,903,0,内用,コルヒチン錠０．５ｍｇ「タカタ」,錠,False,False,False,False,1,10.0,9.6,96,621973601,3941001F1077,基:基礎的医薬品,False,False,True,False,False,False,False
+351,304,0,内用,ツムラ五苓散エキス顆粒（医療用）,g,False,False,False,False,7,"1,327.5",13.6,18054,615101428,5200048D1070,1:先発品(後発なし),False,False,False,False,False,False,False
+352,2112,0,外用,コレクチム軟膏０．２５％,g,False,False,False,False,1,10.0,137.6,1376,622861601,2699714M2025,1:先発品(後発なし),False,False,False,False,False,True,False
+353,1531,0,外用,コレクチム軟膏０．５％,g,False,False,False,False,9,250.0,143.0,35750,622784201,2699714M1029,1:先発品(後発なし),False,False,False,False,False,True,False
+354,32,0,内用,コレバイン錠５００ｍｇ,錠,False,False,False,False,2,"1,020.0",17.0,17340,610432003,2189014F1029,1:先発品(後発なし),False,False,False,False,False,False,False
+355,174,0,内用,コントミン糖衣錠１２．５ｍｇ,錠,False,False,True,False,1,10.0,9.7,97,611170713,1171001F1073,1:先発品(後発なし),False,False,False,False,False,False,False
+356,1053,0,内用,コンプラビン配合錠,錠,False,False,True,False,1,98.0,58.7,5753,622290301,3399101F1021,☆:先発品(同額以下),False,False,False,False,False,False,False
+357,692,0,外用,コンベッククリーム５％,g,False,False,False,False,2,50.0,13.2,660,620008994,2649727N1046,1:先発品(後発なし),False,False,False,False,False,False,False
+358,510,0,外用,ザーネ軟膏０．５％　５，０００単位,g,False,False,False,False,26,"2,610.0",1.9,4959,620004801,2649724M1039,1:先発品(後発なし),False,False,False,False,False,False,False
+359,949,0,内用,ザイザル錠５ｍｇ,錠,False,False,False,False,8,644.0,41.1,26468,622036701,4490028F1027,2:先発品(後発あり),False,False,False,False,False,False,True
+360,1062,0,内用,ザイザルシロップ０．０５％,mL,False,False,False,False,3,455.0,7.3,3322,622308201,4490028Q1028,2:先発品(後発あり),False,False,False,False,False,False,True
+361,140,0,内用,サイレース錠１ｍｇ,錠,False,False,False,False,4,120.0,7.4,888,611120087,1124008F1024,2:先発品(後発あり),True,False,False,False,False,False,True
+362,141,0,内用,サイレース錠２ｍｇ,錠,False,False,False,False,4,120.0,8.6,1032,611120088,1124008F2020,2:先発品(後発あり),True,False,False,False,False,False,True
+363,2037,0,内用,酢酸亜鉛錠２５ｍｇ「サワイ」,錠,False,False,False,True,10,937.0,88.6,83018,622940401,3929007F1037,3:後発品,False,False,True,False,False,False,False
+364,1067,0,内用,ザクラス配合錠ＨＤ,錠,False,False,False,False,3,203.0,78.0,15834,622341701,2149121F2028,2:先発品(後発あり),False,False,True,False,False,False,True
+365,1068,0,内用,ザクラス配合錠ＬＤ,錠,False,False,False,False,1,60.0,76.8,4608,622341801,2149121F1021,2:先発品(後発あり),False,False,True,False,False,False,True
+366,583,0,外用,ザジテン点眼液０．０５％　３．４５ｍｇ５ｍＬ,瓶,False,False,False,False,4,8.0,273.0,2184,620006425,1319730Q1249,2:先発品(後発あり),False,False,False,False,False,False,True
+367,77,0,内用,サリグレンカプセル３０ｍｇ,カプセル,False,False,False,False,1,273.0,64.6,17636,610451016,2399012M1034,1:先発品(後発なし),False,False,False,False,False,False,False
+368,693,0,外用,サルタノールインヘラー１００μｇ　０．１６％１３．５ｍＬ,瓶,False,False,False,False,4,5.0,454.5,2273,620008998,2254700G4037,1:先発品(後発なし),False,False,False,False,False,False,False
+369,1924,0,内用,サルポグレラート塩酸塩錠１００ｍｇ「オーハラ」,錠,False,False,False,True,4,673.0,28.6,19248,621927201,3399006F2162,3:後発品,False,False,False,False,False,False,False
+370,1745,0,内用,サワシリン細粒１０％　１００ｍｇ,g,False,False,False,False,1,60.0,7.2,432,620006920,6131001C1210,☆:先発品(同額以下),False,False,False,False,False,False,False
+371,2091,0,内用,酸化マグネシウム錠３３０ｍｇ「ヨシダ」,錠,False,False,False,True,1,270.0,5.9,1593,620477001,2344009F2090,3:後発品,False,False,False,False,False,False,False
+372,1950,0,内用,ジアゼパム錠２ｍｇ「アメル」,錠,False,False,False,True,6,135.0,5.9,797,620003151,1124017F2194,3:後発品,True,False,False,False,False,False,False
+373,1801,0,外用,シアノコバラミン点眼液０．０２％「杏林」　５ｍＬ,瓶,False,False,False,True,5,10.0,89.2,892,621395503,1319710Q2108,3:後発品,False,False,False,False,False,False,False
+374,557,0,内用,ジェニナック錠２００ｍｇ,錠,False,False,False,False,2,24.0,139.4,3346,620005822,6241017F1022,1:先発品(後発なし),False,False,False,False,False,False,False
+375,916,0,外用,ジクアス点眼液３％　５ｍＬ,瓶,False,False,False,False,2,5.0,343.5,1718,621985701,1319758Q1021,2:先発品(後発あり),False,False,False,False,False,False,False
+376,1485,0,外用,ジクトルテープ７５ｍｇ,枚,False,False,False,False,9,553.0,154.5,85439,622843401,1147700S1028,1:先発品(後発なし),False,False,False,False,False,False,False
+377,220,0,内用,シグマート錠５ｍｇ,錠,False,False,False,False,3,693.0,7.8,5405,612170456,2171017F2024,2:先発品(後発あり),False,False,False,False,False,False,True
+378,1911,0,内用,シクロスポリンカプセル５０ｍｇ「サンド」,カプセル,False,False,True,True,1,56.0,76.0,4256,622879301,3999004M5130,3:後発品,False,False,True,False,False,False,False
+379,2073,0,外用,ジクロフェナクＮａゲル１％「ラクール」,g,False,False,False,True,11,750.0,3.0,2250,622006701,2649734Q1093,3:後発品,False,False,False,False,False,False,False
+380,2122,0,外用,ジクロフェナクＮａ坐剤５０ｍｇ「日新」,個,False,False,False,True,2,19.0,20.9,397,621362323,1147700J3270,3:後発品,False,False,True,False,False,False,False
+381,1914,0,内用,ジクロフェナクＮａ錠２５ｍｇ「サワイ」,錠,False,False,False,True,7,202.0,5.9,1192,620079305,1147002F1650,3:後発品,False,False,True,False,False,False,False
+382,53,0,内用,ジスロマック錠２５０ｍｇ,錠,False,False,False,False,1,6.0,145.4,872,610443026,6149004F1028,2:先発品(後発あり),False,False,False,False,False,False,True
+383,2028,0,内用,ジソピラミドリン酸塩徐放錠１５０ｍｇ「トーワ」,錠,False,False,True,True,1,91.0,11.8,1074,621239701,2129005F1226,3:後発品,False,False,True,False,False,False,False
+384,1419,0,内用,シダキュアスギ花粉舌下錠５０００ＪＡＵ,錠,False,False,False,False,3,190.0,146.1,27759,622627001,4490035F2023,1:先発品(後発なし),False,False,False,False,False,True,False
+385,2133,0,内用,シタフロキサシン錠５０ｍｇ「サワイ」,錠,False,False,False,True,1,14.0,92.6,1296,622588201,6241018F1035,★:後発品(同額以上),False,False,False,False,False,False,False
+386,799,0,内用,シナール配合顆粒／１ｇ,g,False,False,False,False,17,"5,748.0",6.5,37362,620720901,3179115D1096,1:先発品(後発なし),False,False,False,False,False,False,False
+387,800,0,内用,シナール配合錠,錠,False,False,False,False,271,"88,287.0",6.4,565037,620721301,3179115F2034,1:先発品(後発なし),False,False,False,False,False,False,False
+388,2009,0,内用,ジフルカンカプセル１００ｍｇ,カプセル,False,False,False,False,9,101.0,140.3,14170,616290165,6290002M2026,☆:先発品(同額以下),False,False,False,False,False,False,False
+389,196,0,内用,シベノール錠１００ｍｇ,錠,False,False,True,False,1,182.0,29.3,5333,612120265,2129007F2027,2:先発品(後発あり),False,False,True,False,False,False,True
+390,2049,0,内用,シベンゾリンコハク酸塩錠１００ｍｇ「サワイ」,錠,False,False,True,True,6,390.0,15.9,6201,620005437,2129007F2043,3:後発品,False,False,True,False,False,False,False
+391,2095,0,内用,シベンゾリンコハク酸塩錠５０ｍｇ「サワイ」,錠,False,False,True,True,3,427.0,10.4,4441,620005435,2129007F1047,3:後発品,False,False,True,False,False,False,False
+392,891,0,外用,シムビコートタービュヘイラー６０吸入,キット,False,False,False,False,89,154.0,"2,535.3",390436,621950801,2290801G2025,2:先発品(後発あり),False,False,False,False,False,False,True
+393,310,0,内用,ツムラ芍薬甘草湯エキス顆粒（医療用）,g,False,False,False,False,110,"11,732.5",10.4,122018,615101446,5200067D1049,1:先発品(後発なし),False,False,False,False,False,False,False
+394,1093,0,内用,ジャディアンス錠１０ｍｇ,錠,False,False,True,False,107,"6,359.0",166.0,1055594,622401201,3969023F1023,1:先発品(後発なし),False,False,False,False,False,True,False
+395,1094,0,内用,ジャディアンス錠２５ｍｇ,錠,False,False,True,False,26,"1,518.0",283.4,430201,622401301,3969023F2020,1:先発品(後発なし),False,False,False,False,False,True,False
+396,892,0,内用,ジャヌビア錠２５ｍｇ,錠,False,False,True,False,43,"2,492.5",44.0,109670,621950901,3969010F1034,1:先発品(後発なし),False,False,False,False,False,False,False
+397,893,0,内用,ジャヌビア錠５０ｍｇ,錠,False,False,True,False,222,"19,150.0",82.1,1572215,621951001,3969010F2030,1:先発品(後発なし),False,False,False,False,False,False,False
+398,12,0,内用,重カマ「ヨシダ」,g,False,False,False,False,3,30.0,1.65,50,610409004,2344002X1241,基:基礎的医薬品,False,False,False,False,False,False,False
+399,13,0,内用,酸化マグネシウム（健栄）,g,False,False,False,False,10,"1,154.0",1.56,1800,610409005,2344002X1055,基:基礎的医薬品,False,False,False,False,False,False,False
+400,311,0,内用,ツムラ十味敗毒湯エキス顆粒（医療用）,g,False,False,False,False,5,"2,250.0",14.1,31725,615101448,5200070D1105,1:先発品(後発なし),False,False,False,False,False,False,False
+401,742,0,外用,硝酸イソソルビドテープ４０ｍｇ「テイコク」,枚,False,False,False,True,6,175.0,32.2,5635,620334202,2171700S1168,3:後発品,False,False,False,False,False,False,False
+402,314,0,内用,ツムラ小青竜湯エキス顆粒（医療用）,g,False,False,False,False,7,"3,564.0",12.8,45619,615101453,5200075D1086,1:先発品(後発なし),False,False,False,False,False,False,False
+403,747,0,内用,小児用ムコソルバンシロップ０．３％,mL,False,False,False,False,1,40.0,6.9,276,620390101,2239001Q1166,2:先発品(後発あり),False,False,False,False,False,False,True
+404,1863,0,内用,ジルチアゼム塩酸塩錠３０ｍｇ「トーワ」,錠,False,False,False,True,1,84.0,5.9,496,620307012,2171006F1364,3:後発品,False,False,False,False,False,False,False
+405,847,0,内用,ジルチアゼム塩酸塩徐放カプセル１００ｍｇ「トーワ」,カプセル,False,False,False,True,7,469.0,10.4,4878,621579602,2171006N1164,3:後発品,False,False,False,False,False,False,False
+406,713,0,内用,シルニジピン錠１０ｍｇ「サワイ」,錠,False,False,False,True,2,133.0,13.8,1835,620009319,2149037F2055,3:後発品,False,False,False,False,False,False,False
+407,1834,0,内用,シルニジピン錠５ｍｇ「サワイ」,錠,False,False,False,True,3,128.0,10.4,1331,620009318,2149037F1059,3:後発品,False,False,False,False,False,False,False
+408,1541,0,内用,ジルムロ配合ＯＤ錠ＨＤ「トーワ」,錠,False,False,False,True,44,"2,810.0",27.7,77837,622852201,2149121F4039,3:後発品,False,False,True,False,False,False,False
+409,1843,0,内用,ジルムロ配合錠ＬＤ「トーワ」,錠,False,False,False,True,11,623.0,26.9,16759,622850701,2149121F1099,3:後発品,False,False,True,False,False,False,False
+410,1948,0,内用,シロスタゾールＯＤ錠１００ｍｇ「トーワ」,錠,False,False,True,True,28,"1,288.0",12.6,16229,622373101,3399002F4094,3:後発品,False,False,False,False,False,False,False
+411,2020,0,内用,シロスタゾールＯＤ錠５０ｍｇ「トーワ」,錠,False,False,True,True,27,"2,309.0",10.4,24014,622373001,3399002F3098,3:後発品,False,False,False,False,False,False,False
+412,1962,0,内用,シロドシンＯＤ錠２ｍｇ「オーハラ」,錠,False,False,False,True,3,392.0,10.4,4077,622678301,2590010F3107,3:後発品,False,False,True,False,False,False,False
+413,1536,0,内用,シロドシンＯＤ錠４ｍｇ「日新」,錠,False,False,False,True,34,"2,709.0",14.5,39281,622677101,2590010F4154,3:後発品,False,False,True,False,False,False,False
+414,2093,0,内用,ジンタス錠５０ｍｇ,錠,False,False,False,False,1,14.0,232.9,3261,622969401,3229008F1025,1:先発品(後発なし),False,False,True,False,False,False,False
+415,842,0,内用,シンバスタチン錠５ｍｇ「トーワ」,錠,False,False,False,True,145,"10,511.0",17.3,181840,621534301,2189011F1220,3:後発品,False,False,False,False,False,False,False
+416,1565,0,注射,シンポニー皮下注５０ｍｇオートインジェクター　０．５ｍＬ,キット,False,False,True,False,2,4.0,"103,628.0",414512,622675801,3999433G2020,1:先発品(後発なし),False,False,True,False,False,False,False
+417,1313,0,外用,新レシカルボン坐剤,個,False,False,False,False,3,23.0,73.7,1695,662350104,2359800J1035,基:基礎的医薬品,False,False,False,False,False,False,False
+418,1151,0,内用,スインプロイク錠０．２ｍｇ,錠,False,False,False,False,42,831.0,277.1,230270,622546601,2359007F1020,1:先発品(後発なし),False,False,False,False,False,False,False
+419,1723,0,内用,スーグラ錠２５ｍｇ,錠,False,False,True,False,3,105.0,100.1,10511,622306601,3969018F1022,1:先発品(後発なし),False,False,False,False,False,False,False
+420,1059,0,内用,スーグラ錠５０ｍｇ,錠,False,False,True,False,19,"1,137.0",149.7,170209,622306701,3969018F2029,1:先発品(後発なし),False,False,False,False,False,False,False
+421,1186,0,内用,スージャヌ配合錠,錠,False,False,True,False,2,174.0,178.8,31111,622625702,3969107F1022,1:先発品(後発なし),False,False,False,False,False,False,False
+422,1083,0,内用,スタレボ配合錠Ｌ１００,錠,False,False,False,False,1,504.0,79.4,40018,622375801,1169102F2023,1:先発品(後発なし),False,False,False,False,False,False,False
+423,1201,0,外用,スチックゼノールＡ,g,False,False,False,False,6,480.0,3.62,1738,660406045,2649858M1036,1:先発品(後発なし),False,False,False,False,False,False,False
+424,1300,0,内用,ストミンＡ配合錠,錠,False,False,False,False,1,210.0,6.1,1281,621507901,1329100F1031,1:先発品(後発なし),False,False,False,False,False,False,False
+425,570,0,内用,ストロカイン錠５ｍｇ,錠,False,False,False,False,15,519.0,6.0,3114,620005991,1219002F1065,1:先発品(後発なし),False,False,False,False,False,False,False
+426,109,0,内用,ストロメクトール錠３ｍｇ,錠,False,False,False,False,3,9.0,574.8,5173,610462042,6429008F1020,1:先発品(後発なし),False,False,True,False,False,False,False
+427,1251,0,外用,スピール膏Ｍ　２５ｃｍ２,枚,False,False,False,False,32,49.0,70.6,3459,662660057,2661701X1020,1:先発品(後発なし),False,False,False,False,False,False,False
+428,1118,0,外用,スピオルトレスピマット６０吸入,キット,False,False,False,False,8,15.0,"5,353.8",80307,622450201,2259807G2022,1:先発品(後発なし),False,False,False,False,False,False,False
+429,913,0,外用,スピリーバ２．５μｇレスピマット６０吸入　１５０μｇ,キット,False,False,False,False,11,15.0,"3,100.9",46514,621984201,2259709G2023,1:先発品(後発なし),False,False,False,False,False,False,False
+430,1864,0,内用,スピロノラクトン錠２５ｍｇ「トーワ」,錠,False,False,False,True,118,"6,702.5",5.9,39545,620003560,2133001F1476,3:後発品,False,False,False,False,False,False,False
+431,2098,0,内用,スマトリプタン錠５０ｍｇ「ＳＰＫＫ」,錠,False,False,False,True,1,3.0,124.8,374,622864401,2160003F1162,3:後発品,False,False,True,False,False,False,False
+432,1818,0,内用,スルピリド錠５０ｍｇ「アメル」,錠,False,False,True,True,9,404.0,6.6,2666,620003080,2329009F1152,3:後発品,False,False,False,False,False,False,False
+433,1532,0,注射,生食注シリンジ「オーツカ」２０ｍＬ,筒,False,False,False,False,2,40.0,111.0,4440,620008530,3311402G8056,基:基礎的医薬品,False,False,False,False,False,False,False
+434,436,0,内用,セイブル錠５０ｍｇ,錠,False,False,True,False,7,546.0,19.5,10647,620003128,3969009F2020,2:先発品(後発あり),False,False,False,False,False,False,True
+435,584,0,外用,セクターローション３％,mL,False,False,False,False,5,650.0,4.4,2860,620006442,2649729Q2030,1:先発品(後発なし),False,False,False,False,False,False,False
+436,466,0,内用,セスデンカプセル３０ｍｇ,カプセル,False,False,False,False,2,10.0,8.9,89,620003561,1249005M1083,2:先発品(後発あり),False,False,False,False,False,False,False
+437,520,0,内用,ゼチーア錠１０ｍｇ,錠,False,False,False,False,10,361.0,64.4,23248,620004868,2189018F1027,2:先発品(後発あり),False,False,False,False,False,False,True
+438,2138,0,内用,セチリジン塩酸塩ＤＳ１．２５％「タカタ」,g,False,False,False,True,3,10.8,70.7,764,621944601,4490020R1035,3:後発品,False,False,False,False,False,False,False
+439,1400,0,外用,ゼビアックスローション２％,g,False,False,False,False,13,290.0,51.4,14906,622462601,2639701Q1025,1:先発品(後発なし),False,False,False,False,False,False,False
+440,607,0,内用,セファドール錠２５ｍｇ,錠,False,False,False,False,3,270.0,6.5,1755,620006958,1339002F1438,2:先発品(後発あり),False,False,False,False,False,False,True
+441,256,0,内用,セファランチン錠１ｍｇ,錠,False,False,False,False,6,"1,018.0",6.2,6312,612900052,2900001F1029,1:先発品(後発なし),False,False,False,False,False,False,False
+442,353,0,内用,セフゾンカプセル１００ｍｇ,カプセル,False,False,False,False,43,648.0,59.7,38686,616130532,6132013M2025,基:基礎的医薬品,False,False,False,False,False,False,False
+443,500,0,内用,セフゾン細粒小児用１０％　１００ｍｇ,g,False,False,False,False,8,79.2,60.8,4815,620004513,6132013C1031,2:先発品(後発あり),False,False,False,False,False,False,True
+444,1692,0,外用,ゼフナート外用液２％,mL,False,False,False,False,11,230.0,25.4,5842,620005743,2659712Q1026,1:先発品(後発なし),False,False,False,False,False,False,False
+445,1691,0,外用,ゼフナートクリーム２％,g,False,False,False,False,11,390.0,25.4,9906,660443004,2659712N1020,1:先発品(後発なし),False,False,False,False,False,False,False
+446,558,0,内用,セララ錠２５ｍｇ,錠,False,False,False,False,2,84.0,20.6,1730,620005824,2149045F1029,2:先発品(後発あり),False,False,False,False,False,False,True
+447,559,0,内用,セララ錠５０ｍｇ,錠,False,False,False,False,4,135.0,40.2,5427,620005825,2149045F2025,2:先発品(後発あり),False,False,False,False,False,False,True
+448,44,0,内用,セルセプトカプセル２５０　２５０ｍｇ,カプセル,False,False,True,False,2,476.0,91.1,43364,610432045,3999017M1026,☆:先発品(同額以下),False,False,True,False,False,False,False
+449,2114,0,内用,セルトラリンＯＤ錠２５ｍｇ「アメル」,錠,False,False,True,True,3,95.0,9.5,903,622463601,1179046F4035,3:後発品,False,False,True,False,False,False,False
+450,242,0,内用,セルベックスカプセル５０ｍｇ,カプセル,False,False,False,False,4,637.0,9.9,6306,612320346,2329012M1021,2:先発品(後発あり),False,False,False,False,False,False,True
+451,1323,0,内用,ゼルヤンツ錠５ｍｇ,錠,False,False,True,False,1,112.0,"2,260.9",253221,622242601,3999034F1020,1:先発品(後発なし),False,False,True,False,False,False,False
+452,1817,0,内用,セレコキシブ錠１００ｍｇ「日新」,錠,False,False,False,True,45,"3,772.0",9.3,35080,622797801,1149037F1160,3:後発品,False,False,True,False,False,False,False
+453,519,0,内用,セレコックス錠１００ｍｇ,錠,False,False,False,False,2,176.0,21.1,3714,620004857,1149037F1020,2:先発品(後発あり),False,False,True,False,False,False,True
+454,68,0,内用,セロクエル２５ｍｇ錠,錠,False,False,True,False,1,10.5,15.8,166,610443072,1179042F1020,2:先発品(後発あり),False,False,True,False,False,False,True
+455,233,0,内用,セロクラール錠２０ｍｇ,錠,False,False,False,False,2,240.0,10.4,2496,612190149,2190005F2051,2:先発品(後発あり),False,False,False,False,False,False,True
+456,1527,0,内用,センノシド錠１２ｍｇ「ＶＴＲＳ」,錠,False,False,False,True,112,"6,753.0",5.3,35791,620481204,2354003F2472,3:後発品,False,False,False,False,False,False,False
+457,2042,0,内用,ゾニサミドＯＤ錠２５ｍｇＴＲＥ「サワイ」,錠,False,False,False,True,5,553.0,275.0,152075,622968501,1169015F2103,3:後発品,False,False,True,False,False,False,False
+458,1800,0,内用,ゾニサミド錠１００ｍｇ「アメル」,錠,False,False,True,True,1,154.0,11.7,1802,621390901,1139005F1040,3:後発品,False,False,True,False,False,False,False
+459,1989,0,内用,ゾピクロン錠１０ｍｇ「トーワ」,錠,False,False,False,True,5,144.0,7.5,1080,620009346,1129007F2073,3:後発品,True,False,False,False,False,False,False
+460,1963,0,内用,ゾピクロン錠７．５ｍｇ「トーワ」,錠,False,False,False,True,22,652.0,6.7,4368,620006013,1129007F1107,3:後発品,True,False,False,False,False,False,False
+461,541,0,外用,ゾビラックス眼軟膏３％,g,False,False,False,False,2,10.0,551.5,5515,620005271,1319719M1046,基:基礎的医薬品,False,False,False,False,False,False,False
+462,1184,0,内用,ゾフルーザ錠２０ｍｇ,錠,False,False,False,False,41,83.0,"2,438.8",202420,622622601,6250047F2029,1:先発品(後発なし),False,False,False,False,False,False,False
+463,168,0,内用,ソラナックス０．４ｍｇ錠,錠,False,False,False,False,12,798.0,6.1,4868,611170508,1124023F1037,2:先発品(後発あり),True,False,False,False,False,False,True
+464,1387,0,注射,ソリクア配合注ソロスター,キット,False,False,True,False,1,1.0,"4,723.0",4723,629907601,3969501G1023,1:先発品(後発なし),False,False,True,False,False,False,False
+465,2012,0,内用,ソリフェナシンコハク酸塩ＯＤ錠５ｍｇ「トーワ」,錠,False,False,False,True,23,"1,406.0",33.0,46398,622852601,2590011F4051,3:後発品,False,False,False,False,False,False,False
+466,1862,0,内用,ソリフェナシンコハク酸塩錠２．５ｍｇ「トーワ」,錠,False,False,False,True,2,147.0,19.7,2896,622852301,2590011F1079,3:後発品,False,False,False,False,False,False,False
+467,1325,0,注射,ゾルトファイ配合注フレックスタッチ,キット,False,False,True,False,7,11.0,"4,207.0",46277,629900701,3969500G1029,1:先発品(後発なし),False,False,True,False,False,True,False
+468,1790,0,内用,ゾルピデム酒石酸塩錠５ｍｇ「日新」,錠,False,False,False,True,93,"3,194.0",10.4,33218,622153301,1129009F1300,3:後発品,True,False,False,False,False,False,False
+469,1789,0,内用,ゾルピデム酒石酸塩錠１０ｍｇ「日新」,錠,False,False,False,True,30,714.0,11.2,7997,622153401,1129009F2307,3:後発品,True,False,False,False,False,False,False
+470,1478,0,内用,ダーブロック錠２ｍｇ,錠,False,False,False,False,8,470.0,157.4,73978,622819201,3999049F2023,1:先発品(後発なし),False,False,True,False,False,True,False
+471,1476,0,内用,ダーブロック錠４ｍｇ,錠,False,False,False,False,3,182.0,278.5,50687,622819301,3999049F3020,1:先発品(後発なし),False,False,True,False,False,True,False
+472,202,0,内用,ダイアート錠３０ｍｇ,錠,False,False,False,False,1,182.0,10.7,1947,612130353,2139008F2028,2:先発品(後発あり),False,False,False,False,False,False,True
+473,786,0,外用,ダイアコートクリーム０．０５％,g,False,False,False,False,4,80.0,10.9,872,620624401,2646723N1151,☆:先発品(同額以下),False,False,False,False,False,False,False
+474,1222,0,外用,ダイアップ坐剤６　６ｍｇ,個,False,False,True,False,1,10.0,57.3,573,661120011,1124701J2029,1:先発品(後発なし),True,False,False,False,False,False,False
+475,317,0,内用,ツムラ大黄甘草湯エキス顆粒（医療用）,g,False,False,False,False,5,"1,422.5",8.0,11380,615101467,5200090D1030,1:先発品(後発なし),False,False,False,False,False,False,False
+476,319,0,内用,ツムラ大建中湯エキス顆粒（医療用）／２．５ｇ,g,False,False,False,False,79,"30,820.0",13.7,422234,615101469,5200092D1020,1:先発品(後発なし),False,False,False,False,False,False,False
+477,240,0,内用,タガメット錠２００ｍｇ,錠,False,False,False,False,5,572.0,8.9,5091,612320183,2325001F1211,2:先発品(後発あり),False,False,False,False,False,False,True
+478,1097,0,内用,タケキャブ錠１０ｍｇ,錠,False,False,False,False,218,"12,184.0",94.3,1148951,622404401,2329030F1020,1:先発品(後発なし),False,False,False,False,False,False,False
+479,1098,0,内用,タケキャブ錠２０ｍｇ,錠,False,False,False,False,103,"3,887.0",141.0,548067,622404501,2329030F2027,1:先発品(後発なし),False,False,False,False,False,False,False
+480,99,0,内用,タケプロンＯＤ錠１５　１５ｍｇ,錠,False,False,False,False,37,"1,364.0",20.4,27826,610462010,2329023F1020,2:先発品(後発あり),False,False,False,False,False,False,False
+481,1288,0,内用,タケルダ配合錠,錠,False,False,True,False,21,739.0,19.4,14337,622341601,3399102F1026,1:先発品(後発なし),False,False,False,False,False,False,False
+482,216,0,内用,タナトリル錠　５ｍｇ,錠,False,False,False,False,1,90.0,31.3,2817,612140712,2144008F2028,2:先発品(後発あり),False,False,False,False,False,False,True
+483,1718,0,内用,タムスロシン塩酸塩ＯＤ錠０．２ｍｇ「トーワ」,錠,False,False,False,True,33,"1,824.0",18.5,33744,621979102,2590008F2162,3:後発品,False,False,False,False,False,False,False
+484,1597,0,内用,タモキシフェン錠２０ｍｇ「サワイ」,錠,False,False,True,True,18,"1,590.0",29.8,47382,622053001,4291003F2062,3:後発品,False,False,False,True,False,False,False
+485,1214,0,外用,ダラシンＴゲル１％,g,False,False,False,False,3,30.0,22.6,678,660462005,2634713M1020,2:先発品(後発あり),False,False,False,False,False,False,True
+486,2110,0,内用,タリージェＯＤ錠１０ｍｇ,錠,False,False,False,False,3,144.0,127.9,18418,622927401,1190026F7026,1:先発品(後発なし),False,False,False,False,False,True,False
+487,1715,0,内用,タリージェＯＤ錠２．５ｍｇ,錠,False,False,False,False,17,644.0,67.2,43277,622927201,1190026F5023,1:先発品(後発なし),False,False,False,False,False,True,False
+488,1617,0,内用,タリージェＯＤ錠５ｍｇ,錠,False,False,False,False,14,946.0,92.5,87505,622927301,1190026F6020,1:先発品(後発なし),False,False,False,False,False,True,False
+489,608,0,内用,タリオン錠１０ｍｇ,錠,False,False,False,False,7,734.0,20.3,14900,620006971,4490022F2034,2:先発品(後発あり),False,False,False,False,False,False,True
+490,512,0,外用,タリビッド眼軟膏０．３％,g,False,False,False,False,4,17.5,113.5,1986,620004809,1319722M1056,基:基礎的医薬品,False,False,False,False,False,False,False
+491,1507,0,内用,タルチレリンＯＤ錠５ｍｇ「サワイ」,錠,False,False,False,True,8,"1,092.0",200.4,218837,622497801,1190014F2064,3:後発品,False,False,False,False,False,False,False
+492,381,0,内用,炭酸水素ナトリウム「ケンエー」,g,False,False,False,False,2,416.0,0.77,320,620000660,2344004X1070,1:先発品(後発なし),False,False,False,False,False,False,False
+493,2014,0,内用,炭酸ランタンＯＤ錠２５０ｍｇ「ＦＣＩ」,錠,False,False,False,True,12,686.0,34.6,23736,622977001,2190029F3070,3:後発品,False,False,False,False,False,False,False
+494,1454,0,内用,タンニン酸アルブミン「ケンエー」,g,False,False,False,False,19,369.5,8.1,2993,620000581,2312001X1057,1:先発品(後発なし),False,False,False,False,False,False,False
+495,199,0,内用,タンボコール錠５０ｍｇ,錠,False,False,True,False,3,224.0,40.5,9072,612120303,2129009F1020,2:先発品(後発あり),False,False,True,False,False,False,True
+496,1928,0,内用,チアプリド錠２５ｍｇ「日新」,錠,False,False,False,True,2,112.0,8.2,918,620162013,1190004F1196,3:後発品,False,False,False,False,False,False,False
+497,279,0,内用,チガソンカプセル　１０ｍｇ,カプセル,False,False,False,False,1,50.0,467.7,23385,613990072,3119001M1020,基:基礎的医薬品,False,False,True,False,False,False,False
+498,807,0,内用,チクロピジン塩酸塩錠１００ｍｇ「トーワ」,錠,False,False,True,True,4,476.0,10.4,4950,620814511,3399001F1457,3:後発品,False,False,False,False,False,False,False
+499,819,0,内用,チザニジン錠１ｍｇ「日医工」,錠,False,False,False,True,6,699.0,6.1,4264,621228112,1249010F1263,3:後発品,False,False,False,False,False,False,False
+500,592,0,内用,チャンピックス錠０．５ｍｇ,錠,False,False,False,False,2,11.0,77.5,853,620006776,7990003F1028,1:先発品(後発なし),False,False,True,False,False,False,False
+501,593,0,内用,チャンピックス錠１ｍｇ,錠,False,False,False,False,3,98.0,136.1,13338,620006777,7990003F2024,1:先発品(後発なし),False,False,True,False,False,False,False
+502,322,0,内用,ツムラ猪苓湯エキス顆粒（医療用）,g,False,False,False,False,4,"1,905.0",13.7,26099,615101477,5200103D1101,1:先発品(後発なし),False,False,False,False,False,False,False
+503,778,0,内用,チラーヂンＳ散０．０１％,g,False,False,False,False,2,36.4,59.1,2151,620515801,2431004B1038,基:基礎的医薬品,False,False,True,False,False,False,False
+504,1585,0,内用,チラーヂンＳ錠１２．５μｇ,錠,False,False,False,False,11,550.0,10.4,5720,622169401,2431004F4020,基:基礎的医薬品,False,False,True,False,False,False,False
+505,780,0,内用,チラーヂンＳ錠２５μｇ,錠,False,False,False,False,29,"1,096.0",10.4,11398,620516002,2431004F2052,基:基礎的医薬品,False,False,True,False,False,False,False
+506,779,0,内用,チラーヂンＳ錠５０μｇ,錠,False,False,False,False,79,"4,160.0",10.4,43264,620515902,2431004F1056,基:基礎的医薬品,False,False,True,False,False,False,False
+507,714,0,内用,沈降炭酸カルシウム錠５００㎎「三和」,錠,False,False,False,True,82,"3,803.0",6.0,22818,620009352,2190024F1040,3:後発品,False,False,False,False,False,False,False
+508,1560,0,内用,ツイミーグ錠５００ｍｇ,錠,False,False,True,False,1,180.0,34.1,6138,622869901,3969026F1027,1:先発品(後発なし),False,False,False,False,False,False,False
+509,2102,0,内用,ツムラ茵ちん五苓散エキス顆粒（医療用）,g,False,False,False,False,1,315.0,25.5,8033,615101399,5200004D1035,1:先発品(後発なし),False,False,False,False,False,False,False
+510,1297,0,内用,ツムラ柴苓湯エキス顆粒（医療用）,g,False,False,False,False,1,126.0,45.0,5670,615101435,5200055D1020,1:先発品(後発なし),False,False,False,False,False,False,False
+511,1877,0,内用,ツロブテロール塩酸塩ＤＳ小児用０．１％「タカタ」,g,False,False,False,True,4,15.4,6.7,103,621745601,2259002R1118,3:後発品,False,False,False,False,False,False,False
+512,1896,0,外用,ツロブテロールテープ０．５「オーハラ」　０．５ｍｇ,枚,False,False,False,True,6,140.0,12.7,1778,620005746,2259707S1128,3:後発品,False,False,False,False,False,False,False
+513,1897,0,外用,ツロブテロールテープ１「オーハラ」　１ｍｇ,枚,False,False,False,True,5,56.0,18.8,1053,620005749,2259707S2124,3:後発品,False,False,False,False,False,False,False
+514,1898,0,外用,ツロブテロールテープ２「オーハラ」　２ｍｇ,枚,False,False,False,True,8,138.0,26.4,3643,620005752,2259707S3120,3:後発品,False,False,False,False,False,False,False
+515,1038,0,内用,ティーエスワン配合ＯＤ錠Ｔ２０　２０ｍｇ（テガフール相当量）,錠,False,False,True,False,2,112.0,297.5,33320,622243001,4229101F1026,2:先発品(後発あり),False,False,True,True,False,False,True
+516,57,0,内用,ディオバン錠２０ｍｇ,錠,False,False,False,False,4,286.0,12.8,3661,610443042,2149041F1020,2:先発品(後発あり),False,False,False,False,False,False,True
+517,58,0,内用,ディオバン錠４０ｍｇ,錠,False,False,False,False,16,832.0,16.8,13978,610443043,2149041F2027,2:先発品(後発あり),False,False,False,False,False,False,True
+518,822,0,内用,ディクアノン懸濁用配合顆粒,g,False,False,False,True,1,100.8,6.7,675,621277801,2349101D1202,3:後発品,False,False,False,False,False,False,False
+519,664,0,外用,ディフェリンゲル０．１％,g,False,False,False,False,12,300.0,50.1,15030,620008449,2699711Q1027,2:先発品(後発あり),False,False,True,False,False,False,True
+520,1703,0,内用,デエビゴ錠２．５ｍｇ,錠,False,False,False,False,15,615.0,44.9,27614,622703101,1190027F1022,1:先発品(後発なし),False,False,False,False,False,True,False
+521,1486,0,内用,デエビゴ錠５ｍｇ,錠,False,False,False,False,68,"2,470.0",71.3,176111,622703201,1190027F2029,1:先発品(後発なし),False,False,False,False,False,True,False
+522,113,0,内用,テオドール錠１００ｍｇ,錠,False,False,True,False,4,456.0,6.1,2782,610463113,2251001F2115,2:先発品(後発あり),False,False,False,False,False,False,False
+523,236,0,内用,テオロング錠２００ｍｇ,錠,False,False,True,True,3,404.0,11.0,4444,612220505,2251001F3049,★:後発品(同額以上),False,False,True,False,False,False,False
+524,609,0,内用,デカドロン錠０．５ｍｇ,錠,False,False,True,False,6,67.0,6.1,409,620006986,2454002F1183,1:先発品(後発なし),False,False,False,False,False,False,False
+525,1071,0,内用,デカドロン錠４ｍｇ,錠,False,False,True,False,15,193.5,25.3,4896,622359901,2454002F3020,1:先発品(後発なし),False,False,False,False,False,False,False
+526,2139,0,内用,デキサメタゾンエリキシル０．０１％「日新」,mL,False,False,True,True,1,15.0,3.8,57,620521302,2454002S1157,3:後発品,False,False,False,False,False,False,False
+527,774,0,外用,デキサメタゾン口腔用軟膏０．１％「ＮＫ」,g,False,False,False,True,14,100.0,37.0,3700,620508601,2399706M1125,3:後発品,False,False,False,False,False,False,False
+528,2048,0,外用,デキサメタゾンプロピオン酸エステルクリーム０．１％「ＭＹＫ」,g,False,False,False,True,135,"7,210.0",7.3,52633,621567403,2646726N1139,3:後発品,False,False,True,False,False,False,False
+529,2047,0,外用,デキサメタゾンプロピオン酸エステル軟膏０．１％「ＭＹＫ」,g,False,False,False,True,20,585.0,7.3,4271,621567303,2646726M1133,3:後発品,False,False,True,False,False,False,False
+530,1620,0,内用,デキストロメトルファン臭化水素酸塩錠１５ｍｇ「ＮＰ」,錠,False,False,False,True,201,"4,980.0",8.6,42828,620374204,2223001F2137,3:後発品,False,False,False,False,False,False,False
+531,400,0,内用,テグレトール細粒５０％,g,False,False,True,False,3,45.0,22.2,999,620002065,1139002C1082,基:基礎的医薬品,False,False,False,False,False,False,False
+532,150,0,内用,テグレトール錠１００ｍｇ,錠,False,False,True,False,3,270.0,6.1,1647,611130100,1139002F2026,　:準先発品,False,False,False,False,False,False,True
+533,1132,0,内用,デザレックス錠５ｍｇ,錠,False,False,False,False,33,"1,731.0",38.7,66990,622514901,4490032F1023,1:先発品(後発なし),False,False,False,False,False,False,False
+534,1017,0,内用,テネリア錠２０ｍｇ,錠,False,False,True,False,31,"2,167.0",98.3,213016,622182601,3969015F1029,1:先発品(後発なし),False,False,False,False,False,False,False
+535,401,0,内用,テノーミン錠２５　２５ｍｇ,錠,False,False,True,False,1,126.0,8.8,1109,620002066,2123011F1155,2:先発品(後発あり),False,False,False,False,False,False,True
+536,1035,0,内用,デノタスチュアブル配合錠,錠,False,False,False,False,8,691.0,11.3,7808,622239401,3219100F1020,1:先発品(後発なし),False,False,False,False,False,False,False
+537,719,0,内用,デパケンＲ錠２００ｍｇ,錠,False,False,True,False,3,258.0,11.3,2915,620066201,1139004G2063,2:先発品(後発あり),False,False,False,False,False,False,False
+538,1001,0,内用,デパス錠０．２５ｍｇ,錠,False,False,True,False,2,360.0,9.5,3420,622138201,1179025F3029,2:先発品(後発あり),True,False,False,False,False,False,True
+539,169,0,内用,デパス錠０．５ｍｇ,錠,False,False,True,False,55,"3,459.0",9.5,32861,611170513,1179025F1026,2:先発品(後発あり),True,False,False,False,False,False,True
+540,170,0,内用,デパス錠１ｍｇ,錠,False,False,True,False,2,180.0,10.4,1872,611170514,1179025F2022,2:先発品(後発あり),True,False,False,False,False,False,True
+541,574,0,内用,テプレノンカプセル５０ｍｇ「トーワ」,カプセル,False,False,False,True,8,917.0,6.5,5961,620006034,2329012M1293,3:後発品,False,False,False,False,False,False,False
+542,1875,0,内用,テプレノン細粒１０％「トーワ」,g,False,False,False,True,3,147.0,9.4,1382,620006035,2329012C1271,★:後発品(同額以上),False,False,False,False,False,False,False
+543,1065,0,内用,デベルザ錠２０ｍｇ,錠,False,False,True,False,53,"2,655.0",144.2,382851,622336801,3969021F1032,1:先発品(後発なし),False,False,False,False,False,False,False
+544,2106,0,内用,デュタステリドカプセル0.5ｍｇZA「トーワ」,カプセル,False,False,False,True,1,90.0,180.0,16200,500000004,249900AM2038,3:後発品,False,False,False,False,False,False,False
+545,1786,0,内用,デュタステリド錠０．５ｍｇＡＶ「ＮＳ」,錠,False,False,False,True,16,771.0,31.9,24595,622785201,2499011F1036,3:後発品,False,False,True,False,False,False,False
+546,1467,0,注射,デュピクセント皮下注３００ｍｇペン　２ｍＬ,キット,False,False,False,False,3,15.0,"53,659.0",804885,629911101,4490405G2020,1:先発品(後発なし),False,False,True,False,False,True,False
+547,1842,0,内用,デュロキセチンカプセル２０ｍｇ「トーワ」,カプセル,False,False,True,True,4,171.0,25.7,4395,622851701,1179052M1111,3:後発品,False,False,True,False,False,False,False
+548,2023,0,内用,テラムロ配合錠ＡＰ「ＤＳＥＰ」,錠,False,False,False,True,43,"2,817.0",21.4,60284,622535101,2149117F1033,3:後発品,False,False,True,False,False,False,False
+549,1643,0,内用,テラムロ配合錠ＡＰ「トーワ」,錠,False,False,False,True,2,121.0,21.4,2589,622543301,2149117F1076,3:後発品,False,False,True,False,False,False,False
+550,2024,0,内用,テラムロ配合錠ＢＰ「ＤＳＥＰ」,錠,False,False,False,True,8,376.0,31.3,11769,622535201,2149117F2030,3:後発品,False,False,True,False,False,False,False
+551,1277,0,外用,テリルジー１００エリプタ３０吸入用,キット,False,False,False,False,5,11.0,"8,502.3",93525,622678901,2290804G2029,1:先発品(後発なし),False,False,False,False,False,False,False
+552,2130,0,内用,テルチア配合錠ＡＰ「ＤＳＥＰ」,錠,False,False,False,True,5,343.0,22.1,7580,622535301,2149113F1035,3:後発品,False,False,False,False,False,False,False
+553,1770,0,内用,テルチア配合錠ＡＰ「トーワ」,錠,False,False,False,True,5,249.0,22.1,5503,622543501,2149113F1060,3:後発品,False,False,False,False,False,False,False
+554,1882,0,外用,テルビナフィン塩酸塩クリーム１％「トーワ」,g,False,False,False,True,31,910.0,13.0,11830,621707201,2659710N1217,3:後発品,False,False,False,False,False,False,False
+555,1468,0,内用,テルミサルタン錠２０ｍｇ「杏林」,錠,False,False,False,True,81,"5,973.5",10.4,62124,622537001,2149042F1122,3:後発品,False,False,False,False,False,False,False
+556,1143,0,内用,テルミサルタン錠４０ｍｇ「杏林」,錠,False,False,False,True,104,"7,020.0",10.4,73008,622537101,2149042F2129,3:後発品,False,False,False,False,False,False,False
+557,632,0,外用,テレミンソフト坐薬１０ｍｇ,個,False,False,False,False,2,15.0,20.9,314,620007694,2359700J2106,1:先発品(後発なし),False,False,False,False,False,False,False
+558,1193,0,内用,トアラセット配合錠「杏林」,錠,False,False,False,True,8,476.0,7.2,3427,622661701,1149117F1144,3:後発品,False,False,True,False,False,False,False
+559,323,0,内用,ツムラ桃核承気湯エキス顆粒（医療用）,g,False,False,False,False,6,"2,337.5",12.8,29920,615101480,5200106D1059,1:先発品(後発なし),False,False,False,False,False,False,False
+560,324,0,内用,ツムラ当帰飲子エキス顆粒（医療用）,g,False,False,False,False,3,735.0,21.0,15435,615101481,5200108D1023,1:先発品(後発なし),False,False,False,False,False,False,False
+561,326,0,内用,ツムラ当帰四逆加呉茱萸生姜湯エキス顆粒（医療用）,g,False,False,False,False,31,"11,345.0",16.6,188327,615101483,5200110D1047,1:先発品(後発なし),False,False,False,False,False,False,False
+562,327,0,内用,ツムラ当帰芍薬散エキス顆粒（医療用）／２．５ｇ,g,False,False,False,False,4,"1,117.5",14.9,16651,615101484,5200111D1076,1:先発品(後発なし),False,False,False,False,False,False,False
+563,1868,0,内用,ドキサゾシン錠０．５ｍｇ「トーワ」,錠,False,False,False,True,26,"1,788.0",10.4,18595,622110102,2149026F1190,★:後発品(同額以上),False,False,False,False,False,False,False
+564,848,0,内用,ドキサゾシン錠１ｍｇ「ＮＳ」,錠,False,False,False,True,52,"3,750.0",10.4,39000,621631501,2149026F2260,3:後発品,False,False,False,False,False,False,False
+565,1991,0,内用,ドキサゾシン錠２ｍｇ「トーワ」,錠,False,False,False,True,29,"1,765.0",10.4,18356,621636701,2149026F3231,3:後発品,False,False,False,False,False,False,False
+566,610,0,内用,ドグマチールカプセル５０ｍｇ,カプセル,False,False,True,False,3,180.0,10.4,1872,620006993,2329009M1380,2:先発品(後発あり),False,False,False,False,False,False,True
+567,1957,0,内用,トコフェロールニコチン酸エステルカプセル１００ｍｇ「トーワ」,カプセル,False,False,False,True,20,"4,284.0",5.7,24419,620353101,2190006M1210,3:後発品,False,False,False,False,False,False,False
+568,1496,0,内用,ドネペジル塩酸塩ＯＤ錠５ｍｇ「オーハラ」,錠,False,False,False,True,44,"3,023.0",43.4,131198,622138801,1190012F4297,3:後発品,False,False,True,False,False,False,False
+569,1884,0,内用,ドネペジル塩酸塩ＯＤ錠１０ｍｇ「トーワ」,錠,False,False,False,True,4,246.0,73.1,17983,622280001,1190012F6249,3:後発品,False,False,True,False,False,False,False
+570,1901,0,内用,ドネペジル塩酸塩ＯＤ錠３ｍｇ「トーワ」,錠,False,False,False,True,2,56.0,29.1,1630,622109901,1190012F3207,3:後発品,False,False,True,False,False,False,False
+571,1967,0,内用,ドパコール配合錠Ｌ１００,錠,False,False,False,True,34,"7,715.0",8.1,62492,620124201,1169101F1170,3:後発品,False,False,False,False,False,False,False
+572,1977,0,内用,ドパコール配合錠Ｌ５０,錠,False,False,False,True,15,"1,834.0",6.1,11187,621865201,1169101F3033,3:後発品,False,False,False,False,False,False,False
+573,1030,0,内用,トビエース錠４ｍｇ,錠,False,False,False,False,2,84.0,135.0,11340,622225101,2590015G1021,1:先発品(後発なし),False,False,False,False,False,False,False
+574,1978,0,内用,トフィソパム錠５０ｍｇ「トーワ」,錠,False,False,False,True,7,640.0,6.1,3904,621361508,1124026F1340,3:後発品,False,False,False,False,False,False,False
+575,695,0,外用,トプシムスプレー０．０１４３％,g,False,False,False,False,1,84.0,9.2,773,620009028,2646708R2031,1:先発品(後発なし),False,False,True,False,False,False,False
+576,1600,0,外用,ドボベット軟膏,g,False,False,False,False,4,150.0,154.1,23115,622365101,2699802M1024,1:先発品(後発なし),False,False,True,False,False,False,False
+577,1827,0,外用,ドボベットフォーム,g,False,False,False,False,4,300.0,154.1,46230,622861501,2699802R1021,1:先発品(後発なし),False,False,True,False,False,False,False
+578,1940,0,内用,トラセミド錠４ｍｇ「ＫＯ」,錠,False,False,False,True,5,322.0,6.1,1964,622601001,2139009F1034,3:後発品,False,False,False,False,False,False,False
+579,995,0,内用,トラゼンタ錠５ｍｇ,錠,False,False,True,False,191,"6,103.0",118.9,725647,622093501,3969014F1024,1:先発品(後発なし),False,False,False,False,False,False,False
+580,2052,0,内用,トラゾドン塩酸塩錠２５ｍｇ「アメル」,錠,False,False,True,True,2,120.0,6.1,732,620156901,1179037F1053,3:後発品,False,False,True,False,False,False,False
+581,1379,0,内用,トラディアンス配合錠ＡＰ,錠,False,False,True,False,17,959.0,235.8,226132,622655001,3969108F1027,1:先発品(後発なし),False,False,False,False,False,False,False
+582,1390,0,内用,トラディアンス配合錠ＢＰ,錠,False,False,True,False,15,831.0,329.8,274064,622655101,3969108F2023,1:先発品(後発なし),False,False,False,False,False,False,False
+583,528,0,内用,トラネキサム酸錠２５０ｍｇ「ＹＤ」,錠,False,False,False,True,317,"16,252.0",10.4,169021,620005047,3327002F1169,3:後発品,False,False,False,False,False,False,False
+584,731,0,内用,トラベルミン配合錠,錠,False,False,False,False,42,"1,845.0",6.1,11255,620236101,1339100F1038,1:先発品(後発なし),False,False,False,False,False,False,False
+585,2041,0,内用,トラマドール塩酸塩ＯＤ錠２５ｍｇ「ＫＯ」,錠,False,False,False,True,6,117.0,9.4,1100,622914101,1149038F1032,3:後発品,False,False,True,False,False,False,False
+586,115,0,内用,トランサミン散５０％,g,False,False,False,False,5,31.2,10.3,321,610463119,3327002B1027,:,False,False,False,False,False,False,False
+587,612,0,内用,トランサミンシロップ５％,mL,False,False,False,False,1,30.0,4.5,135,620007001,3327002Q1062,　:準先発品,False,False,False,False,False,False,True
+588,1953,0,内用,トリアゾラム錠０．１２５ｍｇ「日新」,錠,False,False,False,True,14,630.0,5.9,3717,622106502,1124007F1160,3:後発品,True,False,False,False,False,False,False
+589,1788,0,内用,トリアゾラム錠０．２５ｍｇ「日新」,錠,False,False,False,True,25,741.0,6.1,4520,620037301,1124007F2263,3:後発品,True,False,False,False,False,False,False
+590,1804,0,内用,トリクロルメチアジド錠１ｍｇ「ＮＰ」,錠,False,False,False,True,82,"3,753.5",6.4,24022,620009400,2132003F3020,3:後発品,False,False,False,False,False,False,False
+591,1803,0,内用,トリクロルメチアジド錠２ｍｇ「ＮＰ」,錠,False,False,False,True,46,"2,615.0",6.4,16736,620009401,2132003F1400,3:後発品,False,False,False,False,False,False,False
+592,177,0,内用,トリプタノール錠　１０ｍｇ,錠,False,False,True,False,4,402.0,10.1,4060,611170801,1179002F1068,1:先発品(後発なし),False,False,False,False,False,False,False
+593,1714,0,内用,トリメブチンマレイン酸塩錠１００ｍｇ「トーワ」,錠,False,False,False,True,24,"2,626.0",6.1,16019,620505715,2399006F1552,3:後発品,False,False,False,False,False,False,False
+594,1777,0,内用,トルバプタンＯＤ錠１５ｍｇ「トーワ」,錠,False,False,False,True,2,133.0,538.2,71581,622923701,2139011F4081,3:後発品,False,False,True,False,False,False,False
+595,2121,0,内用,トルバプタンＯＤ錠３．７５ｍｇ「ニプロ」,錠,False,False,False,True,7,378.0,177.5,67095,623001001,2139011F5037,3:後発品,False,False,True,False,False,False,False
+596,1776,0,内用,トルバプタンＯＤ錠７．５ｍｇ「トーワ」,錠,False,False,False,True,13,486.5,309.0,150329,622923601,2139011F3093,3:後発品,False,False,True,False,False,False,False
+597,2119,0,内用,トルバプタンＯＤ錠７．５ｍｇ「ニプロ」,錠,False,False,False,True,5,231.0,309.0,71379,622918301,2139011F3069,3:後発品,False,False,True,False,False,False,False
+598,1111,0,注射,トルリシティ皮下注０．７５ｍｇアテオス　０．５ｍＬ,キット,False,False,True,False,6,13.0,"2,749.0",35737,622442201,2499416G1029,1:先発品(後発なし),False,False,True,False,False,False,False
+599,1026,0,注射,トレシーバ注　フレックスタッチ　３００単位,キット,False,False,True,False,21,52.0,"1,841.0",95732,622198901,2492419G1021,1:先発品(後発なし),False,False,True,False,False,False,False
+600,1092,0,内用,トレリーフＯＤ錠２５ｍｇ,錠,False,False,False,False,1,56.0,618.5,34636,622400401,1169015F2022,2:先発品(後発あり),False,False,True,False,False,False,True
+601,1945,0,外用,ドンペリドン坐剤１０ｍｇ「日新」,個,False,False,False,True,1,1.0,23.7,24,620510304,2399714J1077,3:後発品,False,False,False,False,False,False,False
+602,1946,0,外用,ドンペリドン坐剤３０ｍｇ「日新」,個,False,False,False,True,6,40.0,41.9,1676,620510504,2399714J2073,3:後発品,False,False,False,False,False,False,False
+603,1572,0,内用,ドンペリドン錠１０ｍｇ「トーワ」,錠,False,False,False,True,111,"5,368.0",6.1,32745,621371633,2399005F2384,3:後発品,False,False,False,False,False,False,False
+604,420,0,内用,ナイキサン錠１００ｍｇ,錠,False,False,False,False,7,350.0,6.1,2135,620002531,1149007F1142,1:先発品(後発なし),False,False,False,False,False,False,False
+605,989,0,内用,ナウゼリンＯＤ錠１０　１０ｍｇ,錠,False,False,False,False,1,3.0,8.8,26,622090501,2399005F4026,2:先発品(後発あり),False,False,False,False,False,False,False
+606,1233,0,外用,ナウゼリン坐剤　６０ｍｇ,個,False,False,False,False,3,13.0,76.5,995,662390003,2399714J3029,1:先発品(後発なし),False,False,False,False,False,False,False
+607,576,0,内用,ナウゼリンドライシロップ１％,g,False,False,False,False,1,5.0,10.0,50,620006055,2399005R1163,2:先発品(後発あり),False,False,False,False,False,False,True
+608,1869,0,外用,ナジフロキサシンクリーム１％「トーワ」,g,False,False,False,True,7,230.0,19.0,4370,621816301,2639700N1067,3:後発品,False,False,False,False,False,False,False
+609,1870,0,外用,ナジフロキサシンローション１％「トーワ」,mL,False,False,False,True,8,420.0,19.0,7980,621706901,2639700Q1063,3:後発品,False,False,False,False,False,False,False
+610,116,0,内用,ナトリックス錠１　１ｍｇ,錠,False,False,False,False,10,371.0,10.4,3858,610463125,2149012F1059,1:先発品(後発なし),False,False,False,False,False,False,False
+611,1816,0,内用,ナフトピジルＯＤ錠２５ｍｇ「杏林」,錠,False,False,False,True,10,208.0,10.4,2163,622405501,2590009F6111,3:後発品,False,False,False,False,False,False,False
+612,1861,0,内用,ナフトピジルＯＤ錠５０ｍｇ「トーワ」,錠,False,False,False,True,2,81.0,13.7,1110,622448401,2590009F4224,3:後発品,False,False,False,False,False,False,False
+613,1327,0,内用,ナラトリプタン錠２．５ｍｇ「ＫＯ」,錠,False,False,False,True,1,10.0,159.7,1597,622794201,2160007F1039,3:後発品,False,False,True,False,False,False,False
+614,1429,0,内用,ナルサス錠１２ｍｇ,錠,True,False,False,False,6,112.0,990.2,110902,622550001,8119003G3021,1:先発品(後発なし),False,False,True,False,False,False,False
+615,1155,0,内用,ナルサス錠２４ｍｇ,錠,True,False,False,False,3,63.0,"1,815.8",114395,622550101,8119003G4028,1:先発品(後発なし),False,False,True,False,False,False,False
+616,1153,0,内用,ナルサス錠２ｍｇ,錠,True,False,False,False,19,431.0,206.6,89045,622549801,8119003G1029,1:先発品(後発なし),False,False,True,False,False,False,False
+617,1154,0,内用,ナルサス錠６ｍｇ,錠,True,False,False,False,9,192.0,540.0,103680,622549901,8119003G2025,1:先発品(後発なし),False,False,True,False,False,False,False
+618,2107,0,内用,ナルフラフィン塩酸塩ＯＤ錠２．５μｇ「サワイ」,錠,False,False,False,True,2,42.0,234.2,9836,622638501,1190015F1038,3:後発品,False,False,True,False,False,False,False
+619,1156,0,内用,ナルラピド錠１ｍｇ,錠,True,False,False,False,22,685.0,112.6,77131,622550201,8119003F1023,1:先発品(後発なし),False,False,True,False,False,False,False
+620,1157,0,内用,ナルラピド錠２ｍｇ,錠,True,False,False,False,5,210.0,206.6,43386,622550301,8119003F2020,1:先発品(後発なし),False,False,True,False,False,False,False
+621,1158,0,内用,ナルラピド錠４ｍｇ,錠,True,False,False,False,4,150.0,378.8,56820,622550501,8119003F3026,1:先発品(後発なし),False,False,True,False,False,False,False
+622,1457,0,内用,ニコチン酸アミド散１０％「ゾンネ」,g,False,False,False,False,3,168.0,10.7,1798,620007009,3132002B1034,1:先発品(後発なし),False,False,False,False,False,False,False
+623,741,0,内用,ニコランジル錠５ｍｇ「トーワ」,錠,False,False,False,True,40,"3,434.0",6.1,20947,620325301,2171017F2172,3:後発品,False,False,False,False,False,False,False
+624,1930,0,内用,ニセルゴリン錠５ｍｇ「日新」,錠,False,False,False,True,1,210.0,10.1,2121,621405701,2190021F1461,3:後発品,False,False,False,False,False,False,False
+625,544,0,外用,ニゾラールクリーム２％,g,False,False,False,False,12,440.0,16.0,7040,620005277,2655709N1053,2:先発品(後発あり),False,False,False,False,False,False,True
+626,373,0,外用,ニゾラールローション２％,g,False,False,False,False,1,20.0,22.1,442,620000385,2655709Q1025,2:先発品(後発あり),False,False,False,False,False,False,False
+627,1833,0,内用,ニトラゼパム錠５ｍｇ「トーワ」,錠,False,False,True,True,4,206.0,5.7,1174,620003588,1124003F2249,3:後発品,True,False,False,False,False,False,False
+628,219,0,内用,ニトロールＲカプセル２０ｍｇ,カプセル,False,False,False,False,8,902.0,8.5,7667,612170264,2171011N1050,2:先発品(後発あり),False,False,False,False,False,False,True
+629,743,0,外用,ニトロダームＴＴＳ２５ｍｇ　１０ｃｍ２,枚,False,False,False,False,6,91.0,42.2,3840,620335601,2171701S2037,1:先発品(後発なし),False,False,True,False,False,False,False
+630,502,0,内用,ニトロペン舌下錠０．３ｍｇ,錠,False,False,False,True,6,34.0,10.0,340,620004541,2171018K1039,3:後発品,False,False,True,False,False,False,False
+631,866,0,内用,ニフェジピンＣＲ錠１０ｍｇ「ＮＰ」,錠,False,False,False,True,58,"2,995.0",8.9,26656,621838103,2171014G3081,★:後発品(同額以上),False,False,True,False,False,False,False
+632,867,0,内用,ニフェジピンＣＲ錠２０ｍｇ「ＮＰ」,錠,False,False,False,True,183,"11,708.0",9.1,106543,621838203,2171014G4088,3:後発品,False,False,True,False,False,False,False
+633,1975,0,内用,ニフェジピンＣＲ錠４０ｍｇ「ＮＰ」,錠,False,False,False,True,113,"5,854.0",17.0,99518,621838303,2171014G5084,3:後発品,False,False,True,False,False,False,False
+634,1655,0,内用,ニフェジピンＬ錠１０ｍｇ「杏林」,錠,False,False,False,True,51,796.0,5.9,4696,620318903,2171014G1313,3:後発品,False,False,True,False,False,False,False
+635,740,0,内用,ニフェジピンＬ錠２０ｍｇ「トーワ」,錠,False,False,False,True,10,"1,312.0",6.1,8003,620320301,2171014G2298,3:後発品,False,False,True,False,False,False,False
+636,1389,0,内用,乳糖水和物「ヨシダ」,g,False,False,False,False,3,36.0,2.46,89,620008325,7111001X1310,1:先発品(後発なし),False,False,False,False,False,False,False
+637,707,0,内用,ニューロタン錠２５ｍｇ,錠,False,False,False,False,7,230.0,22.8,5244,620009126,2149039F1031,2:先発品(後発あり),False,False,False,False,False,False,True
+638,708,0,内用,ニューロタン錠５０ｍｇ,錠,False,False,False,False,3,251.0,42.2,10592,620009127,2149039F2038,2:先発品(後発あり),False,False,False,False,False,False,True
+639,1873,0,外用,尿素クリーム２０％「ＳＵＮ」,g,False,False,False,True,11,700.0,3.3,2310,620665702,2669701N2113,3:後発品,False,False,False,False,False,False,False
+640,328,0,内用,ツムラ人参養栄湯エキス顆粒（医療用）,g,False,False,False,False,3,"1,359.0",20.1,27316,615101490,5200117D1030,1:先発品(後発なし),False,False,False,False,False,False,False
+641,2134,0,外用,ネオキシテープ７３．５ｍｇ,枚,False,False,False,False,2,70.0,135.1,9457,622238901,2590700S1025,1:先発品(後発なし),False,False,False,False,False,False,False
+642,1228,0,外用,ネオメドロールＥＥ軟膏,g,False,False,False,False,2,6.0,41.0,246,661310099,1319807M1025,:,False,False,False,False,False,False,False
+643,978,0,内用,ネキシウムカプセル１０ｍｇ,カプセル,False,False,False,False,11,556.0,34.7,19293,622080701,2329029M1027,2:先発品(後発あり),False,False,False,False,False,False,True
+644,979,0,内用,ネキシウムカプセル２０ｍｇ,カプセル,False,False,False,False,18,733.0,59.3,43467,622080801,2329029M2023,2:先発品(後発あり),False,False,False,False,False,False,True
+645,918,0,内用,ネシーナ錠２５ｍｇ,錠,False,False,True,False,26,"1,601.0",156.7,250877,621986201,3969012F3028,1:先発品(後発なし),False,False,False,False,False,False,False
+646,613,0,内用,ノイロトロピン錠４単位,錠,False,False,False,False,26,"1,946.0",28.5,55461,620007022,1149023F1036,1:先発品(後発なし),False,False,False,False,False,False,False
+647,797,0,内用,ノイロビタン配合錠,錠,False,False,False,False,19,"2,085.0",6.0,12510,620719401,3179106F1039,1:先発品(後発なし),False,False,False,False,False,False,False
+648,1292,0,内用,ノウリアスト錠２０ｍｇ,錠,False,False,False,False,7,609.0,770.6,469295,622245801,1169016F1020,1:先発品(後発なし),False,False,False,False,False,False,False
+649,175,0,内用,ノバミン錠５ｍｇ,錠,False,False,True,False,1,10.0,10.1,101,611170766,1172010F1037,1:先発品(後発なし),False,False,False,False,False,False,False
+650,1091,0,内用,ノベルジン錠２５ｍｇ,錠,False,False,False,False,8,422.0,201.1,84864,622389001,3929007F1029,2:先発品(後発あり),False,False,True,False,False,False,True
+651,901,0,注射,ノボラピッド５０ミックス注　フレックスペン　３００単位,キット,False,False,True,False,3,22.0,"1,416.0",31152,621973201,2492415G4022,1:先発品(後発なし),False,False,True,False,False,False,False
+652,1726,0,注射,ノボラピッド注　フレックスペン　３００単位,キット,False,False,True,False,44,136.0,"1,293.0",175848,620008893,2492415G1031,2:先発品(後発あり),False,False,True,False,False,False,False
+653,371,0,注射,ノボリン３０Ｒ注フレックスペン　３００単位,キット,False,False,True,False,4,20.0,"1,339.0",26780,620000269,2492413G5054,1:先発品(後発なし),False,False,True,False,False,False,False
+654,370,0,注射,ノボリンＲ注フレックスペン　３００単位,キット,False,False,True,False,4,4.0,"1,167.0",4668,620000265,2492413G8053,1:先発品(後発なし),False,False,True,False,False,False,False
+655,2050,0,注射,ノルディトロピン　フレックスプロ注　１０ｍｇ,キット,False,False,False,False,3,6.0,"57,431.0",344586,622004201,2412402P7023,1:先発品(後発なし),False,False,False,False,False,False,False
+656,656,0,内用,ノルバスクＯＤ錠２．５ｍｇ,錠,False,False,False,False,74,"4,302.0",13.5,58077,620008040,2171022F3048,2:先発品(後発あり),False,False,True,False,False,False,True
+657,657,0,内用,ノルバスクＯＤ錠５ｍｇ,錠,False,False,False,False,63,"4,938.0",13.7,67651,620008041,2171022F4044,2:先発品(後発あり),False,False,True,False,False,False,True
+658,104,0,内用,ハーフジゴキシンＫＹ錠０．１２５　０．１２５ｍｇ,錠,False,False,True,False,20,797.0,10.1,8050,610462018,2113003F2029,1:先発品(後発なし),False,False,True,False,False,False,False
+659,64,0,内用,バイアスピリン錠１００ｍｇ,錠,False,False,True,True,262,"12,488.0",5.9,73679,610443053,3399007H1021,3:後発品,False,False,False,False,False,False,False
+660,1409,0,内用,バイカロン錠２５ｍｇ,錠,False,False,False,False,1,60.0,10.4,624,620008677,2135001F1128,2:先発品(後発あり),False,False,False,False,False,False,False
+661,89,0,内用,ハイシ－顆粒２５％　1g/包,g,False,False,False,False,1,273.0,6.5,1775,610454055,3140002D1037,1:先発品(後発なし),False,False,False,False,False,False,False
+662,90,0,内用,ハイチオール錠４０　４０ｍｇ,錠,False,False,False,True,22,"6,720.0",5.9,39648,610454057,3999006F1037,3:後発品,False,False,False,False,False,False,False
+663,281,0,内用,ハイドレアカプセル５００ｍｇ,カプセル,False,False,True,False,6,321.0,184.6,59257,614220010,4229001M1027,1:先発品(後発なし),False,False,True,True,False,False,False
+664,117,0,内用,ハイボン錠２０ｍｇ,錠,False,False,False,False,3,215.0,5.9,1269,610463151,3131002F1276,　:準先発品,False,False,False,False,False,False,True
+665,226,0,内用,バイロテンシン錠５ｍｇ,錠,False,False,False,False,1,126.0,13.6,1714,612170632,2171020F1020,2:先発品(後発あり),False,False,False,False,False,False,True
+666,816,0,内用,バクタ配合錠,錠,False,False,False,False,18,237.5,69.2,16435,621148901,6290100F2115,基:基礎的医薬品,False,False,False,False,False,False,False
+667,329,0,内用,ツムラ麦門冬湯エキス顆粒（医療用）,g,False,False,False,False,20,"3,798.0",16.5,62667,615101492,5200119D1030,1:先発品(後発なし),False,False,False,False,False,False,False
+668,1935,0,内用,バゼドキシフェン錠２０ｍｇ「サワイ」,錠,False,False,False,True,12,632.0,27.3,17254,622811701,3999027F1039,3:後発品,False,False,False,False,False,False,False
+669,330,0,内用,ツムラ八味地黄丸エキス顆粒（医療用）,g,False,False,False,False,15,"5,440.0",9.8,53312,615101493,5200121D1045,1:先発品(後発なし),False,False,False,False,False,False,False
+670,2066,0,内用,ハッカ油「ケンエー」,mL,False,False,False,False,5,21.0,20.1,422,620001246,7149006X1060,1:先発品(後発なし),False,False,False,False,False,False,False
+671,254,0,内用,バップフォー錠　１０ｍｇ,錠,False,False,False,False,1,90.0,24.3,2187,612590051,2590007F1021,2:先発品(後発あり),False,False,False,False,False,False,True
+672,255,0,内用,バップフォー錠　２０ｍｇ,錠,False,False,False,False,2,60.0,41.4,2484,612590052,2590007F2028,2:先発品(後発あり),False,False,False,False,False,False,True
+673,1954,0,内用,バラシクロビル錠５００ｍｇ「ＳＰＫＫ」,錠,False,False,False,True,20,412.0,67.5,27810,622863501,6250019F1365,3:後発品,False,False,False,False,False,False,False
+674,21,0,内用,パリエット錠１０ｍｇ,錠,False,False,False,False,13,720.0,35.8,25776,610412202,2329028F1023,2:先発品(後発あり),False,False,False,False,False,False,True
+675,1095,0,内用,パリエット錠５ｍｇ,錠,False,False,False,False,1,91.0,21.6,1966,622402601,2329028F3026,2:先発品(後発あり),False,False,False,False,False,False,False
+676,1510,0,内用,バルサルタン錠２０ｍｇ「日新」,錠,False,False,False,True,30,"1,545.0",10.4,16068,622343101,2149041F1292,3:後発品,False,False,False,False,False,False,False
+677,1472,0,内用,バルサルタン錠４０ｍｇ「日新」,錠,False,False,False,True,103,"7,745.0",10.4,80548,622343201,2149041F2299,3:後発品,False,False,False,False,False,False,False
+678,1808,0,内用,バルサルタン錠８０ｍｇ「サンド」,錠,False,False,False,True,37,"2,771.0",13.2,36577,622355101,2149041F3236,3:後発品,False,False,False,False,False,False,False
+679,146,0,内用,ハルシオン０．１２５ｍｇ錠,錠,False,False,False,False,1,56.0,6.1,342,611120117,1124007F1020,2:先発品(後発あり),True,False,False,False,False,False,True
+680,137,0,内用,ハルシオン０．２５ｍｇ錠,錠,False,False,False,False,16,600.0,7.8,4680,611120055,1124007F2026,2:先発品(後発あり),True,False,False,False,False,False,True
+681,100,0,内用,バルトレックス顆粒５０％,g,False,False,False,False,3,22.0,178.6,3929,610462012,6250019D1020,2:先発品(後発あり),False,False,False,False,False,False,True
+682,421,0,内用,ハルナールＤ錠０．２ｍｇ,錠,False,False,False,False,4,259.0,25.3,6553,620002536,2590008F2022,2:先発品(後発あり),False,False,False,False,False,False,True
+683,1301,0,内用,バルプロ酸ナトリウム徐放錠Ａ２００ｍｇ「トーワ」,錠,False,False,True,True,3,294.0,10.4,3058,621748202,1139004G2080,3:後発品,False,False,False,False,False,False,False
+684,817,0,内用,バルプロ酸ナトリウムシロップ５％「日医工」,mL,False,False,True,True,1,720.0,9.3,6696,621210704,1139004Q1119,★:後発品(同額以上),False,False,False,False,False,False,False
+685,1324,0,外用,パルミコート２００μｇタービュヘイラー５６吸入　１１．２ｍｇ,瓶,False,False,False,False,4,5.0,911.6,4558,620005291,2290701G2035,1:先発品(後発なし),False,False,False,False,False,False,False
+686,496,0,外用,パルミコート吸入液０．５ｍｇ　２ｍＬ,管,False,False,False,False,1,14.0,142.5,1995,620004367,2290701G5026,2:先発品(後発あり),False,False,False,False,False,False,True
+687,1660,0,内用,パルモディアＸＲ錠０．２ｍｇ,錠,False,False,False,False,60,"3,615.0",60.0,216900,622945401,2183007G1020,1:先発品(後発なし),False,False,False,False,False,False,False
+688,1661,0,内用,パルモディアＸＲ錠０．４ｍｇ,錠,False,False,False,False,12,749.0,111.0,83139,622945501,2183007G2027,1:先発品(後発なし),False,False,False,False,False,False,False
+689,1165,0,内用,パルモディア錠０．１ｍｇ,錠,False,False,False,False,30,"3,508.0",32.4,113659,622573101,2183007F1025,1:先発品(後発なし),False,False,False,False,False,False,False
+690,1795,0,内用,パロキセチン錠１０ｍｇ「日新」,錠,False,False,True,True,2,62.0,11.6,719,622152801,1179041F1270,3:後発品,False,False,True,False,False,False,False
+691,1847,0,内用,パロキセチン錠２０ｍｇ「日新」,錠,False,False,True,True,1,60.0,18.7,1122,622152901,1179041F2277,3:後発品,False,False,True,False,False,False,False
+692,1986,0,内用,パロキセチン錠５ｍｇ「オーハラ」,錠,False,False,True,True,2,60.0,10.4,624,622234601,1179041F3290,3:後発品,False,False,True,False,False,False,False
+693,331,0,内用,ツムラ半夏厚朴湯エキス顆粒（医療用）,g,False,False,False,False,12,"4,452.5",14.6,65007,615101494,5200122D1074,1:先発品(後発なし),False,False,False,False,False,False,False
+694,332,0,内用,ツムラ半夏瀉心湯エキス顆粒（医療用）,g,False,False,False,False,2,435.0,22.3,9701,615101495,5200123D1079,1:先発品(後発なし),False,False,False,False,False,False,False
+695,546,0,外用,パンデルローション０．１％,mL,False,False,False,False,21,890.0,16.7,14863,620005295,2646721Q1051,1:先発品(後発なし),False,False,False,False,False,False,False
+696,1805,0,外用,ヒアルロン酸Ｎａ点眼液０．１％「日新」　５ｍＬ,瓶,False,False,False,True,15,24.0,92.5,2220,622005901,1319720Q3116,3:後発品,False,False,False,False,False,False,False
+697,727,0,内用,ピーエイ配合錠,錠,False,False,False,True,42,"1,064.0",4.9,5214,620161401,1180109F1034,3:後発品,False,False,False,False,False,False,False
+698,1191,0,内用,ピートル顆粒分包２５０ｍｇ,包,False,False,False,False,6,518.0,141.7,73401,622651201,2190036D1025,1:先発品(後発なし),False,False,False,False,False,False,False
+699,966,0,内用,ピオグリタゾンＯＤ錠１５ｍｇ「ＮＳ」,錠,False,False,True,True,19,"1,540.0",12.7,19558,622063201,3969007F3060,3:後発品,False,False,False,False,False,False,False
+700,753,0,内用,ビオスリー配合錠,錠,False,False,False,False,193,"27,949.0",6.6,184463,620421201,2316017F1035,1:先発品(後発なし),False,False,False,False,False,False,False
+701,529,0,内用,ビオチン散０．２％「フソー」,g,False,False,False,False,1,90.0,7.1,639,620005067,3190001B1041,1:先発品(後発なし),False,False,False,False,False,False,False
+702,751,0,内用,ビオフェルミンＲ散,g,False,False,False,True,1,15.0,6.5,98,620418501,2316004B1036,3:後発品,False,False,False,False,False,False,False
+703,365,0,内用,ビオフェルミン錠剤,錠,False,False,False,True,38,"6,997.0",5.9,41282,620000094,2316020F1029,3:後発品,False,False,False,False,False,False,False
+704,752,0,内用,ビオフェルミン配合散,g,False,False,False,False,7,767.0,6.5,4986,620420001,2316012A1132,1:先発品(後発なし),False,False,False,False,False,False,False
+705,377,0,内用,ビ・シフロール錠０．１２５ｍｇ,錠,False,False,False,False,22,517.0,16.6,8582,620000435,1169012F1022,2:先発品(後発あり),False,False,True,False,False,False,True
+706,378,0,内用,ビ・シフロール錠０．５ｍｇ,錠,False,False,False,False,1,168.0,61.1,10265,620000436,1169012F2029,2:先発品(後発あり),False,False,True,False,False,False,True
+707,1046,0,外用,ビソノテープ４ｍｇ,枚,False,False,True,False,5,84.0,57.0,4788,622264101,2149700S1027,1:先発品(後発なし),False,False,False,False,False,False,False
+708,2072,0,内用,ビソプロロールフマル酸塩錠２．５ｍｇ「ＤＳＥＰ」,錠,False,False,True,True,209,"10,161.5",10.4,105680,622942201,2123016F1204,3:後発品,False,False,False,False,False,False,False
+709,1918,0,内用,ビソプロロールフマル酸塩錠５ｍｇ「トーワ」,錠,False,False,True,True,31,"2,007.0",10.4,20873,621400001,2123016F2200,3:後発品,False,False,False,False,False,False,False
+710,1345,0,内用,ビソプロロールフマル酸塩錠０．６２５ｍｇ「トーワ」,錠,False,False,True,True,61,"5,290.0",10.4,55016,622339301,2123016F3100,★:後発品(同額以上),False,False,False,False,False,False,False
+711,1287,0,内用,ピタバスタチンＣａ錠１ｍｇ「トーワ」,錠,False,False,False,True,130,"7,327.5",10.4,76206,622280201,2189016F1184,3:後発品,False,False,False,False,False,False,False
+712,1289,0,内用,ピタバスタチンＣａ錠２ｍｇ「トーワ」,錠,False,False,False,True,71,"5,877.0",15.9,93444,622280301,2189016F2180,3:後発品,False,False,False,False,False,False,False
+713,119,0,内用,ピドキサール錠２０ｍｇ,錠,False,False,False,False,83,"10,952.0",6.1,66807,610463158,3134003F2147,　:準先発品,False,False,False,False,False,False,True
+714,935,0,内用,ビビアント錠２０ｍｇ,錠,False,False,False,False,2,150.0,51.7,7755,622003201,3999027F1020,2:先発品(後発あり),False,False,False,False,False,False,True
+715,577,0,内用,ビブラマイシン錠５０ｍｇ,錠,False,False,False,False,5,176.0,12.5,2200,620006083,6152004F1074,基:基礎的医薬品,False,False,False,False,False,False,False
+716,214,0,内用,ヒポカ１５ｍｇカプセル,カプセル,False,False,False,False,1,91.0,53.8,4896,612140699,2149030N3020,1:先発品(後発なし),False,False,True,False,False,False,False
+717,1129,0,内用,ビムパット錠５０ｍｇ,錠,False,False,True,False,6,364.0,217.8,79279,622507901,1139015F1027,2:先発品(後発あり),False,False,True,False,False,False,False
+718,1312,0,内用,ピモベンダン錠１．２５ｍｇ「ＴＥ」,錠,False,False,False,True,2,336.0,31.9,10718,620008499,2119006F1020,3:後発品,False,False,False,False,False,False,False
+719,334,0,内用,ツムラ白虎加人参湯エキス顆粒（医療用）,g,False,False,False,False,1,630.0,17.7,11151,615101497,5200125D1035,1:先発品(後発なし),False,False,False,False,False,False,False
+720,1135,0,内用,ビラノア錠２０ｍｇ,錠,False,False,False,False,66,"3,553.0",48.7,173031,622516602,4490033F1028,1:先発品(後発なし),False,False,False,False,False,False,False
+721,2126,0,内用,ピリドキサール錠２０ｍｇ「ツルハラ」,錠,False,False,False,True,133,"15,996.0",5.9,94376,620703202,3134003F2163,3:後発品,False,False,False,False,False,False,False
+722,1836,0,内用,ピルシカイニド塩酸塩カプセル２５ｍｇ「トーワ」,カプセル,False,False,True,True,4,133.0,11.9,1583,621643001,2129008M1130,3:後発品,False,False,True,False,False,False,False
+723,698,0,外用,ヒルドイドソフト軟膏０．３％,g,False,False,False,False,"1,110","66,740.0",18.2,1214668,620009048,3339950M1137,　:準先発品,False,False,False,False,False,False,True
+724,699,0,外用,ヒルドイドローション０．３％,g,False,False,False,False,28,"3,300.0",18.2,60060,620009049,3339950Q1074,　:準先発品,False,False,False,False,False,False,True
+725,1459,0,外用,ビレーズトリエアロスフィア５６吸入,キット,False,False,False,False,1,3.0,"4,127.6",12383,622687001,2290805G1027,1:先発品(後発なし),False,False,False,False,False,False,False
+726,1380,0,外用,ピレノキシン懸濁性点眼液０．００５％「参天」　５ｍＬ,瓶,False,False,False,True,3,10.0,67.0,670,620212001,1319706Q3043,3:後発品,False,False,False,False,False,False,False
+727,1706,0,内用,ファモチジンＯＤ錠１０ｍｇ「トーワ」,錠,False,False,False,True,52,"4,179.0",10.4,43462,621687301,2325003F3230,3:後発品,False,False,False,False,False,False,False
+728,1693,0,内用,ファモチジンＯＤ錠２０ｍｇ「トーワ」,錠,False,False,False,True,150,"12,336.0",10.4,128294,621687401,2325003F4252,3:後発品,False,False,False,False,False,False,False
+729,17,0,内用,ファロム錠２００ｍｇ,錠,False,False,False,False,7,156.0,153.0,23868,610411056,6139001F2024,基:基礎的医薬品,False,False,False,False,False,False,False
+730,1125,0,内用,フィコンパ錠２ｍｇ,錠,False,False,True,False,8,237.0,195.7,46381,622484601,1139014F1022,1:先発品(後発なし),False,False,False,False,False,False,False
+731,2057,0,外用,ブイタマークリーム１％,g,False,False,False,False,3,165.0,300.8,49632,622969801,2699717N1028,1:先発品(後発なし),False,False,False,False,False,False,False
+732,1529,0,内用,フィナステリド錠1ｍｇ「VTRS」,錠,False,False,False,False,2,180.0,0.0,34614,50000008,,1:先発品(後発なし),False,False,False,False,False,False,False
+733,2046,0,内用,フェキソフェナジン塩酸塩錠３０ｍｇ「杏林」,錠,False,False,False,True,48,"1,796.0",10.4,18678,622234901,4490023F2152,3:後発品,False,False,False,False,False,False,False
+734,1682,0,内用,フェキソフェナジン塩酸塩錠６０ｍｇ「トーワ」,錠,False,False,False,True,412,"41,121.0",23.1,949895,622236601,4490023F1202,3:後発品,False,False,False,False,False,False,False
+735,380,0,内用,フェノバール散１０％,g,False,False,True,False,1,5.32,7.7,41,620000465,1125003B2031,1:先発品(後発なし),True,False,True,False,False,False,False
+736,1178,0,内用,フェノフィブラート錠５３．３ｍｇ「武田テバ」,錠,False,False,False,True,26,"2,733.0",8.8,24050,622590501,2183006F3040,3:後発品,False,False,False,False,False,False,False
+737,1778,0,内用,フェブキソスタット錠１０ｍｇ「トーワ」,錠,False,False,False,True,139,"7,297.5",6.1,44515,622913301,3949003F1112,3:後発品,False,False,False,False,False,False,False
+738,1866,0,内用,フェブキソスタット錠２０ｍｇ「トーワ」,錠,False,False,False,True,87,"5,074.0",10.4,52770,622913401,3949003F2119,3:後発品,False,False,False,False,False,False,False
+739,1771,0,内用,フェブキソスタット錠４０ｍｇ「トーワ」,錠,False,False,False,True,15,"1,038.0",17.3,17957,622913501,3949003F3115,3:後発品,False,False,False,False,False,False,False
+740,962,0,内用,フェブリク錠１０ｍｇ,錠,False,False,False,False,20,790.0,14.2,11218,622057201,3949003F1023,2:先発品(後発あり),False,False,False,False,False,False,True
+741,963,0,内用,フェブリク錠２０ｍｇ,錠,False,False,False,False,5,374.0,27.7,10360,622057301,3949003F2020,2:先発品(後発あり),False,False,False,False,False,False,True
+742,1530,0,内用,フェブリク錠４０ｍｇ,錠,False,False,False,False,1,91.0,48.8,4441,622057401,3949003F3026,2:先発品(後発あり),False,False,False,False,False,False,True
+743,448,0,内用,フェマーラ錠２．５ｍｇ,錠,False,False,True,False,2,180.0,172.7,31086,620003467,4291015F1026,2:先発品(後発あり),False,False,True,True,False,False,False
+744,1358,0,外用,フェルビナクスチック軟膏３％「三笠」,g,False,False,False,True,44,"3,280.0",4.5,14760,620645302,2649731M1098,★:後発品(同額以上),False,False,False,False,False,False,False
+745,801,0,内用,フェロ・グラデュメット錠１０５ｍｇ,錠,False,False,False,False,3,210.0,6.1,1281,620729101,3222007G1033,1:先発品(後発なし),False,False,False,False,False,False,False
+746,754,0,内用,フェロベリン配合錠,錠,False,False,False,False,5,75.0,8.9,668,620425801,2319100F1064,　:準先発品,False,False,False,False,False,False,True
+747,267,0,内用,フェロミア錠　鉄５０ｍｇ,錠,False,False,False,False,71,"6,734.0",6.1,41077,613220039,3222013F1025,2:先発品(後発あり),False,False,False,False,False,False,False
+748,1732,0,外用,フェンタニルクエン酸塩１日用テープ１ｍｇ「第一三共」,枚,True,False,False,True,3,30.0,240.1,7203,622643101,8219701S1033,3:後発品,False,False,True,False,False,False,False
+749,1733,0,外用,フェンタニルクエン酸塩１日用テープ４ｍｇ「第一三共」,枚,True,False,False,True,1,7.0,864.0,6048,622643301,8219701S3036,3:後発品,False,False,True,False,False,False,False
+750,1190,0,外用,フェントステープ０．５ｍｇ,枚,True,False,False,False,4,110.0,262.7,28897,622645901,8219701S6027,2:先発品(後発あり),False,False,True,False,False,True,True
+751,493,0,内用,フォサマック錠３５ｍｇ,錠,False,False,False,False,6,51.0,202.1,10307,620004357,3999018F2028,2:先発品(後発あり),False,False,True,False,False,False,False
+752,1576,0,内用,フォシーガ錠１０ｍｇ,錠,False,False,True,False,45,"2,878.0",220.3,634023,622342001,3969019F2023,2:先発品(後発あり),False,False,False,False,False,True,False
+753,1069,0,内用,フォシーガ錠５ｍｇ,錠,False,False,True,False,5,434.0,149.3,64796,622341901,3969019F1027,2:先発品(後発あり),False,False,False,False,False,True,False
+754,1747,0,内用,フォゼベル錠１０ｍｇ,錠,False,False,False,False,52,"1,665.0",307.8,512487,622951301,2190045F2021,1:先発品(後発なし),False,False,False,False,False,False,False
+755,1711,0,内用,フォゼベル錠５ｍｇ,錠,False,False,False,False,75,"2,185.0",208.3,455136,622951201,2190045F1025,1:先発品(後発なし),False,False,False,False,False,False,False
+756,264,0,内用,フォリアミン錠　５ｍｇ,錠,False,False,False,False,8,"1,057.0",10.1,10676,613130585,3135001F1025,1:先発品(後発なし),False,False,False,False,False,False,False
+757,1736,0,外用,フシジンレオ軟膏２％　２０ｍｇ,g,False,False,False,False,4,60.0,25.0,1500,620007752,2634708M1037,基:基礎的医薬品,False,False,False,False,False,False,False
+758,677,0,内用,ブスコパン錠１０ｍｇ,錠,False,False,False,False,46,378.0,6.1,2306,620008704,1242002F1330,:,False,False,False,False,False,False,False
+759,2002,0,外用,ブデソニド吸入液０．５ｍｇ「武田テバ」　２ｍＬ,管,False,False,False,True,3,155.0,58.4,9052,622701901,2290701G5034,3:後発品,False,False,False,False,False,False,False
+760,957,0,内用,プラザキサカプセル１１０ｍｇ,カプセル,False,False,True,False,2,210.0,216.3,45423,622043401,3339001M2020,1:先発品(後発なし),False,False,False,False,False,False,False
+761,956,0,内用,プラザキサカプセル７５ｍｇ,カプセル,False,False,True,False,5,"1,260.0",122.4,154224,622043301,3339001M1024,1:先発品(後発なし),False,False,False,False,False,False,False
+762,841,0,内用,プラバスタチンＮａ錠１０ｍｇ「トーワ」,錠,False,False,False,True,28,"1,421.0",14.1,20036,621531101,2189010F2370,3:後発品,False,False,False,False,False,False,False
+763,840,0,内用,プラバスタチンＮａ錠５ｍｇ「トーワ」,錠,False,False,False,True,14,"1,198.0",10.4,12459,621531001,2189010F1357,3:後発品,False,False,False,False,False,False,False
+764,450,0,内用,プラビックス錠７５ｍｇ,錠,False,False,True,False,14,543.0,58.2,31603,620003469,3399008F2021,2:先発品(後発あり),False,False,False,False,False,False,True
+765,1784,0,内用,プラミペキソール塩酸塩ＬＡ錠１．５ｍｇＭＩ「オーハラ」,錠,False,False,False,True,1,210.0,74.0,15540,622528301,1169012G2067,3:後発品,False,False,True,False,False,False,False
+766,1792,0,内用,プラミペキソール塩酸塩錠０．５ｍｇ「日新」,錠,False,False,False,True,1,270.0,37.7,10179,622245301,1169012F2185,3:後発品,False,False,True,False,False,False,False
+767,2076,0,内用,プランルカスト錠１１２．５ｍｇ「ＡＦＰ」,錠,False,False,False,True,2,360.0,13.4,4824,620009428,4490017F1037,3:後発品,False,False,False,False,False,False,False
+768,578,0,内用,プリンペラン錠５　５ｍｇ,錠,False,False,False,False,15,163.0,6.7,1092,620006100,2399004F1200,　:準先発品,False,False,False,False,False,False,True
+769,715,0,内用,フルイトラン錠１ｍｇ,錠,False,False,False,False,7,239.75,10.1,2421,620009430,2132003F3039,　:準先発品,False,False,False,False,False,False,True
+770,201,0,内用,フルイトラン錠２ｍｇ,錠,False,False,False,False,2,119.0,10.1,1202,612130207,2132003F1257,　:準先発品,False,False,False,False,False,False,True
+771,1212,0,外用,フルタイド２００ディスカス　２００μｇ６０ブリスター,個,False,False,False,False,2,4.0,"1,247.6",4990,660451016,2290700G6028,1:先発品(後発なし),False,False,False,False,False,False,False
+772,1310,0,外用,フルタイド５０ディスカス　５０μｇ６０ブリスター,個,False,False,False,False,1,3.0,646.5,1940,660451012,2290700G4025,1:先発品(後発なし),False,False,False,False,False,False,False
+773,1630,0,外用,フルタイド５０μｇエアゾール１２０吸入用　８．８３ｍｇ１０．６ｇ,瓶,False,False,False,False,2,2.0,891.7,1783,621512601,2290700G7032,1:先発品(後発なし),False,False,False,False,False,False,False
+774,1891,0,外用,フルチカゾンフランカルボン酸エステル２７．５トーワ５６　３ｍｇ,瓶,False,False,False,True,22,36.0,459.7,16549,622940601,1329711Q3040,3:後発品,False,False,False,False,False,False,False
+775,1895,0,外用,フルチカゾンプロピオン酸エステル５０トーワ５６　４．０８ｍｇ８,瓶,False,False,False,True,31,49.0,474.1,23231,621907901,1329707Q3265,3:後発品,False,False,False,False,False,False,False
+776,1475,0,外用,フルティフォーム１２５エアゾール１２０吸入用,瓶,False,False,False,False,1,1.0,"4,340.4",4340,622278201,2290802G4022,1:先発品(後発なし),False,False,False,False,False,False,False
+777,1995,0,内用,フルニトラゼパム錠１ｍｇ「アメル」,錠,False,False,False,True,46,"1,173.0",5.9,6921,610444126,1124008F1067,3:後発品,True,False,False,False,False,False,False
+778,120,0,内用,フルニトラゼパム錠２ｍｇ「アメル」,錠,False,False,False,True,6,91.0,6.1,555,610463174,1124008F2047,3:後発品,True,False,False,False,False,False,False
+779,894,0,内用,フルバスタチン錠３０ｍｇ「サワイ」,錠,False,False,False,True,4,181.0,25.6,4634,621964501,2189012F3030,3:後発品,False,False,False,False,False,False,False
+780,422,0,内用,ブルフェン錠１００　１００ｍｇ,錠,False,False,False,False,4,145.0,6.1,885,620002537,1149001F1455,☆:先発品(同額以下),False,False,False,False,False,False,False
+781,1755,0,内用,フルボキサミンマレイン酸塩錠２５ｍｇ「トーワ」,錠,False,False,True,True,4,379.0,10.4,3942,622055001,1179039F1184,3:後発品,False,False,False,False,False,False,False
+782,636,0,外用,フルメトロン点眼液０．０２％,mL,False,False,False,False,7,60.0,24.2,1452,620007763,1315704Q1115,2:先発品(後発あり),False,False,False,False,False,False,False
+783,637,0,外用,フルメトロン点眼液０．１％,mL,False,False,False,False,2,20.0,28.0,560,620007764,1315704Q3126,2:先発品(後発あり),False,False,False,False,False,False,True
+784,1910,0,内用,フレカイニド酢酸塩錠５０ｍｇ「ＶＴＲＳ」,錠,False,False,True,True,16,"1,106.0",14.4,15926,622633003,2129009F1062,3:後発品,False,False,True,False,False,False,False
+785,1966,0,内用,プレガバリンＯＤ錠２５ｍｇ「トーワ」,錠,False,False,False,True,31,"1,372.0",11.4,15641,622825301,1190017F1185,3:後発品,False,False,False,False,False,False,False
+786,1980,0,内用,プレガバリンＯＤ錠７５ｍｇ「トーワ」,錠,False,False,False,True,15,"1,420.0",18.3,25986,622825401,1190017F2181,3:後発品,False,False,False,False,False,False,False
+787,899,0,内用,プレタールＯＤ錠１００ｍｇ,錠,False,False,True,False,1,182.0,30.2,5496,621971301,3399002F4027,2:先発品(後発あり),False,False,False,False,False,False,True
+788,31,0,内用,プレドニゾロン錠１ｍｇ（旭化成）,錠,False,False,True,False,14,"1,721.0",8.6,14801,610431117,2456001F2023,1:先発品(後発なし),False,False,False,False,False,False,False
+789,1229,0,外用,プレドニン眼軟膏　０．２５％,g,False,False,False,False,55,360.0,83.9,30204,661310130,1315705M1037,基:基礎的医薬品,False,False,False,False,False,False,False
+790,250,0,内用,プレドニン錠５ｍｇ,錠,False,False,True,False,45,"1,941.0",10.1,19604,612450118,2456001F1310,1:先発品(後発なし),False,False,False,False,False,False,False
+791,280,0,内用,プログラフカプセル１ｍｇ,カプセル,False,False,True,False,3,546.0,372.9,203603,613990096,3999014M1022,2:先発品(後発あり),False,False,True,False,False,False,True
+792,638,0,外用,フロジン外用液５％,mL,False,False,False,True,21,"1,110.0",17.6,19536,620007769,2679701Q1055,3:後発品,False,False,False,False,False,False,False
+793,446,0,外用,プロスタンディン軟膏０．００３％,g,False,False,False,False,1,30.0,34.3,1029,620003256,2699705M1038,1:先発品(後発なし),False,False,True,False,False,False,False
+794,485,0,内用,フロセミド錠１０ｍｇ「ＮＰ」,錠,False,False,False,True,65,"3,312.0",6.3,20866,620004041,2139005F3020,3:後発品,False,False,False,False,False,False,False
+795,1813,0,内用,フロセミド錠２０ｍｇ「ＮＰ」,錠,False,False,False,True,140,"7,865.0",6.3,49550,620004042,2139005F1060,3:後発品,False,False,False,False,False,False,False
+796,1809,0,内用,フロセミド錠４０ｍｇ「ＮＰ」,錠,False,False,False,True,32,"1,358.0",6.6,8963,620004043,2139005F2385,3:後発品,False,False,False,False,False,False,False
+797,873,0,内用,ブロチゾラムＯＤ錠０．２５ｍｇ「サワイ」,錠,False,False,False,True,96,"2,627.0",10.4,27321,621920901,1124009F2076,3:後発品,True,False,False,False,False,False,False
+798,48,0,内用,プロテカジン錠　１０ｍｇ,錠,False,False,False,False,1,91.0,14.1,1283,610443007,2325006F2032,2:先発品(後発あり),False,False,False,False,False,False,True
+799,379,0,外用,プロトピック軟膏０．０３％小児用,g,False,False,False,False,2,40.0,72.6,2904,620000444,2699709M2024,1:先発品(後発なし),False,False,True,False,False,False,False
+800,1208,0,外用,プロトピック軟膏０．１％,g,False,False,False,False,3,45.0,58.4,2628,660432014,2699709M1028,2:先発品(後発あり),False,False,True,False,False,False,True
+801,678,0,内用,プロ・バンサイン錠１５ｍｇ,錠,False,False,False,False,1,56.0,6.1,342,620008709,1231008F1032,1:先発品(後発なし),False,False,False,False,False,False,False
+802,1860,0,内用,プロピベリン塩酸塩錠１０ｍｇ「トーワ」,錠,False,False,False,True,4,226.0,18.0,4068,621685701,2590007F1307,3:後発品,False,False,False,False,False,False,False
+803,1791,0,内用,プロピベリン塩酸塩錠２０ｍｇ「ＮＳ」,錠,False,False,False,True,14,681.0,27.2,18523,621686601,2590007F2273,3:後発品,False,False,False,False,False,False,False
+804,34,0,内用,ブロプレス錠２　２ｍｇ,錠,False,False,False,False,5,464.0,17.1,7934,610432011,2149040F1026,2:先発品(後発あり),False,False,False,False,False,False,True
+805,35,0,内用,ブロプレス錠　４ｍｇ,錠,False,False,False,False,28,"1,725.0",25.5,43988,610432012,2149040F2022,2:先発品(後発あり),False,False,False,False,False,False,True
+806,36,0,内用,ブロプレス錠　８ｍｇ,錠,False,False,False,False,7,397.0,43.7,17349,610432013,2149040F3029,2:先発品(後発あり),False,False,False,False,False,False,True
+807,1,0,内用,プロペシア１ｍｇ,錠,False,False,False,False,2,180.0,0.0,46800,500000001,,1:先発品(後発なし),False,False,False,False,False,False,False
+808,1252,0,外用,プロペト,g,False,False,False,False,79,"8,275.0",2.43,20108,667120036,7121703X1330,基:基礎的医薬品,False,False,False,False,False,False,False
+809,18,0,内用,フロモックス錠１００ｍｇ,錠,False,False,False,False,29,453.0,41.1,18618,610411058,6132016F2020,基:基礎的医薬品,False,False,False,False,False,False,False
+810,617,0,内用,フロリードゲル経口用２％,g,False,False,False,False,7,410.0,98.2,40262,620007077,6290003X1039,基:基礎的医薬品,False,False,False,False,False,False,False
+811,402,0,内用,ベイスンＯＤ錠０．２　０．２ｍｇ,錠,False,False,True,False,3,552.0,14.5,8004,620002120,3969004F3023,2:先発品(後発あり),False,False,False,False,False,False,True
+812,403,0,内用,ベイスンＯＤ錠０．３　０．３ｍｇ,錠,False,False,True,False,5,735.0,14.9,10952,620002121,3969004F4020,2:先発品(後発あり),False,False,False,False,False,False,False
+813,1402,0,内用,ベージニオ錠５０ｍｇ,錠,False,False,True,False,2,98.0,"3,049.7",298871,622653801,4291054F1026,1:先発品(後発なし),False,False,True,True,False,True,False
+814,1192,0,内用,ベオーバ錠５０ｍｇ,錠,False,False,False,False,26,973.0,146.1,142155,622653001,2590017F1025,1:先発品(後発なし),False,False,False,False,False,False,False
+815,1332,0,内用,ベザトールＳＲ錠１００ｍｇ,錠,False,False,False,False,1,126.0,10.6,1336,610407028,2183005G2028,2:先発品(後発あり),False,False,False,False,False,False,True
+816,404,0,内用,ベザトールＳＲ錠２００ｍｇ,錠,False,False,False,False,2,252.0,13.5,3402,620002123,2183005G1234,2:先発品(後発あり),False,False,False,False,False,False,True
+817,1398,0,内用,ベザフィブラートＳＲ錠２００ｍｇ「サワイ」,錠,False,False,False,True,29,"2,814.0",10.4,29266,620339201,2183005G1285,3:後発品,False,False,False,False,False,False,False
+818,455,0,内用,ベシケア錠５ｍｇ,錠,False,False,False,False,3,58.0,82.8,4802,620003486,2590011F2024,2:先発品(後発あり),False,False,False,False,False,False,True
+819,994,0,内用,ベタニス錠５０ｍｇ,錠,False,False,False,False,10,658.0,141.7,93239,622093301,2590014F2028,1:先発品(後発なし),False,False,True,False,False,False,False
+820,1815,0,内用,ベタヒスチンメシル酸塩錠１２ｍｇ「ＴＳＵ」,錠,False,False,False,True,19,775.0,6.6,5115,622164501,1339005F2179,3:後発品,False,False,False,False,False,False,False
+821,1994,0,内用,ベタヒスチンメシル酸塩錠６ｍｇ「トーワ」,錠,False,False,False,True,9,"1,061.0",6.3,6684,622556302,1339005F1490,3:後発品,False,False,False,False,False,False,False
+822,1605,0,内用,ベニジピン塩酸塩錠２ｍｇ「ＯＭＥ」,錠,False,False,False,True,42,"3,587.5",10.4,37310,620004049,2171021F1075,3:後発品,False,False,True,False,False,False,False
+823,1621,0,内用,ベニジピン塩酸塩錠４ｍｇ「ＯＭＥ」,錠,False,False,False,True,38,"4,133.0",10.4,42983,620004057,2171021F2110,3:後発品,False,False,True,False,False,False,False
+824,589,0,内用,ベネシッド錠２５０ｍｇ,錠,False,False,False,False,1,126.0,18.7,2356,620006600,3942001F1040,基:基礎的医薬品,False,False,False,False,False,False,False
+825,95,0,内用,ベネット錠２．５ｍｇ,錠,False,False,False,False,3,174.0,47.5,8265,610462003,3999019F1034,2:先発品(後発あり),False,False,True,False,False,False,True
+826,1130,0,外用,ヘパリン類似物質外用泡状スプレー０．３％「ＰＰ」,g,False,False,False,True,57,"7,900.0",7.4,58460,622512701,3339950R1142,3:後発品,False,False,False,False,False,False,False
+827,1024,0,外用,ヘパリン類似物質外用スプレー０．３％「日新」,g,False,False,False,True,110,"14,400.0",9.7,139680,622198201,3339950R1070,3:後発品,False,False,False,False,False,False,False
+828,1440,0,外用,ヘパリン類似物質クリーム０．３％「日医工」,g,False,False,False,True,1,150.0,3.7,555,620813503,3339950N1094,3:後発品,False,False,False,False,False,False,False
+829,1382,0,外用,ヘパリン類似物質ローション０．３％「日医工」,g,False,False,False,True,75,"8,550.0",3.7,31635,620814003,3339950Q1139,3:後発品,False,False,False,False,False,False,False
+830,1611,0,外用,ベピオローション２．５％,g,False,False,False,False,88,"2,145.0",94.9,203561,622940901,2699712Q2028,1:先発品(後発なし),False,False,False,False,False,False,False
+831,2043,0,内用,ベプリジル塩酸塩錠５０ｍｇ「ＴＥ」,錠,False,False,True,True,1,84.0,17.9,1504,622951601,2129011F1043,3:後発品,False,False,True,False,False,False,False
+832,1582,0,内用,ベポタスチンベシル酸塩錠１０ｍｇ「タナベ」,錠,False,False,False,True,39,"5,754.0",10.7,61568,622604901,4490022F2042,3:後発品,False,False,False,False,False,False,False
+833,1464,0,内用,ベムリディ錠２５ｍｇ,錠,False,False,False,False,2,182.0,903.5,164437,622532701,6250045F1023,1:先発品(後発なし),False,False,True,False,False,False,False
+834,620,0,内用,ヘモナーゼ配合錠,錠,False,False,False,False,6,799.0,9.6,7670,620007082,2559101X1036,1:先発品(後発なし),False,False,False,False,False,False,False
+835,1937,0,内用,ベラプロストＮａ錠２０μｇ「トーワ」,錠,False,False,False,True,5,708.0,12.8,9062,621482001,3399005F1234,3:後発品,False,False,True,False,False,False,False
+836,530,0,内用,ペリアクチンシロップ０．０４％,mL,False,False,False,False,1,900.0,1.47,1323,620005106,4419005Q1072,:,False,False,False,False,False,False,False
+837,761,0,内用,ベリチーム配合顆粒,g,False,False,False,False,18,"1,224.0",26.2,32069,620468001,2339163D1037,基:基礎的医薬品,False,False,False,False,False,False,False
+838,1929,0,内用,ペリンドプリルエルブミン錠４ｍｇ「サワイ」,錠,False,False,False,True,6,281.0,27.7,7784,621682901,2144012F2083,3:後発品,False,False,False,False,False,False,False
+839,2131,0,内用,ペリンドプリルエルブミン錠２ｍｇ「サワイ」,錠,False,False,False,True,2,130.0,15.8,2054,621682801,2144012F1087,3:後発品,False,False,False,False,False,False,False
+840,1078,0,内用,ベルソムラ錠１５ｍｇ,錠,False,False,False,False,26,960.0,90.8,87168,622374201,1190023F1024,1:先発品(後発なし),False,False,False,False,False,False,False
+841,1079,0,内用,ベルソムラ錠２０ｍｇ,錠,False,False,False,False,3,90.0,109.9,9891,622374301,1190023F2020,1:先発品(後発なし),False,False,False,False,False,False,False
+842,470,0,内用,ヘルベッサーＲカプセル１００ｍｇ,カプセル,False,False,False,False,7,189.0,16.7,3156,620003619,2171006N1105,2:先発品(後発あり),False,False,False,False,False,False,True
+843,1237,0,外用,ヘルミチンＳ坐剤,個,False,False,False,False,2,50.0,20.8,1040,662560009,2559807J1020,1:先発品(後発なし),False,False,False,False,False,False,False
+844,82,0,内用,ベンザリン錠５,錠,False,False,True,False,5,180.0,7.8,1404,610453117,1124003F2222,　:準先発品,True,False,False,False,False,False,True
+845,1700,0,内用,ベンズブロマロン錠２５ｍｇ「トーワ」,錠,False,False,False,True,5,567.0,6.1,3459,621907601,3949002F1142,3:後発品,False,False,True,False,False,False,False
+846,1644,0,内用,ベンズブロマロン錠５０ｍｇ「トーワ」,錠,False,False,False,True,9,833.0,6.1,5081,620857306,3949002F2203,3:後発品,False,False,True,False,False,False,False
+847,2079,0,内用,ペンタサ顆粒９４％,g,False,False,False,False,2,289.38,100.1,28967,622442701,2399009D2020,1:先発品(後発なし),False,False,False,False,False,False,False
+848,1034,0,外用,ペンタサ坐剤１ｇ,個,False,False,False,False,1,77.0,186.6,14368,622234801,2399715J1020,1:先発品(後発なし),False,False,False,False,False,False,False
+849,772,0,内用,ペンタサ錠２５０ｍｇ,錠,False,False,False,False,4,496.0,27.6,13690,620506801,2399009F1149,2:先発品(後発あり),False,False,False,False,False,False,True
+850,868,0,内用,ペンタサ錠５００ｍｇ,錠,False,False,False,False,7,"1,404.0",48.8,68515,621867201,2399009F2030,2:先発品(後発あり),False,False,False,False,False,False,True
+851,335,0,内用,ツムラ防已黄耆湯エキス顆粒（医療用）,g,False,False,False,False,4,"1,102.5",9.6,10584,615101501,5200129D1076,1:先発品(後発なし),False,False,False,False,False,False,False
+852,336,0,内用,ツムラ防風通聖散エキス顆粒（医療用）,g,False,False,False,False,10,"4,370.0",13.8,60306,615101502,5200130D1060,1:先発品(後発なし),False,False,False,False,False,False,False
+853,1205,0,外用,ホクナリンテープ２ｍｇ,枚,False,False,False,False,1,91.0,39.0,3549,660421117,2259707S3023,2:先発品(後発あり),False,False,False,False,False,False,True
+854,554,0,内用,ボグリボースＯＤ錠０．２ｍｇ「トーワ」,錠,False,False,True,True,29,"3,120.0",10.4,32448,620005561,3969004F3082,3:後発品,False,False,False,False,False,False,False
+855,555,0,内用,ボグリボースＯＤ錠０．３ｍｇ「トーワ」,錠,False,False,True,True,81,"13,136.0",10.4,136614,620005566,3969004F4089,3:後発品,False,False,False,False,False,False,False
+856,352,0,内用,ホスミシン錠５００　５００ｍｇ,錠,False,False,False,False,2,72.0,67.7,4874,616130513,6135001F2025,基:基礎的医薬品,False,False,False,False,False,False,False
+857,1161,0,内用,ホスレノールＯＤ錠２５０ｍｇ,錠,False,False,False,False,12,546.0,67.8,37019,622552001,2190029F3029,2:先発品(後発あり),False,False,False,False,False,False,True
+858,337,0,内用,ツムラ補中益気湯エキス顆粒（医療用）,g,False,False,False,False,22,"5,667.5",22.5,127519,615101503,5200131D1065,1:先発品(後発なし),False,False,False,False,False,False,False
+859,1127,0,内用,ボノサップパック４００,シート,False,False,False,False,8,56.0,464.6,26018,622485401,6199104X1023,1:先発品(後発なし),False,False,False,False,False,False,False
+860,992,0,内用,ボノテオ錠５０ｍｇ,錠,False,False,False,False,1,3.0,"1,320.2",3961,622093101,3999026F2022,2:先発品(後発あり),False,False,True,False,False,False,True
+861,1128,0,内用,ボノピオンパック,シート,False,False,False,False,2,14.0,430.6,6028,622485601,6199105X1028,1:先発品(後発なし),False,False,False,False,False,False,False
+862,2000,0,外用,ポピヨドンゲル１０％,g,False,False,False,True,1,90.0,3.5,315,620007785,2612701Q2117,3:後発品,False,False,False,False,False,False,False
+863,1238,0,外用,ボラザＧ坐剤,個,False,False,False,False,4,63.0,35.6,2243,662560014,2559813J1033,基:基礎的医薬品,False,False,False,False,False,False,False
+864,1405,0,外用,ボラザＧ軟膏,g,False,False,False,False,2,249.6,28.2,7039,662550038,2559813M1021,基:基礎的医薬品,False,False,False,False,False,False,False
+865,1965,0,内用,ポラプレジンクＯＤ錠７５ｍｇ「サワイ」,錠,False,False,False,True,21,"2,072.0",14.3,29630,622010901,2329027F1037,3:後発品,False,False,False,False,False,False,False
+866,185,0,内用,ポララミン錠２ｍｇ,錠,False,False,False,False,8,491.0,5.9,2897,611410172,4419002F1027,1:先発品(後発なし),False,False,False,False,False,False,False
+867,1377,0,内用,ポリスチレンスルホン酸Ｃａ経口ゼリー２０％分包２５ｇ「三和」,個,False,False,False,True,26,770.0,77.8,59906,621261102,2190016Q2034,3:後発品,False,False,False,False,False,False,False
+868,1746,0,内用,ポリフル細粒８３．３％,g,False,False,False,False,3,319.2,14.9,4756,620007094,2399011C1050,☆:先発品(同額以下),False,False,False,False,False,False,False
+869,639,0,外用,ボルタレンゲル１％,g,False,False,False,False,1,125.0,3.2,400,620007787,2649734Q1069,2:先発品(後発あり),False,False,False,False,False,False,True
+870,1226,0,外用,ボルタレンサポ５０ｍｇ,個,False,False,False,False,2,6.0,25.7,154,661140081,1147700J3084,2:先発品(後発あり),False,False,True,False,False,False,True
+871,622,0,内用,ボルタレン錠２５ｍｇ,錠,False,False,False,False,5,179.0,7.3,1307,620007096,1147002F1560,2:先発品(後発あり),False,False,True,False,False,False,True
+872,2140,0,外用,ボルタレンテープ１５ｍｇ　７ｃｍ×１０ｃｍ,枚,False,False,False,False,1,28.0,12.7,356,620007788,2649734S1074,2:先発品(後発あり),False,False,False,False,False,False,True
+873,640,0,外用,ボルタレンテープ３０ｍｇ　１０ｃｍ×１４ｃｍ,枚,False,False,False,False,5,217.0,17.6,3819,620007789,2649734S2070,☆:先発品(同額以下),False,False,False,False,False,False,False
+874,1299,0,内用,ポルトラック原末,g,False,False,False,False,2,522.0,6.7,3497,620006130,3999015A1039,1:先発品(後発なし),False,False,False,False,False,False,False
+875,757,0,内用,マーズレンＳ配合顆粒,g,False,False,False,False,6,862.0,9.6,8275,620459001,2329122D1414,　:準先発品,False,False,False,False,False,False,True
+876,681,0,内用,マーズレン配合錠１．０ＥＳ,錠,False,False,False,False,2,376.0,10.4,3910,620008740,2329122F1032,1:先発品(後発なし),False,False,False,False,False,False,False
+877,791,0,外用,マイコスポールクリーム１％,g,False,False,False,False,23,720.0,14.9,10728,620659101,2655708N1261,2:先発品(後発あり),False,False,False,False,False,False,True
+878,788,0,外用,マイザークリーム０．０５％,g,False,False,False,False,101,"4,445.0",11.1,49340,620626201,2646725N1150,☆:先発品(同額以下),False,False,False,False,False,False,False
+879,787,0,外用,マイザー軟膏０．０５％,g,False,False,False,False,593,"32,090.0",11.1,356199,620625401,2646725M1201,☆:先発品(同額以下),False,False,False,False,False,False,False
+880,63,0,内用,マイスリー錠１０ｍｇ,錠,False,False,False,False,9,270.0,26.9,7263,610443048,1129009F2021,2:先発品(後発あり),True,False,False,False,False,False,True
+881,62,0,内用,マイスリー錠５ｍｇ,錠,False,False,False,False,23,"1,021.0",17.5,17868,610443047,1129009F1025,2:先発品(後発あり),True,False,False,False,False,False,True
+882,338,0,内用,ツムラ麻黄湯エキス顆粒（医療用）,g,False,False,False,False,9,292.5,11.4,3335,615101504,5200132D1035,1:先発品(後発なし),False,False,False,False,False,False,False
+883,1872,0,外用,マキサカルシトール軟膏２５μｇ／ｇ「タカタ」　０．００２５％,g,False,False,False,True,4,280.0,34.8,9744,622190501,2691702M1060,3:後発品,False,False,True,False,False,False,False
+884,2077,0,内用,マグミット錠２５０ｍｇ,錠,False,False,False,True,17,"2,617.0",5.9,15440,610463197,2344009F1035,3:後発品,False,False,False,False,False,False,False
+885,1534,0,内用,マグミット錠３３０ｍｇ,錠,False,False,False,True,314,"40,881.0",5.9,241198,610463198,2344009F2031,3:後発品,False,False,False,False,False,False,False
+886,2078,0,内用,マグミット錠５００ｍｇ,錠,False,False,False,True,17,"2,090.0",5.9,12331,620004078,2344009F4034,3:後発品,False,False,False,False,False,False,False
+887,341,0,内用,ツムラ麻子仁丸エキス顆粒（医療用）,g,False,False,False,False,15,"1,862.5",9.9,18439,615101507,5200136D1033,1:先発品(後発なし),False,False,False,False,False,False,False
+888,1908,0,内用,マニジピン塩酸塩錠２０ｍｇ「サワイ」,錠,False,False,False,True,1,70.0,13.0,910,621632501,2149027F3180,3:後発品,False,False,True,False,False,False,False
+889,1116,0,内用,マリゼブ錠１２．５ｍｇ,錠,False,False,True,False,1,8.0,308.5,2468,622449001,3969025F1022,1:先発品(後発なし),False,False,False,False,False,False,False
+890,2013,0,注射,マンジャロ皮下注２．５ｍｇアテオス　０．５ｍＬ,キット,False,False,True,False,19,20.0,"1,924.0",38480,622931301,2499422G1024,1:先発品(後発なし),False,False,True,False,False,False,False
+891,2136,0,注射,マンジャロ皮下注５ｍｇアテオス　０．５ｍＬ,キット,False,False,True,False,1,1.0,"3,848.0",3848,622931401,2499422G2020,1:先発品(後発なし),False,False,True,False,False,False,False
+892,181,0,内用,ミオナール錠５０ｍｇ,錠,False,False,False,False,1,182.0,8.6,1565,611240248,1249009F1090,2:先発品(後発あり),False,False,False,False,False,False,True
+893,939,0,内用,ミカムロ配合錠ＡＰ,錠,False,False,False,False,1,74.0,34.1,2523,622006801,2149117F1025,2:先発品(後発あり),False,False,True,False,False,False,True
+894,407,0,内用,ミカルディス錠２０ｍｇ,錠,False,False,False,False,20,"1,242.0",20.7,25709,620002429,2149042F1025,2:先発品(後発あり),False,False,False,False,False,False,True
+895,408,0,内用,ミカルディス錠４０ｍｇ,錠,False,False,False,False,5,398.0,32.1,12776,620002430,2149042F2021,2:先発品(後発あり),False,False,False,False,False,False,True
+896,37,0,内用,ミグシス錠５ｍｇ,錠,False,False,False,False,8,"1,000.0",15.4,15400,610432015,2190023F1037,1:先発品(後発なし),False,False,False,False,False,False,False
+897,1500,0,内用,ミグリトール錠５０ｍｇ「トーワ」,錠,False,False,True,True,17,"3,141.0",10.4,32666,622544401,3969009F2038,3:後発品,False,False,False,False,False,False,False
+898,191,0,内用,ミケラン錠５ｍｇ,錠,False,False,True,False,1,112.0,9.3,1042,612120119,2123005F1141,2:先発品(後発あり),False,False,False,False,False,False,True
+899,2019,0,内用,ミドドリン塩酸塩錠２ｍｇ「オーハラ」,錠,False,False,False,True,5,475.0,8.8,4180,621367408,2160002F1095,3:後発品,False,False,False,False,False,False,False
+900,999,0,内用,ミニリンメルトＯＤ錠１２０μｇ,錠,False,False,False,False,1,60.0,114.5,6870,622134801,2419001F1023,1:先発品(後発なし),False,False,True,False,False,False,False
+901,2115,0,内用,ミニリンメルトＯＤ錠２４０μｇ,錠,False,False,False,False,2,60.0,186.8,11208,622134901,2419001F2020,1:先発品(後発なし),False,False,True,False,False,False,False
+902,1710,0,内用,ミニリンメルトＯＤ錠６０μｇ,錠,False,False,False,False,1,60.0,63.2,3792,622225302,2419001F3026,1:先発品(後発なし),False,False,True,False,False,False,False
+903,1578,0,内用,ミネブロ錠２．５ｍｇ,錠,False,False,False,False,11,652.0,91.6,59723,622670201,2149049F2023,1:先発品(後発なし),False,False,False,False,False,True,False
+904,1782,0,内用,ミノドロン酸錠５０ｍｇ「トーワ」,錠,False,False,False,True,10,23.0,513.1,11801,622627401,3999026F2090,3:後発品,False,False,True,False,False,False,False
+905,356,0,内用,ミノマイシン錠５０ｍｇ,錠,False,False,False,False,14,789.0,12.3,9705,616150088,6152005F1052,☆:先発品(同額以下),False,False,False,False,False,False,False
+906,249,0,内用,ミヤＢＭ細粒,g,False,False,False,False,19,768.5,6.5,4995,612370066,2316009C1026,1:先発品(後発なし),False,False,False,False,False,False,False
+907,1373,0,内用,ミヤＢＭ錠,錠,False,False,False,False,132,"11,138.0",5.9,65714,612370067,2316009F1022,1:先発品(後発なし),False,False,False,False,False,False,False
+908,1854,0,内用,ミルタザピンＯＤ錠１５ｍｇ「トーワ」,錠,False,False,True,True,4,120.0,15.7,1884,622657701,1179051F3056,3:後発品,False,False,True,False,False,False,False
+909,1099,0,内用,ムコソルバンＬ錠４５ｍｇ,錠,False,False,False,False,17,582.0,26.3,15307,622404601,2239001G2027,2:先発品(後発あり),False,False,False,False,False,False,False
+910,746,0,内用,ムコソルバン錠１５ｍｇ,錠,False,False,False,False,2,63.0,7.7,485,620389501,2239001F1696,2:先発品(後発あり),False,False,False,False,False,False,True
+911,487,0,内用,メイアクトＭＳ錠１００ｍｇ,錠,False,False,False,False,4,66.0,56.6,3736,620004080,6132015F1037,基:基礎的医薬品,False,False,False,False,False,False,False
+912,968,0,内用,メインテート錠０．６２５ｍｇ,錠,False,False,True,False,13,272.0,10.4,2829,622068002,2123016F3037,☆:先発品(同額以下),False,False,False,False,False,False,False
+913,734,0,内用,メインテート錠２．５ｍｇ,錠,False,False,True,False,26,850.5,14.6,12417,620256101,2123016F1107,2:先発品(後発あり),False,False,False,False,False,False,True
+914,735,0,内用,メインテート錠５ｍｇ,錠,False,False,True,False,13,532.0,17.7,9416,620256201,2123016F2189,2:先発品(後発あり),False,False,False,False,False,False,True
+915,193,0,内用,メキシチールカプセル１００ｍｇ,カプセル,False,False,True,False,3,330.0,13.2,4356,612120223,2129003M2028,2:先発品(後発あり),False,False,True,False,False,False,True
+916,1932,0,内用,メキタジン錠３ｍｇ「トーワ」,錠,False,False,False,True,4,236.0,5.9,1392,620933501,4413004F1316,3:後発品,False,False,False,False,False,False,False
+917,641,0,外用,メサデルムクリーム０．１％,g,False,False,False,False,2,125.0,9.6,1200,620007798,2646726N1090,2:先発品(後発あり),False,False,True,False,False,False,True
+918,919,0,内用,メタクト配合錠ＬＤ,錠,False,False,True,False,4,177.0,33.4,5912,621986301,3969100F1020,1:先発品(後発なし),False,False,True,False,False,False,False
+919,1258,0,内用,メチコバール細粒０．１％　５００ｍｇ,包,False,False,False,True,9,532.0,13.4,7129,620005120,3136004C1038,3:後発品,False,False,False,False,False,False,False
+920,265,0,内用,メチコバール錠　０．５ｍｇ,錠,False,False,False,True,167,"13,834.0",10.4,143874,613130595,3136004F2138,3:後発品,False,False,False,False,False,False,False
+921,1720,0,外用,滅菌精製水（光）,mL,False,False,False,False,2,"20,000.0",0.43,8600,621172801,7131700X1065,1:先発品(後発なし),False,False,False,False,False,False,False
+922,905,0,内用,メトグルコ錠２５０ｍｇ,錠,False,False,True,False,257,"39,732.0",10.4,413213,621974701,3962002F2027,☆:先発品(同額以下),False,False,True,False,False,False,False
+923,1036,0,内用,メトグルコ錠５００ｍｇ,錠,False,False,True,False,53,"7,942.0",10.4,82597,622242501,3962002F3023,☆:先発品(同額以下),False,False,True,False,False,False,False
+924,1959,0,内用,メトクロプラミド錠５ｍｇ「タカタ」,錠,False,False,False,True,10,191.0,5.9,1127,620500202,2399004F1260,3:後発品,False,False,False,False,False,False,False
+925,2132,0,内用,メトクロプラミド錠５ｍｇ「ツルハラ」,錠,False,False,False,True,1,42.0,5.9,248,620501101,2399004F1235,3:後発品,False,False,False,False,False,False,False
+926,1846,0,内用,メトプロロール酒石酸塩錠２０ｍｇ「トーワ」,錠,False,False,True,True,2,252.0,7.6,1915,620290106,2149010F1173,3:後発品,False,False,True,False,False,False,False
+927,723,0,内用,メネシット配合錠１００,錠,False,False,False,False,4,952.0,10.5,9996,620124001,1169101F1146,2:先発品(後発あり),False,False,False,False,False,False,False
+928,232,0,内用,メバロチン錠　１０ｍｇ,錠,False,False,False,False,4,269.0,18.8,5057,612180265,2189010F2027,2:先発品(後発あり),False,False,False,False,False,False,False
+929,92,0,内用,メバロチン錠５　５ｍｇ,錠,False,False,False,False,2,120.0,12.8,1536,610454085,2189010F1039,2:先発品(後発あり),False,False,False,False,False,False,True
+930,869,0,外用,メプチンエアー１０μｇ吸入１００回　０．０１４３％５ｍＬ,キット,False,False,False,False,4,6.0,"1,060.9",6365,621903202,2259704G9033,基:基礎的医薬品,False,False,False,False,False,False,False
+931,1217,0,外用,メプチン吸入液ユニット０．３ｍＬ　０．０１％,個,False,False,False,False,7,223.0,25.0,5575,660463035,2259704G5020,基:基礎的医薬品,False,False,False,False,False,False,False
+932,1654,0,内用,メプチンドライシロップ０．００５％,g,False,False,False,False,4,44.1,32.3,1424,620002152,2259004R2024,2:先発品(後発あり),False,False,False,False,False,False,False
+933,1664,0,内用,メプチンミニ錠２５μｇ　０．０２５ｍｇ,錠,False,False,False,False,1,14.0,8.6,120,620003634,2259004F1110,1:先発品(後発なし),False,False,False,False,False,False,False
+934,1471,0,内用,メマリーＯＤ錠２０ｍｇ,錠,False,False,False,False,1,91.0,153.7,13987,622306201,1190018F6025,2:先発品(後発あり),False,False,True,False,False,False,True
+935,1851,0,内用,メマンチン塩酸塩ＯＤ錠２０ｍｇ「トーワ」,錠,False,False,False,True,5,246.0,77.6,19090,622789001,1190018F6190,3:後発品,False,False,True,False,False,False,False
+936,1850,0,内用,メマンチン塩酸塩ＯＤ錠５ｍｇ「トーワ」,錠,False,False,False,True,12,767.0,21.5,16491,622788801,1190018F4197,3:後発品,False,False,True,False,False,False,False
+937,155,0,内用,メリスロン錠１２ｍｇ,錠,False,False,False,False,6,300.0,10.4,3120,611160089,1339005F2128,2:先発品(後発あり),False,False,False,False,False,False,True
+938,93,0,内用,メリスロン錠６ｍｇ,錠,False,False,False,False,8,315.0,9.0,2835,610454087,1339005F1296,2:先発品(後発あり),False,False,False,False,False,False,True
+939,2004,0,内用,メルカゾール錠２．５ｍｇ,錠,False,False,False,False,8,421.0,10.1,4252,622842401,2432001F2021,1:先発品(後発なし),False,False,False,False,False,False,False
+940,498,0,内用,メルカゾール錠５ｍｇ,錠,False,False,False,False,21,"1,760.0",10.1,17776,620004391,2432001F1033,1:先発品(後発なし),False,False,False,False,False,False,False
+941,1599,0,外用,モイゼルト軟膏０．３％,g,False,False,False,False,1,10.0,136.7,1367,622849901,2699715M1023,1:先発品(後発なし),False,False,False,False,False,True,False
+942,644,0,外用,モーラステープ２０ｍｇ　７ｃｍ×１０ｃｍ,枚,False,False,False,False,7,476.0,18.8,8949,620007805,2649729S2169,2:先発品(後発あり),False,False,False,False,False,False,True
+943,643,0,外用,モーラステープＬ４０ｍｇ　１０ｃｍ×１４ｃｍ,枚,False,False,False,False,24,"1,260.0",27.6,34776,620007804,2649729S3084,2:先発品(後発あり),False,False,False,False,False,False,True
+944,586,0,外用,モーラスパップ３０ｍｇ　１０ｃｍ×１４ｃｍ,枚,False,False,False,False,4,217.0,17.6,3819,620006538,2649729S1154,2:先発品(後発あり),False,False,False,False,False,False,True
+945,587,0,外用,モーラスパップ６０ｍｇ　２０ｃｍ×１４ｃｍ,枚,False,False,False,False,6,175.0,21.1,3693,620006539,2649729S4030,2:先発品(後発あり),False,False,False,False,False,False,False
+946,2017,0,外用,モーラスパップＸＲ１２０ｍｇ　１０ｃｍ×１４ｃｍ,枚,False,False,False,False,3,84.0,28.9,2428,622466101,2649729S5028,2:先発品(後発あり),False,False,False,False,False,False,True
+947,2003,0,内用,モサプリドクエン酸塩散１％「日医工」,g,False,False,False,True,1,60.0,9.6,576,622208201,2399010B1050,3:後発品,False,False,False,False,False,False,False
+948,1814,0,内用,モサプリドクエン酸塩錠５ｍｇ「日新」,錠,False,False,False,True,116,"13,892.0",10.4,144477,622197901,2399010F2253,★:後発品(同額以上),False,False,False,False,False,False,False
+949,1899,0,内用,モビコール配合内用剤ＨＤ　１３．７０４６ｇ,包,False,False,False,False,26,"1,386.0",110.8,153569,622881501,2359110B2025,1:先発品(後発なし),False,False,False,False,False,False,False
+950,1356,0,内用,モビコール配合内用剤ＬＤ　６．８５２３ｇ,包,False,False,False,False,43,"4,038.0",61.4,247933,622832901,2359110B1037,1:先発品(後発なし),False,False,False,False,False,False,False
+951,1894,0,外用,モメタゾン点鼻液５０μｇ「杏林」５６噴霧用　５ｍｇ１０ｇ,瓶,False,False,False,True,18,46.0,418.0,19228,622672501,1329710Q1035,3:後発品,False,False,False,False,False,False,False
+952,711,0,内用,モルヒネ塩酸塩錠１０ｍｇ「ＤＳＰ」,錠,True,False,False,False,1,10.0,152.1,1521,620009255,8114003F1035,基:基礎的医薬品,False,False,True,False,False,False,False
+953,1983,0,内用,モンテルカスト細粒４ｍｇ「トーワ」,包,False,False,False,True,7,365.0,18.5,6753,622544901,4490026C1161,3:後発品,False,False,False,False,False,False,False
+954,1699,0,内用,モンテルカスト錠１０ｍｇ「トーワ」,錠,False,False,False,True,80,"3,951.0",36.6,144607,622514301,4490026F2270,3:後発品,False,False,False,False,False,False,False
+955,1837,0,内用,モンテルカストチュアブル錠５ｍｇ「トーワ」,錠,False,False,False,True,11,472.0,18.1,8543,622544801,4490026F1257,3:後発品,False,False,False,False,False,False,False
+956,790,0,外用,ヤクバンテープ４０ｍｇ　１０ｃｍ×１４ｃｍ,枚,False,False,False,False,3,168.0,17.6,2957,620647301,2649732S2055,2:先発品(後発あり),False,False,False,False,False,False,True
+957,1729,0,外用,ユーパスタ軟膏,g,False,False,False,False,3,700.0,11.4,7980,620668803,2699801V1165,2:先発品(後発あり),False,False,False,False,False,False,True
+958,138,0,内用,ユーロジン１ｍｇ錠,錠,False,False,False,False,2,56.0,6.1,342,611120080,1124001F1022,☆:先発品(同額以下),True,False,False,False,False,False,False
+959,505,0,内用,ユベラＮカプセル１００ｍｇ,カプセル,False,False,False,False,9,"1,152.0",6.1,7027,620004607,2190006M1156,　:準先発品,False,False,False,False,False,False,True
+960,506,0,内用,ユベラＮソフトカプセル２００ｍｇ,カプセル,False,False,False,False,77,"12,959.0",6.8,88121,620004609,2190006M2179,　:準先発品,False,False,False,False,False,False,False
+961,1242,0,外用,ユベラ軟膏,g,False,False,False,False,33,"2,352.0",2.5,5880,662640396,2649805M1026,1:先発品(後発なし),False,False,False,False,False,False,False
+962,1411,0,内用,ユリス錠０．５ｍｇ,錠,False,False,False,False,19,"1,683.0",23.2,39046,622703601,3949005F1022,1:先発品(後発なし),False,False,False,False,False,False,False
+963,1421,0,内用,ユリス錠１ｍｇ,錠,False,False,False,False,11,720.0,42.4,30528,622703701,3949005F2029,1:先発品(後発なし),False,False,False,False,False,False,False
+964,434,0,外用,ヨードコート軟膏０．９％,g,False,False,False,False,6,300.0,47.6,14280,620003055,2699704M1033,1:先発品(後発なし),False,False,False,False,False,False,False
+965,1434,0,内用,ヨクイニンエキス散「コタロー」,g,False,False,False,False,1,364.0,17.8,6479,615100580,5900003B1020,1:先発品(後発なし),False,False,False,False,False,False,False
+966,284,0,内用,ヨクイニンエキス錠「コタロー」,錠,False,False,False,False,40,"21,042.0",6.5,136773,615100581,5900003F1021,1:先発品(後発なし),False,False,False,False,False,False,False
+967,342,0,内用,ツムラ抑肝散エキス顆粒（医療用）,g,False,False,False,False,10,"3,937.5",16.1,63394,615101510,5200139D1037,1:先発品(後発なし),False,False,False,False,False,False,False
+968,343,0,内用,ツムラ抑肝散加陳皮半夏エキス顆粒（医療用）,g,False,False,False,False,1,227.5,14.4,3276,615101511,5200140D1021,1:先発品(後発なし),False,False,False,False,False,False,False
+969,1119,0,注射,ライゾデグ配合注　フレックスタッチ　３００単位,キット,False,False,True,False,24,49.0,"1,670.0",81830,622451001,2492500G1025,1:先発品(後発なし),False,False,True,False,False,False,False
+970,769,0,内用,ラキソベロン内用液０．７５％,mL,False,False,False,False,56,"1,210.0",14.5,17545,620491401,2359005S1240,2:先発品(後発あり),False,False,False,False,False,False,True
+971,1306,0,内用,ラグノスＮＦ経口ゼリー分包１２ｇ　５４．１６７％,包,False,False,False,True,7,471.0,49.4,23267,622654601,3999001Q6029,3:後発品,False,False,False,False,False,False,False
+972,548,0,外用,ラクリミン点眼液０．０５％　５ｍＬ,瓶,False,False,False,False,1,3.0,91.6,275,620005305,1313700Q3034,1:先発品(後発なし),False,False,False,False,False,False,False
+973,2096,0,内用,ラゲブリオ錠４００ｍｇ,錠,False,False,False,False,4,80.0,"4,329.8",346384,622986601,6250051F1029,1:先発品(後発なし),False,False,True,False,False,True,False
+974,975,0,内用,ラコールＮＦ配合経腸用液,mL,False,False,False,False,6,"101,000.0",1.07,108070,622070901,3259118S1024,1:先発品(後発なし),False,False,False,False,False,False,False
+975,2055,0,内用,ラシックス錠１０ｍｇ,錠,False,False,False,False,1,91.0,9.6,874,622077601,2139005F3039,　:準先発品,False,False,False,False,False,False,True
+976,368,0,内用,ラシックス錠２０ｍｇ,錠,False,False,False,False,7,252.0,10.1,2545,620000167,2139005F1052,　:準先発品,False,False,False,False,False,False,True
+977,369,0,内用,ラシックス錠４０ｍｇ,錠,False,False,False,False,7,224.0,11.2,2509,620000168,2139005F2342,　:準先発品,False,False,False,False,False,False,True
+978,2045,0,内用,ラツーダ錠２０ｍｇ,錠,False,False,True,False,3,95.0,159.1,15115,622794701,1179061F1022,1:先発品(後発なし),False,False,True,False,False,False,False
+979,445,0,内用,ラックビー微粒Ｎ　１％,g,False,False,False,False,19,"1,452.5",6.5,9441,620003183,2316014B1030,1:先発品(後発なし),False,False,False,False,False,False,False
+980,1826,0,外用,ラピフォートワイプ２．５％　２．５ｇ,包,False,False,False,False,2,56.0,250.6,14034,622912901,1259701X1026,1:先発品(後発なし),False,False,False,False,False,True,False
+981,2090,0,内用,ラフチジン錠１０ｍｇ「サワイ」,錠,False,False,False,True,10,"1,022.0",10.4,10629,622219401,2325006F2083,3:後発品,False,False,False,False,False,False,False
+982,932,0,内用,ラベプラゾールＮａ塩錠１０ｍｇ「オーハラ」,錠,False,False,False,True,60,"2,475.0",24.0,59400,621999501,2329028F1147,3:後発品,False,False,False,False,False,False,False
+983,667,0,内用,ラミクタール錠１００ｍｇ,錠,False,False,True,False,1,90.0,72.6,6534,620008565,1139009F4020,2:先発品(後発あり),False,False,True,False,False,True,False
+984,550,0,外用,ラミシールクリーム１％,g,False,False,False,False,7,150.0,18.5,2775,620005308,2659710N1152,2:先発品(後発あり),False,False,False,False,False,False,True
+985,1859,0,内用,ラメルテオン錠８ｍｇ「トーワ」,錠,False,False,False,True,21,636.0,18.9,12020,622923501,1190016F1075,3:後発品,False,False,False,False,False,False,False
+986,1916,0,内用,ラモトリギン錠１００ｍｇ「トーワ」,錠,False,False,True,True,1,90.0,28.7,2583,622628001,1139009F4063,3:後発品,False,False,True,False,False,True,False
+987,1652,0,内用,ラリキシン錠２５０ｍｇ,錠,False,False,False,False,64,"1,331.0",31.5,41927,620003645,6132002F1080,基:基礎的医薬品,False,False,False,False,False,False,False
+988,1812,0,内用,ラロキシフェン塩酸塩錠６０ｍｇ「日新」,錠,False,False,False,True,1,91.0,23.9,2175,622554801,3999021F1112,3:後発品,False,False,False,False,False,False,False
+989,716,0,内用,ランソプラゾールＯＤ錠１５ｍｇ「トーワ」,錠,False,False,False,True,449,"20,951.0",11.3,236746,620009451,2329023F1071,3:後発品,False,False,False,False,False,False,False
+990,1108,0,注射,ランタスＸＲ注ソロスター　４５０単位,キット,False,False,True,False,51,76.0,"1,910.0",145160,622440701,2492416G3020,1:先発品(後発なし),False,False,True,False,False,False,False
+991,217,0,内用,ランデル錠　２０ｍｇ,錠,False,False,False,False,2,112.0,19.9,2229,612140719,2149034F2027,1:先発品(後発なし),False,False,True,False,False,False,False
+992,1309,0,内用,リアルダ錠１２００ｍｇ　１２００ｍｇ,錠,False,False,False,False,6,"1,222.0",154.5,188799,622517001,2399009F4024,1:先発品(後発なし),False,False,False,False,False,False,False
+993,844,0,内用,リーバクト配合顆粒　４．１５ｇ,包,False,False,False,False,5,486.0,134.0,65124,621560201,3253003D2031,基:基礎的医薬品,False,False,False,False,False,False,False
+994,1060,0,内用,リオナ錠２５０ｍｇ,錠,False,False,False,False,14,650.0,70.4,45760,622306901,2190033F1022,1:先発品(後発なし),False,False,False,False,False,False,False
+995,987,0,内用,リオベル配合錠ＬＤ,錠,False,False,True,False,2,126.0,132.1,16645,622086001,3969103F1024,1:先発品(後発なし),False,False,False,False,False,False,False
+996,1508,0,内用,リクシアナＯＤ錠１５ｍｇ,錠,False,False,True,False,13,722.0,224.7,162233,622576001,3339002F4029,1:先発品(後発なし),False,False,False,False,False,False,False
+997,1167,0,内用,リクシアナＯＤ錠３０ｍｇ,錠,False,False,True,False,75,"4,111.0",411.3,1690854,622576101,3339002F5025,1:先発品(後発なし),False,False,False,False,False,False,False
+998,1168,0,内用,リクシアナＯＤ錠６０ｍｇ,錠,False,False,True,False,17,808.0,416.8,336774,622576201,3339002F6021,1:先発品(後発なし),False,False,False,False,False,False,False
+999,2062,0,内用,リザトリプタンＯＤ錠１０ｍｇ「トーワ」,錠,False,False,False,True,1,3.0,123.6,371,622545001,2160006F2057,3:後発品,False,False,True,False,False,False,False
+1000,890,0,内用,リスパダールＯＤ錠０．５ｍｇ,錠,False,False,True,False,2,112.0,10.4,1165,621939801,1179038F7021,☆:先発品(同額以下),False,False,True,False,False,False,False
+1001,1798,0,内用,リスペリドン錠１ｍｇ「アメル」,錠,False,False,True,True,2,259.0,10.4,2694,620005604,1179038F1074,3:後発品,False,False,True,False,False,False,False
+1002,1825,0,内用,リスペリドン内用液１ｍｇ／ｍＬ「トーワ」　０．１％,mL,False,False,True,True,3,88.0,30.0,2640,620008166,1179038S1072,3:後発品,False,False,True,False,False,False,False
+1003,145,0,内用,リスミー錠２ｍｇ,錠,False,False,False,False,5,160.0,16.2,2592,611120114,1129006F2028,1:先発品(後発なし),False,False,False,False,False,False,False
+1004,1773,0,内用,リセドロン酸Ｎａ錠１７．５ｍｇ「トーワ」,錠,False,False,False,True,4,45.0,93.2,4194,622236401,3999019F2162,3:後発品,False,False,True,False,False,False,False
+1005,344,0,内用,ツムラ六君子湯エキス顆粒（医療用）,g,False,False,False,False,99,"31,610.0",18.0,568980,615101512,5200141D1034,1:先発品(後発なし),False,False,False,False,False,False,False
+1006,985,0,内用,リパクレオン顆粒３００ｍｇ分包,包,False,False,False,False,9,"2,394.0",56.4,135022,622085301,2331007D1029,1:先発品(後発なし),False,False,False,False,False,False,False
+1007,1767,0,外用,リバスチグミンテープ９ｍｇ「トーワ」,枚,False,False,False,True,4,301.0,80.4,24200,622824701,1190700S2106,3:後発品,False,False,True,False,False,False,False
+1008,375,0,内用,リバロ錠１ｍｇ,錠,False,False,False,False,15,804.5,20.7,16653,620000422,2189016F1028,2:先発品(後発あり),False,False,False,False,False,False,True
+1009,376,0,内用,リバロ錠２ｍｇ,錠,False,False,False,False,8,511.0,34.5,17630,620000423,2189016F2024,2:先発品(後発あり),False,False,False,False,False,False,True
+1010,990,0,内用,リピディル錠５３．３ｍｇ,錠,False,False,False,False,2,147.0,15.1,2220,622090701,2183006F3023,2:先発品(後発あり),False,False,False,False,False,False,True
+1011,50,0,内用,リピトール錠１０ｍｇ,錠,False,False,False,False,3,180.0,24.5,4410,610443014,2189015F2020,2:先発品(後発あり),False,False,False,False,False,False,True
+1012,49,0,内用,リピトール錠５ｍｇ,錠,False,False,False,False,17,688.0,17.2,11834,610443013,2189015F1023,2:先発品(後発あり),False,False,False,False,False,False,True
+1013,1517,0,内用,リフキシマ錠２００ｍｇ,錠,False,False,False,False,3,252.0,235.1,59245,622517701,6199001F1026,1:先発品(後発なし),False,False,False,False,False,False,False
+1014,881,0,内用,リフレックス錠１５ｍｇ,錠,False,False,True,False,3,46.0,76.3,3510,621932101,1179051F1029,2:先発品(後発あり),False,False,True,False,False,False,True
+1015,1763,0,内用,リベルサス錠１４ｍｇ,錠,False,False,True,False,1,63.0,488.5,30776,629911801,2499014F3024,1:先発品(後発なし),False,False,True,False,False,False,False
+1016,1491,0,内用,リベルサス錠３ｍｇ,錠,False,False,True,False,15,"1,006.0",139.6,140438,629911601,2499014F1021,1:先発品(後発なし),False,False,True,False,False,False,False
+1017,1492,0,内用,リベルサス錠７ｍｇ,錠,False,False,True,False,34,"1,714.0",325.7,558250,629911701,2499014F2028,1:先発品(後発なし),False,False,True,False,False,False,False
+1018,1209,0,外用,リボスチン点眼液０．０２５％,mL,False,False,False,False,1,5.0,73.5,368,660443015,1319746Q1029,2:先発品(後発あり),False,False,False,False,False,False,True
+1019,474,0,内用,リボトリール細粒０．１％,g,False,False,True,False,1,90.0,8.3,747,620003652,1139003C1044,1:先発品(後発なし),True,False,False,False,False,False,False
+1020,475,0,内用,リボトリール錠０．５ｍｇ,錠,False,False,True,False,11,233.0,9.6,2237,620003654,1139003F1040,1:先発品(後発なし),True,False,False,False,False,False,False
+1021,231,0,内用,リポバス錠　５ｍｇ,錠,False,False,False,False,23,"1,579.0",23.4,36949,612180263,2189011F1025,2:先発品(後発あり),False,False,False,False,False,False,True
+1022,1990,0,内用,リボフラビン酪酸エステル錠２０ｍｇ「杏林」,錠,False,False,False,True,144,"9,326.0",5.7,53158,620691002,3131002F1330,3:後発品,False,False,False,False,False,False,False
+1023,1353,0,内用,リボフラビン酪酸エステル錠２０ｍｇ「ツルハラ」,錠,False,False,False,True,73,"4,246.0",5.7,24202,620691102,3131002F1314,3:後発品,False,False,False,False,False,False,False
+1024,1787,0,内用,リマプロストアルファデクス錠５μｇ「ＳＮ」,錠,False,False,False,True,11,"2,231.0",18.3,40827,621418905,3399003F1120,3:後発品,False,False,False,False,False,False,False
+1025,1144,0,内用,リリカＯＤ錠２５ｍｇ,錠,False,False,False,False,1,308.0,31.8,9794,622538201,1190017F1029,2:先発品(後発あり),False,False,False,False,False,False,True
+1026,1145,0,内用,リリカＯＤ錠７５ｍｇ,錠,False,False,False,False,3,190.0,52.4,9956,622538301,1190017F2025,2:先発品(後発あり),False,False,False,False,False,False,True
+1027,1138,0,内用,リンゼス錠０．２５ｍｇ,錠,False,False,False,False,7,678.0,64.5,43731,622532801,2399017F1020,1:先発品(後発なし),False,False,False,False,False,False,False
+1028,1244,0,外用,リンデロンーＶＧ軟膏０．１２％,g,False,False,False,False,140,"2,890.0",27.7,80053,662640418,2647709M1102,基:基礎的医薬品,False,False,False,False,False,False,False
+1029,1243,0,外用,リンデロンーＶＧローション,mL,False,False,False,False,66,"3,050.0",27.7,84485,662640417,2647709Q1040,基:基礎的医薬品,False,False,False,False,False,False,False
+1030,1008,0,内用,ルネスタ錠１ｍｇ,錠,False,False,False,False,7,222.0,28.5,6327,622148801,1129010F1028,2:先発品(後発あり),False,False,False,False,False,False,True
+1031,1173,0,内用,ルパフィン錠１０ｍｇ,錠,False,False,False,False,28,"1,600.0",42.4,67840,622577101,4490034F1022,1:先発品(後発なし),False,False,False,False,False,False,False
+1032,42,0,内用,ルプラック錠４ｍｇ,錠,False,False,False,False,1,45.5,14.4,655,610432034,2139009F1026,2:先発品(後発あり),False,False,False,False,False,False,True
+1033,412,0,外用,ルリコン液１％,mL,False,False,False,False,66,"1,480.0",28.8,42624,620002498,2655712Q1027,2:先発品(後発あり),False,False,False,False,False,False,False
+1034,413,0,外用,ルリコンクリーム１％,g,False,False,False,False,83,"2,520.0",28.8,72576,620002499,2655712N1020,2:先発品(後発あり),False,False,False,False,False,False,True
+1035,1043,0,外用,ルリコン軟膏１％,g,False,False,False,False,59,"1,590.0",28.8,45792,622250801,2655712M1025,2:先発品(後発あり),False,False,False,False,False,False,True
+1036,354,0,内用,ルリッド錠１５０　１５０ｍｇ,錠,False,False,False,False,2,63.0,23.4,1474,616140099,6149002F1029,2:先発品(後発あり),False,False,False,False,False,False,True
+1037,163,0,内用,レキソタン錠　２ｍｇ,錠,False,False,False,False,3,360.0,6.1,2196,611170435,1124020F2030,2:先発品(後発あり),True,False,False,False,False,False,True
+1038,904,0,内用,レザルタス配合錠ＨＤ,錠,False,False,False,False,11,652.0,48.0,31296,621974601,2149115F2022,1:先発品(後発なし),False,False,False,False,False,False,False
+1039,2111,0,内用,レザルタス配合錠ＬＤ,錠,False,False,False,False,1,56.0,25.8,1445,621974501,2149115F1026,1:先発品(後発なし),False,False,False,False,False,False,False
+1040,645,0,外用,レスタミンコーワクリーム１％,g,False,False,False,False,145,"7,820.0",2.13,16657,620007811,2642702N1029,1:先発品(後発なし),False,False,False,False,False,False,False
+1041,123,0,内用,レスプレン錠２０ｍｇ,錠,False,False,False,False,106,"2,133.0",10.8,23036,610463219,2249001F2079,基:基礎的医薬品,False,False,False,False,False,False,False
+1042,165,0,内用,レスミット錠　５ｍｇ,錠,False,False,False,False,6,438.0,5.9,2584,611170443,1124021F2166,☆:先発品(同額以下),True,False,False,False,False,False,False
+1043,1601,0,内用,レトロゾール錠２．５ｍｇ「サンド」,錠,False,False,True,True,36,"3,044.0",52.4,159506,622418402,4291015F1204,3:後発品,False,False,True,True,False,False,False
+1044,204,0,内用,レニベース錠２．５　２．５ｍｇ,錠,False,False,False,False,6,442.0,11.0,4862,612140443,2144002F1024,2:先発品(後発あり),False,False,False,False,False,False,True
+1045,205,0,内用,レニベース錠　５ｍｇ,錠,False,False,False,False,15,959.0,13.2,12659,612140444,2144002F2020,2:先発品(後発あり),False,False,False,False,False,False,True
+1046,1886,0,内用,レパグリニド錠０．２５ｍｇ「サワイ」,錠,False,False,True,True,6,649.0,7.4,4803,622813401,3969013F1038,3:後発品,False,False,True,False,False,False,False
+1047,1885,0,内用,レパグリニド錠０．５ｍｇ「サワイ」,錠,False,False,True,True,3,117.0,12.3,1439,622813501,3969013F2034,3:後発品,False,False,True,False,False,False,False
+1048,1609,0,内用,レバミピド錠１００ｍｇ「ＮＳ」,錠,False,False,False,True,249,"16,206.0",10.4,168542,621937901,2329021F1145,★:後発品(同額以上),False,False,False,False,False,False,False
+1049,2025,0,内用,レベチラセタム錠５００ｍｇ「日新」,錠,False,False,True,True,2,288.0,41.6,11981,622878001,1139010F2110,3:後発品,False,False,False,False,False,False,False
+1050,2075,0,内用,レベチラセタムドライシロップ５０％「日新」,g,False,False,True,True,3,77.0,63.7,4905,622878101,1139010R1101,3:後発品,False,False,False,False,False,False,False
+1051,685,0,注射,レベミル注　フレックスペン　３００単位,キット,False,False,True,False,2,4.0,"1,424.0",5696,620008952,2492417G1030,1:先発品(後発なし),False,False,True,False,False,False,False
+1052,1900,0,外用,レボカバスチン点眼液０．０２５％「杏林」,mL,False,False,False,True,2,20.0,46.3,926,622240402,1319746Q1134,3:後発品,False,False,False,False,False,False,False
+1053,1979,0,内用,レボカルニチンＦＦ錠２５０ｍｇ「トーワ」,錠,False,False,False,True,2,252.0,80.3,20236,622910801,3999033F2030,3:後発品,False,False,False,False,False,False,False
+1054,1987,0,内用,レボセチリジン塩酸塩錠５ｍｇ「トーワ」,錠,False,False,False,True,29,"2,543.0",14.6,37128,622790501,4490028F1159,3:後発品,False,False,False,False,False,False,False
+1055,1807,0,内用,レボセチリジン塩酸塩シロップ０．０５％「アメル」,mL,False,False,False,True,20,"3,250.0",6.9,22425,622808401,4490028Q1044,3:後発品,False,False,False,False,False,False,False
+1056,1296,0,内用,レボフロキサシンＯＤ錠２５０ｍｇトーワ（レボフロキサシンとして）,錠,False,False,False,True,1,14.0,37.0,518,622372601,6241013F4023,3:後発品,False,False,False,False,False,False,False
+1057,2018,0,内用,レボフロキサシン錠２５０ｍｇ「トーワ」　レボフロキサシンとして,錠,False,False,False,True,30,367.0,37.0,13579,622372801,6241013F2250,3:後発品,False,False,False,False,False,False,False
+1058,1820,0,外用,レボフロキサシン点眼液０．５％「日新」,mL,False,False,False,True,6,45.0,24.2,1089,622106901,1319742Q1209,3:後発品,False,False,False,False,False,False,False
+1059,959,0,内用,レミニールＯＤ錠８ｍｇ,錠,False,False,False,False,2,120.0,92.1,11052,622046201,1190019F5023,2:先発品(後発あり),False,False,True,False,False,False,True
+1060,1081,0,外用,レルベア１００エリプタ３０吸入用,キット,False,False,False,False,2,3.0,"4,829.9",14490,622375501,2290803G3020,1:先発品(後発なし),False,False,False,False,False,False,False
+1061,1082,0,外用,レルベア２００エリプタ３０吸入用,キット,False,False,False,False,1,1.0,"5,220.8",5221,622375601,2290803G4027,1:先発品(後発なし),False,False,False,False,False,False,False
+1062,124,0,内用,レンドルミンＤ錠０．２５ｍｇ,錠,False,False,False,False,10,302.0,10.6,3201,610463223,1124009F2025,2:先発品(後発あり),True,False,False,False,False,False,True
+1063,1751,0,内用,ロキシスロマイシン錠１５０ｍｇ「サワイ」,錠,False,False,False,True,99,"3,144.0",17.7,55649,621694201,6149002F1177,3:後発品,False,False,False,False,False,False,False
+1064,721,0,内用,ロキソニン錠６０ｍｇ,錠,False,False,False,False,10,804.0,10.4,8362,620098801,1149019F1560,2:先発品(後発あり),False,False,False,False,False,False,True
+1065,647,0,外用,ロキソニンテープ１００ｍｇ　１０ｃｍ×１４ｃｍ,枚,False,False,False,False,234,"10,164.0",17.6,178886,620007813,2649735S3020,☆:先発品(同額以下),False,False,False,False,False,False,False
+1066,646,0,外用,ロキソニンテープ５０ｍｇ　７ｃｍ×１０ｃｍ,枚,False,False,False,False,37,"1,659.0",12.7,21069,620007812,2649735S2024,☆:先発品(同額以下),False,False,False,False,False,False,False
+1067,451,0,外用,ロキソニンパップ１００ｍｇ　１０ｃｍ×１４ｃｍ,枚,False,False,False,False,18,602.0,17.6,10595,620003477,2649735S1028,☆:先発品(同額以下),False,False,False,False,False,False,False
+1068,818,0,内用,ロキソプロフェンＮａ錠６０ｍｇ「日新」,錠,False,False,False,True,211,"7,036.0",10.1,71064,621215602,1149019F1676,3:後発品,False,False,False,False,False,False,False
+1069,1430,0,内用,ロケルマ懸濁用散分包１０ｇ,包,False,False,False,False,12,101.0,"1,504.6",151965,622796701,2190040B2027,1:先発品(後発なし),False,False,False,False,False,False,False
+1070,1422,0,内用,ロケルマ懸濁用散分包５ｇ,包,False,False,False,False,36,383.0,"1,024.3",392307,622796601,2190040B1020,1:先発品(後発なし),False,False,False,False,False,False,False
+1071,1115,0,外用,ロコアテープ　１０ｃｍ×１４ｃｍ,枚,False,False,False,False,3,147.0,33.3,4895,622448701,2649896S1022,1:先発品(後発なし),False,False,True,False,False,False,False
+1072,700,0,外用,ロコイドクリーム０．１％,g,False,False,False,False,27,495.0,14.9,7376,620009077,2646717N1083,1:先発品(後発なし),False,False,False,False,False,False,False
+1073,701,0,外用,ロコイド軟膏０．１％,g,False,False,False,False,48,950.0,14.9,14155,620009078,2646717M1096,1:先発品(後発なし),False,False,False,False,False,False,False
+1074,1003,0,内用,ロサルタンＫ錠２５ｍｇ「オーハラ」,錠,False,False,False,True,13,687.5,10.4,7150,622138901,2149039F1074,3:後発品,False,False,False,False,False,False,False
+1075,1004,0,内用,ロサルタンＫ錠５０ｍｇ「オーハラ」,錠,False,False,False,True,30,"1,947.0",14.7,28621,622139001,2149039F2070,3:後発品,False,False,False,False,False,False,False
+1076,1996,0,内用,ロサルヒド配合錠ＬＤ「トーワ」,錠,False,False,False,True,6,225.0,17.4,3915,622339401,2149110F1279,3:後発品,False,False,False,False,False,False,False
+1077,1311,0,内用,ロスーゼット配合錠ＨＤ,錠,False,False,False,False,2,189.0,67.8,12814,622676701,2189102F2020,2:先発品(後発あり),False,False,False,False,False,False,False
+1078,1347,0,内用,ロスーゼット配合錠ＬＤ,錠,False,False,False,False,4,182.0,69.1,12576,622676801,2189102F1024,2:先発品(後発あり),False,False,False,False,False,False,False
+1079,1677,0,内用,ロスバスタチンＯＤ錠２．５ｍｇ「トーワ」,錠,False,False,False,True,410,"24,328.0",10.4,253011,622581701,2189017F3173,3:後発品,False,False,False,False,False,False,False
+1080,1685,0,内用,ロスバスタチンＯＤ錠５ｍｇ「トーワ」,錠,False,False,False,True,122,"9,970.0",18.4,183448,622581801,2189017F4170,3:後発品,False,False,False,False,False,False,False
+1081,1101,0,外用,ロゼックスゲル０．７５％,g,False,False,False,False,4,205.0,71.6,14678,622405101,2699713Q1026,2:先発品(後発あり),False,False,False,False,False,False,False
+1082,917,0,内用,ロゼレム錠８ｍｇ,錠,False,False,False,False,1,30.0,41.1,1233,621985801,1190016F1024,2:先発品(後発あり),False,False,False,False,False,False,True
+1083,477,0,内用,ロペミンカプセル１ｍｇ,カプセル,False,False,False,False,60,"1,411.0",9.8,13828,620003665,2319001M1213,2:先発品(後発あり),False,False,False,False,False,False,True
+1084,718,0,内用,ロラゼパム錠０．５ｍｇ「サワイ」,錠,False,False,False,True,20,864.0,5.3,4579,620049101,1124022F1083,3:後発品,True,False,False,False,False,False,False
+1085,998,0,内用,ロラタジンＯＤ錠１０ｍｇ「日新」,錠,False,False,False,True,104,"4,682.0",14.8,69294,622107101,4490027F2185,3:後発品,False,False,False,False,False,False,False
+1086,405,0,内用,ワーファリン錠０．５ｍｇ,錠,False,False,True,False,16,526.0,10.4,5470,620002332,3332001F3035,基:基礎的医薬品,False,False,False,False,False,False,False
+1087,269,0,内用,ワーファリン錠１ｍｇ,錠,False,False,True,False,21,"2,130.0",10.4,22152,613330003,3332001F1024,基:基礎的医薬品,False,False,False,False,False,False,False
+1088,625,0,内用,ワイテンス錠２ｍｇ,錠,False,False,False,False,32,"2,554.0",10.2,26051,620007160,2149017F1035,1:先発品(後発なし),False,False,True,False,False,False,False
+1089,507,0,内用,ワソラン錠４０ｍｇ,錠,False,False,True,False,56,"5,241.0",7.4,38783,620004629,2171008F1070,　:準先発品,False,False,False,False,False,False,True
+1090,794,0,内用,ワンアルファ錠１．０μｇ　１μｇ,錠,False,False,False,False,4,264.0,11.4,3010,620675701,3112001F3058,2:先発品(後発あり),False,False,True,False,False,False,True
+1091,1100,0,内用,ワントラム錠１００ｍｇ,錠,False,False,False,False,3,90.0,68.2,6138,622404701,1149038G1020,1:先発品(後発なし),False,False,True,False,False,False,False
+1092,3,1,器材,ｱﾙｺﾞﾀﾞｰﾑ ﾄﾘｵﾆｯｸｸﾛｰﾌﾟﾀｲﾌﾟ30cm、2gﾛｰﾌﾟﾀｲﾌﾟ（保険算定面積158cm平方メートル）,cm2,False,False,False,False,2,"2,844.0",10.0,28440,710010820,,,False,False,False,False,False,False,False
+1093,1,1,器材,ナノパスニードル２　３４Ｇ,本,False,False,False,False,109,"7,938.0",18.0,142884,710010095,,,False,False,False,False,False,False,False
+1094,2,2,自費,一包化,,False,False,False,False,425,425.0,0.0,0,,,,False,False,False,False,False,False,False
+1095,7,2,自費,カレンダー／週,,False,False,False,False,12,25.0,100.0,2500,,,,False,False,False,False,False,False,False
+1096,3,2,自費,在宅交通費(２０円／ｋｍ),,False,False,False,False,23,214.0,20.0,4280,,,,False,False,False,False,False,False,False
+1097,1,2,自費,容器代５０円,個,False,False,False,False,"1,097","1,391.0",50.0,69550,,,,False,False,False,False,False,False,False
