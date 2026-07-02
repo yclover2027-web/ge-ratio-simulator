@@ -4,6 +4,6 @@
   "private": true,
   "scripts": {
     "start": "node server.mjs",
-    "check": "node --check main.js && node --check server.mjs && node --check api/latest-mhlw-master.js"
+    "check": "node --check assets/main.js && node --check server.mjs && node --check api/latest-mhlw-master.js"
   }
 }
