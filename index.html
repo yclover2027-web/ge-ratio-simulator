@@ -31,7 +31,13 @@
         <section class="upload-section card" style="margin-top: -1rem;">
             <h2>🛠 (任意) 後発区分の最新マスターデータで更新</h2>
             <p style="font-size:0.85rem; color:var(--text-secondary); margin-bottom: 1rem;">
-               厚生局などの最新エクセルデータ（tp*.xlsx等）を読み込むと、現在の医薬品リストの区分を自動で最新情報に上書きします。<br>※先に上の「1. CSVファイルの読み込み」を行ってから実行してください。
+               厚生労働省の「5．その他（各先発医薬品の後発医薬品の有無に関する情報）」の最新版Excelを取得して、現在の医薬品リストの区分を自動で最新情報に上書きします。<br>※先に上の「1. CSVファイルの読み込み」を行ってから実行してください。
+            </p>
+            <button type="button" id="fetchLatestMasterButton" class="primary-action-btn">
+                最新データを取得して更新
+            </button>
+            <p class="master-fallback-note">
+                自動取得できない場合は、下の枠からダウンロード済みExcelを選んで更新できます。
             </p>
             <div class="file-upload-wrapper" style="height: 80px; border-color: rgba(139, 92, 246, 0.5); background: rgba(139, 92, 246, 0.05);">
                 <input type="file" id="masterFileInput" accept=".xlsx,.xls,.csv" class="file-input">
@@ -43,62 +49,64 @@
             <p id="masterFileNameDisplay" class="file-name-display"></p>
         </section>
 
-        <section id="dashboard" class="dashboard-section card hidden">
-            <h2>2. シミュレーション結果</h2>
-            <div class="dashboard-grid">
-                <div class="stat-box">
-                    <span class="stat-title">現在の使用率</span>
-                    <span class="stat-value" id="currentRate">0.0%</span>
+        <main id="simulationWorkspace" class="simulation-workspace hidden">
+            <section id="dashboard" class="dashboard-section card hidden">
+                <h2>2. シミュレーション結果</h2>
+                <div class="dashboard-grid">
+                    <div class="stat-box">
+                        <span class="stat-title">現在の使用率</span>
+                        <span class="stat-value" id="currentRate">0.0%</span>
+                    </div>
+                    <div class="stat-box highlight">
+                        <span class="stat-title">シミュレーション使用率</span>
+                        <span class="stat-value" id="simulatedRate">0.0%</span>
+                        <span class="stat-diff" id="rateDiff"></span>
+                    </div>
                 </div>
-                <div class="stat-box highlight">
-                    <span class="stat-title">シミュレーション使用率</span>
-                    <span class="stat-value" id="simulatedRate">0.0%</span>
-                    <span class="stat-diff" id="rateDiff"></span>
+                <div class="progress-bar-container">
+                    <div class="progress-track">
+                        <div class="progress-fill" id="progressFill" style="width: 0%"></div>
+                        <div class="progress-marker" id="progressMarker" style="left: 0%"></div>
+                    </div>
+                    <div class="progress-labels">
+                        <span>0%</span>
+                        <span>100%</span>
+                    </div>
                 </div>
-            </div>
-            <div class="progress-bar-container">
-                <div class="progress-track">
-                    <div class="progress-fill" id="progressFill" style="width: 0%"></div>
-                    <div class="progress-marker" id="progressMarker" style="left: 0%"></div>
-                </div>
-                <div class="progress-labels">
-                    <span>0%</span>
-                    <span>100%</span>
-                </div>
-            </div>
-        </section>
+            </section>
 
-        <section id="drugListSection" class="drug-list-section card hidden">
-            <h2>3. 薬剤ごとの使用量シミュレーション</h2>
-            <p class="section-desc">シミュレーション使用量の数値を変更すると、上のグラフに即座に反映されます。</p>
-            
-            <div class="table-controls">
-                <input type="text" id="searchInput" placeholder="お薬の名前で検索..." class="search-input" inputmode="kana">
-                <select id="filterSelect" class="filter-select">
-                    <option value="all">すべて表示</option>
-                    <option value="generic">後発品のみ</option>
-                    <option value="original">後発品のある先発品のみ</option>
-                </select>
-            </div>
+            <section id="drugListSection" class="drug-list-section card hidden">
+                <h2>3. 薬剤ごとの使用量シミュレーション</h2>
+                <p class="section-desc">シミュレーション使用量の数値を変更すると、左の結果に即座に反映されます。</p>
+                
+                <div class="table-controls">
+                    <input type="text" id="searchInput" placeholder="お薬の名前で検索..." class="search-input" inputmode="kana">
+                    <select id="filterSelect" class="filter-select">
+                        <option value="all">すべて表示</option>
+                        <option value="generic">後発品のみ</option>
+                        <option value="original">後発品のある先発品のみ</option>
+                    </select>
+                </div>
 
-            <div class="table-container">
-                <table class="drug-table">
-                    <thead>
-                        <tr>
-                            <th>医薬品名</th>
-                            <th>区分</th>
-                            <th id="sortAmountHeader" class="sortable" title="クリックで並び替え">現在の使用量 <span class="sort-icon"></span></th>
-                            <th>単位</th>
-                            <th>シミュレーション使用量</th>
-                            <th>シミュレーション操作</th>
-                        </tr>
-                    </thead>
-                    <tbody id="drugTableBody">
-                        <!-- ここにデータ行が追加されます -->
-                    </tbody>
-                </table>
-            </div>
-        </section>
+                <div class="table-container">
+                    <table class="drug-table">
+                        <thead>
+                            <tr>
+                                <th>医薬品名</th>
+                                <th>区分</th>
+                                <th id="sortAmountHeader" class="sortable" title="クリックで並び替え">現在の使用量 <span class="sort-icon"></span></th>
+                                <th>単位</th>
+                                <th>シミュレーション使用量</th>
+                                <th>シミュレーション操作</th>
+                            </tr>
+                        </thead>
+                        <tbody id="drugTableBody">
+                            <!-- ここにデータ行が追加されます -->
+                        </tbody>
+                    </table>
+                </div>
+            </section>
+        </main>
     </div>
 
     <script src="app.js"></script>

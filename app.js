@@ -1,8 +1,10 @@
 document.addEventListener('DOMContentLoaded', () => {
     const csvFileInput = document.getElementById('csvFileInput');
     const masterFileInput = document.getElementById('masterFileInput');
+    const fetchLatestMasterButton = document.getElementById('fetchLatestMasterButton');
     const fileNameDisplay = document.getElementById('fileNameDisplay');
     const masterFileNameDisplay = document.getElementById('masterFileNameDisplay');
+    const simulationWorkspace = document.getElementById('simulationWorkspace');
     const dashboard = document.getElementById('dashboard');
     const drugListSection = document.getElementById('drugListSection');
     const drugTableBody = document.getElementById('drugTableBody');
@@ -20,6 +22,8 @@ document.addEventListener('DOMContentLoaded', () => {
     let baseGenericTotal = 0;
     let baseDenominatorTotal = 0;
     let sortDirection = 'none'; // 'none', 'desc', 'asc'
+
+    const knownLatestMasterExcelUrl = 'https://www.mhlw.go.jp/topics/2026/04/xls/tp20260612-01_05.xlsx';
     
     // ひらがなをカタカナに変換する関数
     function hiraganaToKatakana(str) {
@@ -46,6 +50,27 @@ document.addEventListener('DOMContentLoaded', () => {
         };
     });
 
+    fetchLatestMasterButton.addEventListener('click', async () => {
+        if (globalDrugData.length === 0) {
+            alert('先に使用薬剤一覧(CSV)を読み込んでください。');
+            return;
+        }
+
+        fetchLatestMasterButton.disabled = true;
+        masterFileNameDisplay.textContent = '厚生労働省の最新版データを確認中...';
+
+        try {
+            const latestMaster = await downloadLatestMasterViaLocalServer();
+            parseMasterArrayBuffer(latestMaster.arrayBuffer, latestMaster.fileName, latestMaster.sourceUrl);
+        } catch (err) {
+            console.error(err);
+            masterFileNameDisplay.innerHTML = `自動取得に失敗しました。<a href="${knownLatestMasterExcelUrl}" target="_blank" rel="noopener">最新版Excelを開く</a> から保存して、下の枠で読み込んでください。`;
+            alert('最新版Excelの自動取得に失敗しました。ローカルサーバー経由で開いているか確認してください。難しい場合は、画面のリンクからExcelを保存して、下の枠で読み込んでください。');
+        } finally {
+            fetchLatestMasterButton.disabled = false;
+        }
+    });
+
     // Handle Master Data Upload
     masterFileInput.addEventListener('change', (e) => {
         const file = e.target.files[0];
@@ -62,15 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const reader = new FileReader();
         reader.onload = function(event) {
             try {
-                const data = new Uint8Array(event.target.result);
-                // XLSX は CDNから読み込み済み
-                const workbook = XLSX.read(data, {type: 'array'});
-                const firstSheetName = workbook.SheetNames[0];
-                const worksheet = workbook.Sheets[firstSheetName];
-                const json = XLSX.utils.sheet_to_json(worksheet, {header: 1}); // 2次元配列
-                
-                updateGenericsFromMaster(json);
-                masterFileNameDisplay.textContent = `更新完了: ${file.name}`;
+                parseMasterArrayBuffer(event.target.result, file.name, '');
             } catch (err) {
                 console.error(err);
                 masterFileNameDisplay.textContent = '読み込みに失敗しました。';
@@ -80,7 +97,34 @@ document.addEventListener('DOMContentLoaded', () => {
         reader.readAsArrayBuffer(file);
     });
 
-    function updateGenericsFromMaster(rows) {
+    async function downloadLatestMasterViaLocalServer() {
+        // 厚労省サイトはブラウザから直接Excelの中身を読むための許可ヘッダーがありません。
+        // そのため、同じローカルサーバー上のAPIを通して取得し、ブラウザ制限に引っかからない形にします。
+        const response = await fetch('/api/latest-mhlw-master', { cache: 'no-store' });
+        if (!response.ok) {
+            throw new Error(`最新版Excelの取得に失敗しました: ${response.status}`);
+        }
+        return {
+            arrayBuffer: await response.arrayBuffer(),
+            fileName: response.headers.get('X-File-Name') || 'latest-master.xlsx',
+            sourceUrl: response.headers.get('X-Source-Url') || ''
+        };
+    }
+
+    function parseMasterArrayBuffer(arrayBuffer, sourceName, sourceUrl) {
+        const data = new Uint8Array(arrayBuffer);
+        // XLSX は CDNから読み込み済みです。Excelを2次元配列へ変換して、既存の更新処理に渡します。
+        const workbook = XLSX.read(data, {type: 'array'});
+        const firstSheetName = workbook.SheetNames[0];
+        const worksheet = workbook.Sheets[firstSheetName];
+        const json = XLSX.utils.sheet_to_json(worksheet, {header: 1}); // 2次元配列
+
+        const updatedCount = updateGenericsFromMaster(json, sourceName);
+        const sourceLink = sourceUrl ? `（取得元: ${sourceUrl}）` : '';
+        masterFileNameDisplay.textContent = `更新完了: ${sourceName} / ${updatedCount} 件 ${sourceLink}`;
+    }
+
+    function updateGenericsFromMaster(rows, sourceName = 'マスターデータ') {
         let headerRowIdx = -1;
         let yjColIdx = -1;
         let typeColIdx = -1;
@@ -193,9 +237,10 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         });
 
-        alert(`マスターデータの読み込みが完了しました！\n${updatedCount} 件のお薬の「後発品区分」を最新の状態に更新しました。`);
+        alert(`${sourceName} の読み込みが完了しました！\n${updatedCount} 件のお薬の「後発品区分」を最新の状態に更新しました。`);
         calculateBaseRate();
         renderTable();
+        return updatedCount;
     }
 
     function parseCSVLine(text) {
@@ -308,6 +353,7 @@ document.addEventListener('DOMContentLoaded', () => {
         calculateBaseRate();
         renderTable();
         
+        simulationWorkspace.classList.remove('hidden');
         dashboard.classList.remove('hidden');
         drugListSection.classList.remove('hidden');
     }
