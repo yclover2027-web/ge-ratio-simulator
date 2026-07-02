@@ -1,0 +1,12 @@
+.git
+.agents
+.env.local
+.vercel
+node_modules
+server.mjs
+start_app.bat
+*.csv
+*.xlsx
+amlo.txt
+debug_out.json
+headers.json
