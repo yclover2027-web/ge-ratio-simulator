@@ -154,7 +154,6 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         const exactMap = new Map();
-        const prefix9Map = new Map();
 
         for (let i = headerRowIdx + 1; i < rows.length; i++) {
             const row = rows[i];
@@ -164,16 +163,9 @@ document.addEventListener('DOMContentLoaded', () => {
             let typeStr = String(row[typeColIdx] || '').trim();
             if (!yjStr || yjStr.length < 9) continue;
             
-            // 1. 12桁の完全一致用に登録
+            // YJコードの完全一致だけで登録します。
+            // 前方一致は別規格や別品目へ寄る危険があるため、後発区分の上書きには使いません。
             exactMap.set(yjStr, typeStr);
-
-            // 2. 前方9桁の共通マッチ用に登録
-            const yj9 = yjStr.substring(0, 9);
-            if (!prefix9Map.has(yj9)) {
-                prefix9Map.set(yj9, []);
-            }
-            // 9桁マッチングでは重複を避けるため、YJコード自体を持たせておく
-            prefix9Map.get(yj9).push({ yj: yjStr, type: typeStr });
         }
 
         let updatedCount = 0;
@@ -185,24 +177,10 @@ document.addEventListener('DOMContentLoaded', () => {
             
             let matchedType = null;
             
-            // ① 12桁の完全一致
+            // YJコードが完全一致した場合のみ、Excelの後発区分で上書きします。
+            // 薬品名やYJコードの前方一致では紐づけません。
             if (exactMap.has(csvYj)) {
                 matchedType = exactMap.get(csvYj);
-            } else {
-                // ② 完全一致しない場合、前方9桁で照合
-                const yj9 = csvYj.substring(0, 9);
-                const candidates = prefix9Map.get(yj9) || [];
-                
-                if (candidates.length === 1) {
-                    matchedType = candidates[0].type;
-                } else if (candidates.length > 1) {
-                    // ③ 複数の候補が出る場合は、前方11桁での照合を試みる
-                    const yj11 = csvYj.substring(0, 11);
-                    const match11 = candidates.find(c => c.yj.substring(0, 11) === yj11);
-                    if (match11) {
-                        matchedType = match11.type;
-                    }
-                }
             }
             
             if (matchedType !== null) {
