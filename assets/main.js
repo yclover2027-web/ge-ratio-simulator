@@ -206,33 +206,14 @@ document.addEventListener('DOMContentLoaded', () => {
             }
             
             if (matchedType !== null) {
-                // マッチした区分で更新する
-                // 空白の場合は分かりやすく表示する
-                drug.genericType = matchedType === '' ? '空白 (Excel上書き)' : matchedType + ' (Excel上書き)';
-                drug.isGeneric = false;
-                drug.isOriginalWithGeneric = false;
-                drug.badgeClass = 'badge-other';
-                drug.typeLabel = 'その他';
-
-                if (matchedType.includes('3') || matchedType.includes('３') || matchedType.includes('後発品')) {
-                    drug.isGeneric = true;
-                    drug.badgeClass = 'badge-generic';
-                    drug.typeLabel = '後発品';
-                } else if (matchedType.includes('2') || matchedType.includes('２') || matchedType.includes('先発品(後発あり)') || matchedType.includes('先発（後発あり）')) {
-                    drug.isOriginalWithGeneric = true;
-                    drug.badgeClass = 'badge-original';
-                    drug.typeLabel = '先発品(後発あり)';
-                } else if (matchedType.includes('★') || matchedType.includes('☆') || matchedType === '') {
-                    drug.isGeneric = false;
-                    drug.isOriginalWithGeneric = false;
-                    drug.badgeClass = 'badge-other';
-                    drug.typeLabel = '対象外(特例/空白)';
-                } else if (matchedType.includes('1') || matchedType.includes('１') || matchedType.includes('先発')) {
-                    drug.isGeneric = false;
-                    drug.isOriginalWithGeneric = false;
-                    drug.badgeClass = 'badge-other';
-                    drug.typeLabel = '先発品(後発なし)';
-                }
+                // Excelの区分は「1」「2」「3」「★」「☆」「空白」を厳密に扱います。
+                // YJコードや日付など別列の「3」を拾って後発品扱いにしないため、部分一致では判定しません。
+                const masterType = classifyMasterGenericType(matchedType);
+                drug.genericType = masterType.genericType;
+                drug.isGeneric = masterType.isGeneric;
+                drug.isOriginalWithGeneric = masterType.isOriginalWithGeneric;
+                drug.badgeClass = masterType.badgeClass;
+                drug.typeLabel = masterType.typeLabel;
                 updatedCount++;
             }
         });
@@ -241,6 +222,59 @@ document.addEventListener('DOMContentLoaded', () => {
         calculateBaseRate();
         renderTable();
         return updatedCount;
+    }
+
+    function classifyMasterGenericType(rawType) {
+        const normalizedType = normalizeMasterType(rawType);
+        const displayType = normalizedType === '' ? '空白' : normalizedType;
+        const baseResult = {
+            genericType: `${displayType} (Excel上書き)`,
+            isGeneric: false,
+            isOriginalWithGeneric: false,
+            badgeClass: 'badge-other',
+            typeLabel: 'その他'
+        };
+
+        if (normalizedType === '3' || normalizedType.startsWith('3:') || normalizedType === '後発品') {
+            return {
+                ...baseResult,
+                isGeneric: true,
+                badgeClass: 'badge-generic',
+                typeLabel: '後発品'
+            };
+        }
+
+        if (normalizedType === '2' || normalizedType.startsWith('2:') || normalizedType === '先発品(後発あり)' || normalizedType === '先発（後発あり）') {
+            return {
+                ...baseResult,
+                isOriginalWithGeneric: true,
+                badgeClass: 'badge-original',
+                typeLabel: '先発品(後発あり)'
+            };
+        }
+
+        if (normalizedType === '1' || normalizedType.startsWith('1:') || normalizedType === '先発品(後発なし)') {
+            return {
+                ...baseResult,
+                typeLabel: '先発品(後発なし)'
+            };
+        }
+
+        if (normalizedType === '★' || normalizedType === '☆') {
+            return {
+                ...baseResult,
+                typeLabel: '対象外(特例)'
+            };
+        }
+
+        return baseResult;
+    }
+
+    function normalizeMasterType(rawType) {
+        return String(rawType ?? '')
+            .replace(/[０-９]/g, char => String.fromCharCode(char.charCodeAt(0) - 0xFEE0))
+            .replace(/\s+/g, '')
+            .trim();
     }
 
     function parseCSVLine(text) {
